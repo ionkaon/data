@@ -26,6 +26,7 @@
 过云雨	kou yun yu	天文	4
 胭脂红	i ci ghon	天文	4
 雾露	vu lu	天文	4
+雾露	wu lu	天文	4
 雪眼	syuq ngae	天文	4
 雪子	syuq tsy	天文	4
 烂雪片	lae syuq phi	天文	4
@@ -916,8 +917,11 @@
 屙朴	ou phoq	称谓	31
 屙䨣	ou phoq	称谓	31
 灶跟无赖	tsau ken vu la	称谓	31
+灶跟无赖	tsau ken wu la	称谓	31
 灶前无赖	tsau zhi vu la	称谓	31
+灶前无赖	tsau zhi wu la	称谓	31
 屋里无赖	oq li vu la	称谓	31
+屋里无赖	oq li wu la	称谓	31
 大佛	dou baq	称谓	31
 大白	dou baq	称谓	31
 烂泥菩萨	na gni bu saq	称谓	31
@@ -3603,6 +3607,7 @@
 阳珓	yan kau	其他	120
 圣珓	shin kau	其他	131
 无常	vu dzaon	其他	131
+无常	wu dzaon	其他	131
 活鬼	waq ciu	其他	131
 河水鬼	ghou syu ciu	其他	131
 吊煞鬼	tiau saq ciu	其他	131
@@ -5191,6 +5196,7 @@
 甚多没少	zhin tou maq shiau	形态	223
 呒告多少	mh kau tou shiau	形态	223
 无千大万	vu chi da vae	形态	223
+无千大万	wu chi da vae	形态	223
 行情行市	ghaon jin ghaon zy	形态	223
 有多有少	yeu tou yeu shiau	形态	223
 人多人势	gnin tou gnin syu	形态	224
@@ -5483,6 +5489,7 @@
 哭作面貌	khoq tsoq mi mau	形态	236
 哭作环脸	khoq tsoq wae li	形态	236
 哭作无赖	khoq tsoq vu la	形态	236
+哭作无赖	khoq tsoq wu la	形态	236
 青大肿	chin dou tson	形态	236
 青肿	chin tson	形态	236
 血出糊剌	shiuq tshyuq wu la	形态	236
@@ -5540,6 +5547,7 @@
 热石	gniq zaq	性质	239
 热络	gniq loq	性质	239
 务心	vu shin	性质	239
+务心	wu shin	性质	239
 勤力	jin liq	性质	239
 巴结	po ciq	性质	239
 恳苦	khen khu	性质	239
@@ -5607,6 +5615,7 @@
 旺旺动	waon waon don	性质	243
 旺七旺八	waon chiq waon paq	性质	243
 旺三无程	waon sae vu jin	性质	243
+旺三无程	waon sae wu jin	性质	243
 旺兴夹结	waon shin kaq ciq	性质	243
 旺兴结夹	waon shin ciq kaq	性质	243
 旺兴带烂泥	waon shin ta na gni	性质	243
@@ -5637,6 +5646,7 @@
 背时背得	bei zy bei taq	性质	244
 屙背出	ou bei tshyuq	性质	244
 神志无知	zyun tsy vu tsyu	性质	244
+神志无知	zyun tsy wu tsyu	性质	244
 神经稀稀	zyun cin shi shi	性质	244
 尊	tsen1	性质	244
 鲜索	shi soq	性质	244
@@ -5886,6 +5896,7 @@
 乌风猛暴	u fon man pau	性质	257
 雨毛其其	yu mau ji ji	性质	257
 雾露且且	vu lu chia chia	性质	257
+雾露且且	wu lu chia chia	性质	257
 窝风	ou fon	性质	257
 斗风	teu fon	性质	257
 斗水	teu syu	性质	257
@@ -6160,6 +6171,7 @@
 贴色做样	thiaq saq tsou yan	性质	270
 贴色做号	thiaq saq tsou ghau	性质	270
 贴色无离	thiaq saq vu li	性质	270
+贴色无离	thiaq saq wu li	性质	270
 贴色葫芦	thiaq saq wu lu	性质	270
 各样	koq yan	性质	270
 各号	koq ghau	性质	270
@@ -6175,7 +6187,9 @@
 脚碰脚	ciaq ban ciaq	性质	271
 脚上脚落	ciaq zaon ciaq loq	性质	271
 差来无去	tsho le vu chi	性质	271
+差来无去	tsho le wu chi	性质	271
 差来无几	tsho le vu ci	性质	271
+差来无几	tsho le wu ci	性质	271
 差咋勿多	tsho dza vaq tou	性质	271
 差勿多	tsho vaq tou	性质	271
 对半夹起	tei pun kaq chi	性质	271
@@ -6672,6 +6686,7 @@
 正式	cin shiq	副词	293
 是会	zy wei	副词	293
 老少无欺	lau shiau vu chi	副词	293
+老少无欺	lau shiau wu chi	副词	293
 断窍	doe chiau	副词	293
 断命	doe min	副词	293
 实货	zyuq hou	副词	293
@@ -7136,6 +7151,7 @@
 做小货	tsou shiau hou	短语	323
 装小货	tsaon shiau hou	短语	323
 做无赖	tsou vu la	短语	323
+做无赖	tsou wu la	短语	323
 做主意	tsou tsyu i	短语	323
 抲主意	kho tsyu i	短语	323
 做初一	tsou tshu iq	短语	323
