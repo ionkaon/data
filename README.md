@@ -1,6 +1,9 @@
 # 寧波方言資料整理
 
-
+- [《阿拉宁波话(修订版)》索引](https://github.com/shinzoqchiuq/gninpou-dialect#阿拉宁波话修订版索引)
+- [The Ningpo Syllabary](https://github.com/shinzoqchiuq/gninpou-dialect#The-Ningpo-Syllabary)
+- [字表寧波話](https://github.com/shinzoqchiuq/gninpou-dialect#字表寧波話)
+- [《寧波方言詞典》詞條（未完成）](https://github.com/shinzoqchiuq/gninpou-dialect#寧波方言詞典詞條未完成)
 
 ## 《阿拉宁波话(修订版)》索引
 
