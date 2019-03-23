@@ -2,7 +2,6 @@
 
 - [《阿拉宁波话(修订版)》索引](https://github.com/shinzoqchiuq/gninpou-dialect#阿拉宁波话修订版索引)
 - [The Ningpo Syllabary](https://github.com/shinzoqchiuq/gninpou-dialect#The-Ningpo-Syllabary)
-- [字表寧波話](https://github.com/shinzoqchiuq/gninpou-dialect#字表寧波話)
 - [《寧波方言詞典》詞條（未完成）](https://github.com/shinzoqchiuq/gninpou-dialect#寧波方言詞典詞條未完成)
 
 ## 《阿拉宁波话(修订版)》索引
@@ -13,7 +12,7 @@
 
 > 本书与初版一样，有一个缺陷，就是没有索引，因为本书不是词典性质的，内容丰富多彩，制作索引既很困难，又占篇幅。没有索引，不便检索书中的方言词、短语、谚语等，会给读者带来不便，对此，我们表示歉意。
 
-文件`《阿拉宁波话(修订版)》索引.tsv`爲《阿拉宁波话(修订版)》中的方言詞和短語製作了索引。
+文件[`《阿拉宁波话(修订版)》索引.tsv`](《阿拉宁波话(修订版)》索引.tsv)爲《阿拉宁波话(修订版)》中的方言詞和短語製作了索引。
 
 文件共分爲四列，列與列之間使用tab鍵隔開。第一列爲詞彙的詞頭，第二列爲吳語拼音，第三列是分類，第四列是該詞條所在的頁碼。使用者可以用文本編輯器的搜索功能來查詢詞條，再通過相應的頁碼找到詞條在原書中的位置。
 
@@ -27,7 +26,7 @@
 
 《The Ningpo Syllabary》出版於1901年，作者是德國語言學家[穆麟德](https://en.wikipedia.org/wiki/Paul_Georg_von_Möllendorff)\(P. G. von Möllendorff\)。其中同音字表部分爲夏清瑞在穆麟德的指導下完成。書中採用了[丁韙良](https://en.wikipedia.org/wiki/William_Alexander_Parsons_Martin)等人在1951年創制的一套寧波話拼音，並在引言中對這套拼音做了詳細的描述。
 
-文件`The_Ningpo_Syllabary.txt`中抄錄了原書第1頁～第54頁的同音字表。
+文件[`The_Ningpo_Syllabary.txt`](The_Ningpo_Syllabary.txt)中抄錄了原書第1頁～第54頁的同音字表。
 
 書中拼音首字母均用大寫，抄錄時全部改爲小寫。
 
