@@ -2,7 +2,7 @@
 
 - [《阿拉宁波话(修订版)》索引](https://github.com/shinzoqchiuq/gninpou-dialect#阿拉宁波话修订版索引)
 - [The Ningpo Syllabary](https://github.com/shinzoqchiuq/gninpou-dialect#The-Ningpo-Syllabary)
-- [《寧波方言詞典》詞條（未完成）](https://github.com/shinzoqchiuq/gninpou-dialect#寧波方言詞典詞條未完成)
+- [《寧波方言詞典》詞條](https://github.com/shinzoqchiuq/gninpou-dialect#寧波方言詞典詞條)
 
 ## 《阿拉宁波话(修订版)》索引
 
@@ -30,7 +30,7 @@
 
 書中拼音首字母均用大寫，抄錄時全部改爲小寫。
 
-書中有部分漢字未被收錄到Unicode中，抄錄時使用IDC來表示。
+書中有部分漢字未被收錄到Unicode中，抄錄時使用[IDC](https://en.wikipedia.org/wiki/Ideographic_Description_Characters_(Unicode_block))來表示。
 
 書中有部分音節收字有重複，在抄錄過程中刪去了這些重複收錄的字。
 
@@ -51,7 +51,12 @@
 
 需要注意的是，拼音方案裏表示濁音或送氣的符號並非引號，而是[粗氣符](https://en.wikipedia.org/wiki/Rough_breathing)「ʽ」。在抄錄時未對其做改動。
 
-## 《寧波方言詞典》詞條（未完成）
+## 《寧波方言詞典》詞條
 
-- [x] 詞頭
-- [ ] 讀音
+文件[`《寧波方言詞典》詞條.tsv`](《寧波方言詞典》詞條.tsv)整理了江蘇教育版《寧波方言詞典》中的詞條。
+
+文件共分爲四列，第一列是整理爲[OpenCC](https://opencc.byvoid.com/)標準的詞頭，第二列是原書書中的詞頭，第三列爲簡體，第四列是詞語對應的吳語拼音。多字詞的聲調尚未整理，故現在只有單字詞有標註聲調。
+
+書中未被Unicode收錄的生僻字，使用[IDC](https://en.wikipedia.org/wiki/Ideographic_Description_Characters_(Unicode_block))表示。
+
+書中在字下面加小圓圈來表示同音替代，文件內使用在字後面加「○」的方式表示。
