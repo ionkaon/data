@@ -60,3 +60,9 @@
 書中未被Unicode收錄的生僻字，使用[IDC](https://en.wikipedia.org/wiki/Ideographic_Description_Characters_(Unicode_block))表示。
 
 書中在字下面加小圓圈來表示同音替代，文件內使用在字後面加「○」的方式表示。
+
+## 反饋
+
+限於本人水平，整理的資料中難免會有錯漏。如果使用者有任何問題或是發現了任何錯誤，歡迎提交[issue](https://github.com/shinzoqchiuq/gninpou-dialect/issues)，或是通過以下郵箱直接與我聯繫。
+
+本人郵箱：1613023143@qq.com
