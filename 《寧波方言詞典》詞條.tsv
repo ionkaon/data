@@ -156,7 +156,7 @@
 支	支	支	tsyu1
 硃紅	朱紅	朱红	tsyu ghon
 侏	侏	侏	tsyu1
-侏慄	侏栗	侏栗	tsyu liq
+侏栗	侏栗	侏栗	tsyu liq
 炷	炷	炷	tsyu1
 珠花	珠花	珠花	tsyu huo
 株	株	株	tsyu1
@@ -367,7 +367,7 @@
 皮	皮	皮	bi2
 皮頓頓	皮頓頓	皮顿顿	bi ten ten
 皮榨榨	皮榨榨	皮榨榨	bi tso tso
-皮子面	皮子麵	皮子面	bi tsy mi
+皮子麪	皮子麵	皮子面	bi tsy mi
 皮靴	皮靴	皮靴	bi shiu
 皮大衣	皮大衣	皮大衣	bi da i
 皮大王	皮大王	皮大王	bi da waon
@@ -694,9 +694,9 @@
 地㽘	地㽘	地㽘	di gaon
 地坪	地坪	地坪	di bin
 地腳印	地腳印	地脚印	di ciaq in
-地袱	地袱	地袱	di boq
-地袱踏穿	地袱踏穿	地袱踏穿	di boq daq tshoe
-地袱𨂝穿	地袱𨂝穿	地袱𨂝穿	di boq bae tshoe
+地栿	地栿	地栿	di boq
+地栿踏穿	地栿踏穿	地栿踏穿	di boq daq tshoe
+地栿𨂝穿	地栿𨂝穿	地栿𨂝穿	di boq bae tshoe
 地作貨	地作貨	地作货	di tsoq hou
 地鱉蟲	地鱉蟲	地鳖虫	di piq dzon
 地栗	地栗	地栗	di liq
@@ -721,7 +721,7 @@
 簟匠	簟匠	簟匠	di zhian
 連底凍	連底凍	连底冻	li ti ton
 連兼	連兼	连兼	li ci
-連爹連娘	連爹連娘	连爹连娘	li tia li gnian
+連爹連孃	連爹連娘	连爹连娘	li tia li gnian
 連刀塊	連刀塊	连刀块	li tau khuei
 連牢	連牢	连牢	li lau
 連衫裙	連衫裙	连衫裙	li sae jiun
@@ -738,7 +738,7 @@
 犁柄	犁柄	犁柄	li pin
 犁梢尾巴	犁梢尾巴	犁梢尾巴	li sau mi po
 犁梢尾巴	犁梢尾巴	犁梢尾巴	li sau ng po
-犁衝○	犁沖○	犁冲○	li tshon
+犁沖○	犁沖○	犁冲○	li tshon
 犁身	犁身	犁身	li shin
 蓮子調羹	蓮子調羹	莲子调羹	li tsy diau kan
 蓮子飯碗	蓮子飯碗	莲子饭碗	li tsy vae un
@@ -955,7 +955,7 @@
 𢺵歪	𢺵歪	𢺵歪	ji hua
 𢺵笡	𢺵笡	𢺵笡	ji chia
 𢺵頭	𢺵頭	𢺵头	ji deu
-歧頭鵝	歧頭鵝	歧头鹅	ji deu ngou
+𢺵頭鵝	𢺵頭鵝	𢺵头鹅	ji deu ngou
 忌嘴	忌嘴	忌嘴	ji tsyu
 忌日羹飯	忌日羹飯	忌日羹饭	ji gniq kan vae
 忮	忮	忮	ji6
@@ -1627,7 +1627,7 @@
 㧦	㧦	㧦	shiu5
 玄色	玄色	玄色	yu saq
 圍巾	圍巾	围巾	yu cin
-圍身布欄	圍身布欄	围身布栏	yu shin pu lae
+圍身布襴	圍身布襴	围身布襕	yu shin pu lae
 圍裙	圍裙	围裙	yu jiun
 榆樹	榆樹	榆树	yu zyu
 圓	圓	圆	yu2
@@ -1723,7 +1723,7 @@
 買面子	買面子	买面子	ma mi tsy
 買賬	買賬	买账	ma cian
 買勿出	買勿出	买勿出	ma vaq tshyuq
-賣爹賣娘	賣爹賣孃	卖爹卖娘	ma tia ma gnian
+賣爹賣孃	賣爹賣孃	卖爹卖娘	ma tia ma gnian
 賣野人頭	賣野人頭	卖野人头	ma ya gnin deu
 賣相	賣相	卖相	ma shian
 賣旺	賣旺	卖旺	ma waon
@@ -1734,7 +1734,7 @@
 帶孝	帶孝	带孝	ta hau
 帶豆	帶豆	带豆	ta deu
 帶信	帶信	带信	ta shin
-帶發尼姑	帶髮尼姑	带发尼姑	ta faq gni ku
+帶髮尼姑	帶髮尼姑	带发尼姑	ta faq gni ku
 帶魚	帶魚	带鱼	ta ng
 戴高帽子	戴高帽子	戴高帽子	ta kau mau tsy
 它山堰	它山堰	它山堰	tha sae i
@@ -2093,8 +2093,8 @@
 懷裏	懷裏	怀里	gua li
 歪	歪	歪	hua3
 歪嘴	歪嘴	歪嘴	hua tsyu
-歪嘴闢得	歪嘴辟得	歪嘴辟得	hua tsyu phiq taq
-歪嘴闢腳	歪嘴辟腳	歪嘴辟脚	hua tsyu phiq ciaq
+歪嘴辟得	歪嘴辟得	歪嘴辟得	hua tsyu phiq taq
+歪嘴辟腳	歪嘴辟腳	歪嘴辟脚	hua tsyu phiq ciaq
 歪笡	歪笡	歪笡	hua chia
 歪七𢺵八	歪七𢺵八	歪七𢺵八	hua chiq ji paq
 還好	還好	还好	wa hau
@@ -2140,7 +2140,7 @@
 泡飯	泡飯	泡饭	phau vae
 泡湯	泡湯	泡汤	phau thaon
 泡桐	泡桐	泡桐	phau don
-泡○衝○	泡○沖○	泡○冲○	phau tshon
+泡○沖○	泡○沖○	泡○冲○	phau tshon
 泡沫	泡沫	泡沫	phau maq
 炮	炮	炮	phau5
 炮仗	炮仗	炮仗	phau jian
@@ -2286,7 +2286,7 @@
 鬧○	鬧○	闹○	nau6
 鬧新房	鬧新房	闹新房	nau shin vaon
 鬧鐘	鬧鐘	闹钟	nau tson
-閙熱	閙熱	閙热	nau gniq
+鬧熱	閙熱	閙热	nau gniq
 撈	撈	捞	lhau1
 牢	牢	牢	lau2
 牢監	牢監	牢监	lau kae
@@ -2329,7 +2329,7 @@
 老老	老老	老老	lau lau
 老長	老長	老长	lau jian
 老早	老早	老早	lau tsau
-老早百里	老早百裏	老早百里	lau tsau paq li
+老早百裏	老早百裏	老早百里	lau tsau paq li
 老早百地	老早百地	老早百地	lau tsau paq di
 老酵	老酵	老酵	lau kau
 老價鈿	老價鈿	老价钿	lau ko di
@@ -2784,7 +2784,7 @@
 柞樹	柞樹	柞树	tso zyu
 柞蠶	柞蠶	柞蚕	tso zei
 搾	搾	搾	tso5
-榨面	榨麵	榨面	tso mi
+榨麪	榨麵	榨面	tso mi
 叉	叉	叉	tsho1
 叉肩胛	叉肩胛	叉肩胛	tsho ci kaq
 叉牌頭	叉牌頭	叉牌头	tsho ba deu
@@ -2973,7 +2973,7 @@
 我儂個	我儂個	我侬个	ngo nou goq
 砑	砑	砑	ngo6
 下	下	下	gho6
-下面	下麵	下面	gho mi
+下麪	下麵	下面	gho mi
 下點心	下點心	下点心	gho ti shin
 下點心	下點心	下点心	gho te shin
 下世	下世	下世	gho shi
@@ -3714,7 +3714,7 @@
 晚稻時	晚稻時	晚稻时	mae dau zy
 晚稻汛裏	晚稻汛裏	晚稻汛里	mae dau shin li
 晚頭	晚頭	晚头	mae deu
-晚娘	晚娘	晚娘	mae gnian
+晚孃	晚娘	晚娘	mae gnian
 晚青	晚青	晚青	mae chin
 晚稻	晚稻	晚稻	mae dau
 萬子	萬子	万子	mae tsy
@@ -4699,7 +4699,7 @@
 煤餅	煤餅	煤饼	mei pin
 黴千層	霉千層	霉千层	mei chi zen
 黴乾菜	霉乾菜	霉干菜	mei ki tshe
-黴頭脫腦	霉頭脱腦	霉头脱脑	mei deu thaq nau
+霉頭脫腦	霉頭脱腦	霉头脱脑	mei deu thaq nau
 黴豆腐	霉豆腐	霉豆腐	mei deu vu
 謎子	謎子	谜子	mei tsy
 妹妹	妹妹	妹妹	mhei mhei
@@ -5001,7 +5001,7 @@
 墓碑	墓碑	墓碑	mou pei
 多	多	多	tou1
 多嘴	多嘴	多嘴	tou tsyu
-多嘴活孫	多嘴活孫	多嘴活孙	tou tsyu waq sen
+多嘴活猻	多嘴活猻	多嘴活狲	tou tsyu waq sen
 多…連帳	多…連帳	多…连帐	tou li cian
 多老孃鈿	多老娘鈿	多老娘钿	tou lau gnian di
 多少	多少	多少	tou shiau
@@ -5978,7 +5978,7 @@
 兩瓜○生	兩瓜○生	两瓜○生	lian ko san
 兩家婆	兩家婆	两家婆	lian ko bou
 兩眼竈	兩眼竈	两眼灶	lian ngae tsau
-兩娘	兩娘	两娘	lian gnian
+兩孃	兩娘	两娘	lian gnian
 兩樣生	兩樣生	两样生	lian yan san
 兩樣	兩樣	两样	lian yan
 兩親家公	兩親家公	两亲家公	lian chin ko kon
@@ -6155,7 +6155,7 @@
 孃家	娘家	娘家	gnian ko
 孃舅	娘舅	娘舅	gnian jieu
 孃舅外甥	娘舅外甥	娘舅外甥	gnian jieu nga san
-娘戳屄	娘戳屄	娘戳屄	gnian tshoq pi
+孃戳屄	娘戳屄	娘戳屄	gnian tshoq pi
 仰死仰倒	仰死仰倒	仰死仰倒	gnian shi gnian tau
 相	相	相	shian1
 相思樹	相思樹	相思树	shian sy zyu
@@ -6211,7 +6211,7 @@
 向	向	向	shian5
 向天泅	向天泅	向天泅	shian thi jieu
 向天睏	向天睏	向天困	shian thi khuen
-向白藍	向白藍	向白蓝	shian baq lae
+向白籃	向白籃	向白篮	shian baq lae
 向日葵	向日葵	向日葵	shian zyuq guei
 相	相	相	shian5
 相勢	相勢	相势	shian syu
@@ -6328,7 +6328,7 @@
 橫豎橫	横豎横	横竖横	wan zyu wan
 橫裏	横裏	横里	wan li
 橫橫動	横横動	横横动	wan wan don
-橫蕭	横蕭	横萧	wan shiau
+橫簫	橫簫	横箫	wan shiau
 橫愛司頭	横愛司頭	横爱司头	wan e sy deu
 橫頭	横頭	横头	wan deu
 橫樑	横梁	横梁	wan lian
@@ -6366,7 +6366,7 @@
 望	望	望	maon6
 望遠鏡	望遠鏡	望远镜	maon yu cin
 望潮	望潮	望潮	maon jiau
-望娘盤	望娘盤	望娘盘	maon gnian bun
+望孃盤	望娘盤	望娘盘	maon gnian bun
 網	網	网	maon6
 網線袋	網綫袋	网线袋	maon shi de
 網油	網油	网油	maon yeu
@@ -6829,7 +6829,7 @@
 判官	判官	判官	phun kun
 盤	盤	盘	bun2
 盤	盤	盘	phun1
-盤面	盤麵	盘面	bun mi
+盤麪	盤麵	盘面	bun mi
 盤纏鈿	盤纏鈿	盘缠钿	bun ji di
 盤貨	盤貨	盘货	bun hou
 盤香紐	盤香紐	盘香纽	bun shian gnieu
@@ -7048,7 +7048,7 @@
 能可	能可	能可	nen khou
 能幹	能幹	能干	nen ki
 嫩	嫩	嫩	nen6
-嫰勢	嫰勢	嫰势	nen syu
+嫩勢	嫩勢	嫩势	nen syu
 嫩哀哀	嫩哀哀	嫩哀哀	nen e e
 嫩頭	嫩頭	嫩头	nen deu
 嫩相	嫩相	嫩相	nen shian
@@ -7859,13 +7859,13 @@
 動氣	動氣	动气	don chi
 動土	動土	动土	don thu
 動手	動手	动手	don shieu
-動夥	動伙	动伙	don hou
+動伙	動伙	动伙	don hou
 桶	桶	桶	don6
 桶耳朵皮	桶耳朵皮	桶耳朵皮	don ng to bi
 桶耳朵皮	桶耳朵皮	桶耳朵皮	don gni to bi
 筒	筒	筒	don6
 筒子	筒子	筒子	don tsy
-筒頭面	筒頭麵	筒头面	don deu mi
+筒頭麪	筒頭麵	筒头面	don deu mi
 襛	襛	襛	nhon1
 膿線頭	膿綫頭	脓线头	non shi deu
 齆	齆	齆	nhon5
@@ -7940,10 +7940,10 @@
 充○手	充○手	充○手	tshon shieu
 充公	充公	充公	tshon kon
 沖天炮	沖天炮	冲天炮	tshon thi phau
-衝口出	沖口出	冲口出	tshon kheu tshyuq
-衝賬	沖賬	冲账	tshon cian
-衝場	沖場	冲场	tshon jian
-衝熱水瓶	沖熱水瓶	冲热水瓶	tshon gniq syu bin
+沖口出	沖口出	冲口出	tshon kheu tshyuq
+沖賬	沖賬	冲账	tshon cian
+沖場	沖場	冲场	tshon jian
+沖熱水瓶	沖熱水瓶	冲热水瓶	tshon gniq syu bin
 蔥	葱	葱	tshon1
 蔥花	葱花	葱花	tshon huo
 蔥油餅	葱油餅	葱油饼	tshon yeu pin
@@ -8450,7 +8450,7 @@
 蠟燭巴釘	蠟燭巴釘	蜡烛巴钉	laq tsoq po tin
 蠟燭臺	蠟燭臺	蜡烛台	laq tsoq de
 蠟燭頭	蠟燭頭	蜡烛头	laq tsoq deu
-蠟酒壺	蠟酒壺	蜡酒壶	laq cieu wu
+鑞酒壺	鑞酒壺	镴酒壶	laq cieu wu
 鑞匠	鑞匠	镴匠	laq zhian
 鑞○白	鑞○白	镴○白	laq baq
 扎○	扎○	扎○	tsaq7
@@ -9333,7 +9333,7 @@
 戳戳動	戳戳動	戳戳动	tshoq tshoq don
 戳人勒色	戳人勒色	戳人勒色	tshoq gnin laq saq
 戳壁腳	戳壁腳	戳壁脚	tshoq piq ciaq
-觸黴頭	觸霉頭	触霉头	tshoq mei deu
+觸霉頭	觸霉頭	触霉头	tshoq mei deu
 妯娌	妯娌	妯娌	dzoq li
 逐魂	逐魂	逐魂	dzoq wen
 逐節	逐節	逐节	dzoq ciq
@@ -9376,7 +9376,7 @@
 啥西	啥西	啥西	so shi
 雪	雪	雪	soq7
 雪子	雪子	雪子	soq tsy
-雪面	雪麵	雪面	soq mi
+雪麪	雪麵	雪面	soq mi
 雪裏蕻	雪裏蕻	雪里蕻	soq li hon
 雪裏紅	雪裏紅	雪里红	soq li ghon
 雪花粉	雪花粉	雪花粉	soq huo fen
@@ -9554,8 +9554,8 @@
 吃進	喫進	吃进	chioq cin
 吃白食	喫白食	吃白食	chioq baq zhiq
 吃沒	喫没	吃没	chioq maq
-吃發郎	喫髮郎	吃发郎	chioq faq laon
-吃發頭郎	喫髮頭郎	吃发头郎	chioq faq deu laon
+吃髮郎	喫髮郎	吃发郎	chioq faq laon
+吃髮頭郎	喫髮頭郎	吃发头郎	chioq faq deu laon
 吃勿落	喫勿落	吃勿落	chioq vaq loq
 吃勒落	喫勒落	吃勒落	chioq laq loq
 吃夾餅	喫夾餅	吃夹饼	chioq kaq pin
@@ -9687,11 +9687,11 @@
 蜜糖	蜜糖	蜜糖	miq daon
 蜜蜂	蜜蜂	蜜蜂	miq fon
 蜜筒瓜	蜜筒瓜	蜜筒瓜	miq don ko
-蔑牑	蔑牑	蔑牑	miq bi
-蔑青	蔑青	蔑青	miq chin
-蔑白	蔑白	蔑白	miq baq
-蔑竹	蔑竹	蔑竹	miq tsoq
-篾席	篾席	篾席	miq zhiq
+篾牑	篾牑	篾牑	miq bi
+篾青	篾青	篾青	miq chin
+篾白	篾白	篾白	miq baq
+篾竹	篾竹	篾竹	miq tsoq
+篾蓆	篾席	篾席	miq zhiq
 扚	扚	扚	tiq7
 的	的	的	tiq7
 的仔	的仔	的仔	tiq tsy
@@ -10042,7 +10042,7 @@
 一眼眼	一眼眼	一眼眼	iq ngae ngae
 一眼一沰	一眼一沰	一眼一沰	iq ngae iq toq
 一眼嘸告	一眼嘸告	一眼呒告	iq ngae mh kau
-一轉一回	一轉一回	一转一回	iq tsoe iq wei
+一轉一迴	一轉一回	一转一回	iq tsoe iq wei
 一進一出	一進一出	一进一出	iq cin iq tshyuq
 一來一去	一來一去	一来一去	iq le iq chi
 一手落	一手落	一手落	iq shieu loq
@@ -10194,9 +10194,9 @@
 出窠孃	出窠娘	出窠娘	tshyuq khou gnian
 出頭	出頭	出头	tshyuq deu
 出頭椽子	出頭椽子	出头椽子	tshyuq deu dzoe tsy
-出頭發	出頭髮	出头发	tshyuq deu faq
+出頭髮	出頭髮	出头发	tshyuq deu faq
 出賬	出賬	出账	tshyuq cian
-出搶花	出搶花	出抢花	tshyuq chian huo
+出槍花	出槍花	出枪花	tshyuq chian huo
 出洋相	出洋相	出洋相	tshyuq yan shian
 出榜	出榜	出榜	tshyuq paon
 出喪	出喪	出丧	tshyuq saon
@@ -10275,7 +10275,7 @@
 嘸落頭	嘸落頭	呒落头	mh loq deu
 嘸腳蟹	嘸腳蟹	呒脚蟹	mh ciaq ha
 嘸腳色	嘸腳色	呒脚色	mh ciaq saq
-嘸腳活孫	嘸腳活孫	呒脚活孙	mh ciaq waq sen
+嘸腳活猻	嘸腳活猻	呒脚活狲	mh ciaq waq sen
 嘸腳力	嘸腳力	呒脚力	mh ciaq liq
 嘸說話	嘸說話	呒说话	mh soq wo
 嘸話嘸說	嘸話嘸說	呒话呒说	mh wo mh soq
