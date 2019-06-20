@@ -65,7 +65,7 @@
 
 《鄞縣通志》原書詞彙讀音使用注音符號標註，原書爲適應寧波音系，制定了幾個擴展注音符號。這些符號未被Unicode收錄，故[`《鄞縣通志》詞彙索引.txt`](《鄞縣通志》詞彙索引.txt)中的使用吳語拼音來標註讀音。音系與拼音方案如下：
 
-![《鄞縣通志》音系](《鄞縣通志》音系.png)
+![《鄞縣通志》音系](https://raw.githubusercontent.com/shinzoqchiuq/gninpou-dialect/master/《鄞縣通志》音系.png)
 
 ## 反饋
 
