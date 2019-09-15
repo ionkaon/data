@@ -351,19 +351,251 @@
 姨姨	yi yi	人稱	2787
 爺爺	ya ya	人稱	2787
 阿爺	aq ya	人稱	2787
-娘娘	gnian gnian	人稱	2789
-阿娘	aq gnian	人稱	2789
-太公	tha kon	人稱	2789
-太婆	tha bou	人稱	2789
-老儂	lau gniun	人稱	2789
-（老𡢿）	lau gniun	人稱	2789
-（老㑮）	lau gniun	人稱	2789
-（老耦）	lau gniun	人稱	2789
-（老偶）	lau gniun	人稱	2789
-女人	gniu gnin	人稱	2789
-小老𡢿	siau lau gniun	人稱	2789
-（小老耦）	siau lau gniun	人稱	2789
-小	siau3	人稱	2789
-阿姨	aq yi	人稱	2789
-（阿姬）	aq yi	人稱	2789
-（阿㜎）	aq yi	人稱	2789
+娘娘	gnian gnian	人稱	2788
+阿娘	aq gnian	人稱	2788
+太公	tha kon	人稱	2788
+太婆	tha bou	人稱	2788
+老儂	lau gniun	人稱	2788
+（老𡢿）	lau gniun	人稱	2788
+（老㑮）	lau gniun	人稱	2788
+（老耦）	lau gniun	人稱	2788
+（老偶）	lau gniun	人稱	2788
+女人	gniu gnin	人稱	2788
+小老𡢿	siau lau gniun	人稱	2788
+（小老耦）	siau lau gniun	人稱	2788
+小	siau3	人稱	2788
+阿姨	aq yi	人稱	2788
+（阿姬）	aq yi	人稱	2788
+（阿㜎）	aq yi	人稱	2788
+老公	lau kon	人稱	2789
+男人	nein gnin	人稱	2789
+男𡢿	nein gniun	人稱	2789
+（男耦）	nein gniun	人稱	2789
+阿姐	aq tsia	人稱	2789
+妹妹	mhei mhei	人稱	2789
+阿妹	aq mei	人稱	2789
+弟新婦	di sin vu	人稱	2789
+（弟媳婦）	di sin vu	人稱	2789
+兒子	ng tsy	人稱	2789
+（囝子）	ng tsy	人稱	2789
+（妮子）	ng tsy	人稱	2789
+女	noen	人稱	2789
+（囡）	noen	人稱	2789
+（媛）	noen	人稱	2789
+（懦）	noen	人稱	2789
+（拏）	noen	人稱	2789
+新婦	sin vu	人稱	2790
+（媳婦）	sin vu	人稱	2790
+（息婦）	sin vu	人稱	2790
+女孫	no su	人稱	2790
+（囡孫）	no su	人稱	2790
+（囡疏）	no su	人稱	2790
+（奼孫）	no su	人稱	2790
+（娜孫）	no su	人稱	2790
+（妠孫）	no su	人稱	2790
+伯伯	paq pan	人稱	2790
+叔叔	soq son	人稱	2790
+阿叔	aq soq	人稱	2790
+阿叔	aq son	人稱	2790
+阿姆	an m	人稱	2791
+阿嬸	aq sin	人稱	2791
+姑媽	ku mha	人稱	2791
+阿姑	aq ku	人稱	2791
+姑丈	ku dzian	人稱	2791
+公公	kon kon	人稱	2791
+婆婆	bou bou	人稱	2791
+外公	nga kon	人稱	2791
+外婆	nga bou	人稱	2791
+舅舅	jieu jieu	人稱	2791
+娘舅	gnin jieu	人稱	2791
+舅姆	jieu m	人稱	2791
+（舅母）	jieu m	人稱	2791
+姨媽	yi mha	人稱	2791
+阿姨	aq yi	人稱	2792
+姨丈	yi dzian	人稱	2792
+丈人	dzian gnin	人稱	2792
+丈人阿伯	dzian gnin aq paq	人稱	2792
+丈姆	dzian m	人稱	2792
+丈姆娘	dzian m gnian	人稱	2792
+阿舅	aq jieu	人稱	2792
+阿姨	aq yi	人稱	2792
+小姨	siau yi	人稱	2792
+姨丈	yi dzian	人稱	2792
+連襟	lien cin	人稱	2792
+親家公	tshin ko kon	人稱	2792
+親家姆	tshin ko m	人稱	2792
+公公	kon kon	人稱	2792
+阿公	aq kon	人稱	2792
+（阿妐）	aq kon	人稱	2792
+娘娘	gnian gnian	人稱	2792
+阿婆	aq bou	人稱	2792
+（婆婆）	bou bou	人稱	2792
+阿伯	aq pan	人稱	2793
+大伯	dou pan	人稱	2793
+阿叔	aq son	人稱	2793
+小叔	siau son	人稱	2793
+叔伯姆	soq pan m	人稱	2793
+妯娌	dzoq li	人稱	2793
+大姑	dou ku	人稱	2793
+小姑	siau ku	人稱	2793
+伯公	paq kon	人稱	2793
+叔公	soq kon	人稱	2793
+伯婆	paq bou	人稱	2793
+叔婆	soq bou	人稱	2793
+姑丈公	ku dzian kon	人稱	2793
+姑婆	ku bou	人稱	2793
+姨丈公	yi dzian kon	人稱	2793
+姨婆	yi bou	人稱	2793
+晚娘	maen gnian	人稱	2793
+晚爹叔	maen tia son	人稱	2793
+當家人	taon ko gnin	人稱	2793
+男	nein	人稱	2793
+屋裏人	uoq li gnin	人稱	2794
+女人	gniu gnin	人稱	2794
+等輩人	ten pei gnin	人稱	2794
+貼身人	thiaq sin gnin	人稱	2794
+老婆娘	lau bou gnian	人稱	2794
+填房	dien vaon	人稱	2794
+兩老頭	lian lau dein	人稱	2794
+兩老	lian lau	人稱	2794
+兩公婆	lian kon bou	人稱	2794
+新郎官人	sin laon kun gnin	人稱	2794
+新郎	sin laon	人稱	2794
+新娘子	sin gnian tsy	人稱	2794
+新娘	sin gnian	人稱	2794
+回頭人	wei deu gnin	人稱	2794
+二婚頭	gni huen deu	人稱	2794
+活出離	waq tshiq lei	人稱	2794
+（活出類）	waq tshiq lei	人稱	2794
+（活絜頭）	waq tshiq lei	人稱	2794
+野老公	ya lau kon	人稱	2794
+相好	sian hau	人稱	2795
+搭頭	taq dein	人稱	2795
+姘頭	phin deu	人稱	2795
+老大	lau dou	人稱	2795
+子息	tsy siq	人稱	2795
+小人	siau gnin	人稱	2795
+小人	siau gni	人稱	2795
+孩	uaen3	人稱	2795
+小孩	siau uaen	人稱	2795
+男孩	nein uaen	人稱	2795
+娘子	gnian tsy	人稱	2795
+小娘	siau gnian	人稱	2795
+小娘婢	siau gnian pi	人稱	2795
+奶歡	na hun	人稱	2795
+（奶花）	na hun	人稱	2795
+孲𤘅	nk nka	人稱	2795
+（嬰孩）	nk nka	人稱	2795
+獨養兒子	doq ian ng tsy	人稱	2795
+獨養囡	doq ian noen	人稱	2795
+偷生	theu san	人稱	2795
+（偷生坯）	theu san phei	人稱	2795
+（偷生爿）	theu san baen	人稱	2795
+孝子	hau tsy	人稱	2796
+養生	yan san	人稱	2796
+養生新婦	yan san sin vu	人稱	2796
+霍新婦	hoq sin vu	人稱	2796
+（攉新婦）	hoq sin vu	人稱	2796
+半子	pun tsy	人稱	2796
+小官人	siau kun gnin	人稱	2796
+光棍	kuaon kuen	人稱	2796
+孤老	ku lau	人稱	2796
+孤孀	ku saon	人稱	2796
+望門	maon men	人稱	2796
+望門寡	maon men kuo	人稱	2796
+眷	cioen5	人稱	2796
+親眷	tshin cioen	人稱	2796
+家屬	ko cioen	人稱	2796
+家口	ko kheu	人稱	2797
+親	tshin1	人稱	2797
+親眷	tshin cioen	人稱	2797
+親戚	tshin tshiq	人稱	2797
+先	sien1	人稱	2797
+相公	sian kon	人稱	2797
+人客	gnin khaq	人稱	2797
+客人	khaq gnin	人稱	2797
+女客	gniu khaq	人稱	2797
+良士	lan zy	人稱	2797
+良士嬸	lan zy sin	人稱	2797
+老班	lau paen	人稱	2797
+（老闆）	lau paen	人稱	2797
+老公公	lau kon kon	人稱	2797
+老太公	lau tha kon	人稱	2797
+老成人	lau jin gnin	人稱	2797
+老頭	lau dein	人稱	2798
+老婆婆	lau bou bou	人稱	2798
+老太婆	lau thau bou	人稱	2798
+女人頭	gniu gnin dein	人稱	2798
+老𡢿輩	lau gniun baen	人稱	2798
+後生	gheu san	人稱	2798
+小後生	siau gheu san	人稱	2798
+小夥子	siau hou tsy	人稱	2798
+小老頭	siau lau dein	人稱	2798
+老篤郎	lau toq laon	人稱	2798
+（老到郎）	lau toq laon	人稱	2798
+大姑娘	dou ku gnian	人稱	2798
+隊夥	dei hou	人稱	2798
+隊夥道裏	dei hou dau li	人稱	2798
+對手	tei sieu	人稱	2798
+幫手	paon sieu	人稱	2798
+對頭	tei deu	人稱	2798
+對頭人	tei deu gnin	人稱	2798
+上手	zaon sieu	人稱	2798
+下手	gho sieu	人稱	2799
+手腳	sieu ciaq	人稱	2799
+腳手	ciaq sieu	人稱	2799
+老手	lau sieu	人稱	2799
+出錢捨主	tshiuq dien so tsiu	人稱	2799
+外路人	nga lu gnin	人稱	2799
+灣舌頭	uaen ziq deu	人稱	2799
+老官	lau kun	人稱	2799
+（老串）	lau kun	人稱	2799
+前路	zien lu	人稱	2799
+教書先生	kau siu sien san	人稱	2799
+教書	kau siu	人稱	2799
+老伻	lau pan	人稱	2799
+（老倗）	lau pan	人稱	2799
+（老幫）	lau pan	人稱	2799
+（嫪伻）	lau pan	人稱	2799
+（老伯）	lau pan	人稱	2799
+阿姆	an m	人稱	2799
+燒火	siau hou	人稱	2799
+阿小	aq siau	人稱	2800
+跟班	ken paen	人稱	2800
+頭腦	deu nau	人稱	2800
+茶房	dzo vaon	人稱	2800
+堂倌	daon kun	人稱	2800
+（堂管）	daon kun	人稱	2800
+佃頭	dien deu	人稱	2800
+（田頭）	dien deu	人稱	2800
+作頭	tsoq deu	人稱	2800
+把作	po tsoq	人稱	2800
+長年	dzian gnien	人稱	2800
+長工	dzian kon	人稱	2800
+短工	toen kon	人稱	2800
+拆短	tshaq toen	人稱	2800
+半莊	pun tsaon	人稱	2800
+忙工	maon kon	人稱	2800
+看牛孩	khien ngeu uaen	人稱	2800
+老大	lau dou	人稱	2801
+耆民	ji min	人稱	2801
+出海	tshiuq hae	人稱	2801
+水底工	siu ti kon	人稱	2801
+（水底攻）	siu ti kon	人稱	2801
+阿大	aq dou	人稱	2801
+經手	cin sieu	人稱	2801
+當手	taon sieu	人稱	2801
+副手	fu sieu	人稱	2801
+夥計	hou ci	人稱	2801
+（火計）	hou ci	人稱	2801
+（伙計）	hou ci	人稱	2801
+學生子	ghoq san tsy	人稱	2801
+過堂學生子	kou daon ghoq san tsy	人稱	2801
+過堂	kou daon	人稱	2801
+下腳	gho ciaq	人稱	2801
+下八腳	gho paq ciaq	人稱	2801
+店倌	ti kun	人稱	2801
+（店管）	ti kun	人稱	2801
+買主	ma tsiu	人稱	2801
+主顧	tsiu ku	人稱	2801
+（主故）	tsiu ku	人稱	2801
