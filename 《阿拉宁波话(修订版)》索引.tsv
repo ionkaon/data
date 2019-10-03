@@ -2940,7 +2940,7 @@
 插撲	插扑	tshaq phoq	器物用具	102
 撲落	扑落	phoq loq	器物用具	102
 揩布	揩布	kha pu	器物用具	102
-措桌布	措桌布	tshu tsoq pu	器物用具	102
+揩桌布	揩桌布	kha tsoq pu	器物用具	102
 刷桌布	刷桌布	syuq tsoq pu	器物用具	102
 揩腳布	揩脚布	kha ciaq pu	器物用具	102
 刷帚	刷帚	syuq cieu	器物用具	102
@@ -4175,6 +4175,7 @@
 吸	吸	shiq7	与人体有关的动词	166
 𨉖	𨉖	iq7	与人体有关的动词	166
 幽	幽	ieu5	与人体有关的动词	167
+幽	幽	ieu1	与人体有关的动词	167
 層	层	zen2	与人体有关的动词	167
 層	层	zen6	与人体有关的动词	167
 䂻	䂻	dzan6	与人体有关的动词	167
@@ -6732,7 +6733,7 @@
 直落	直落	jiq loq	副词	294
 煞扣	煞扣	saq kheu	副词	295
 生三	生三	sen sae	副词	295
-生死	生死	san shi	副词	295
+生死	生死	sen sy	副词	295
 恨性命	恨性命	ghen shin min	副词	295
 要煞性命	要煞性命	iau saq shin min	副词	295
 要條性命	要条性命	iau diau shin min	副词	295
