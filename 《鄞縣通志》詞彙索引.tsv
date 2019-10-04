@@ -310,7 +310,7 @@
 過年過節	kou gnien kou tsiq	歲時	2786
 過年過界	kou gnien kou ka	歲時	2786
 日子	gniq tsy	歲時	2786
-日腳	gniq ciaq	歲時	2786
+日脚	gniq ciaq	歲時	2786
 日逐	gniq dzoq	歲時	2786
 （日著）	gniq dzoq	歲時	2786
 連日	lien gniq	歲時	2786
@@ -542,8 +542,8 @@
 對頭人	tei deu gnin	人稱	2798
 上手	zaon sieu	人稱	2798
 下手	gho sieu	人稱	2799
-手腳	sieu ciaq	人稱	2799
-腳手	ciaq sieu	人稱	2799
+手脚	sieu ciaq	人稱	2799
+脚手	ciaq sieu	人稱	2799
 老手	lau sieu	人稱	2799
 出錢捨主	tshiuq dien so tsiu	人稱	2799
 外路人	nga lu gnin	人稱	2799
@@ -592,10 +592,303 @@
 學生子	ghoq san tsy	人稱	2801
 過堂學生子	kou daon ghoq san tsy	人稱	2801
 過堂	kou daon	人稱	2801
-下腳	gho ciaq	人稱	2801
-下八腳	gho paq ciaq	人稱	2801
+下脚	gho ciaq	人稱	2801
+下八脚	gho paq ciaq	人稱	2801
 店倌	ti kun	人稱	2801
 （店管）	ti kun	人稱	2801
 買主	ma tsiu	人稱	2801
 主顧	tsiu ku	人稱	2801
 （主故）	tsiu ku	人稱	2801
+上行	zaon ghaon	人稱	2802
+貨郎	hou laon	人稱	2802
+行販	ghaon faen	人稱	2802
+做小生意	tsou siau san i	人稱	2802
+擺小攤頭	pa siau thaen deu	人稱	2802
+換糖	wun daon	人稱	2802
+生意人	san i gnin	人稱	2802
+解匠	kaon zian	人稱	2802
+簟匠	di zian	人稱	2802
+篾作	miq tsoq	人稱	2802
+泥水	gni siu	人稱	2802
+箍桶	khu don	人稱	2802
+（揫桶）	khu don	人稱	2802
+（勼桶）	khu don	人稱	2802
+（𥫷桶）	khu don	人稱	2802
+（打𥫷）	khu don	人稱	2802
+路司	lu sy	人稱	2802
+土工	thu kon	人稱	2802
+草泥班	tshau gni paen	人稱	2802
+蹻高匠	chiau kau zian	人稱	2803
+（趫高匠）	chiau kau zian	人稱	2803
+腰機	iau ci	人稱	2803
+荳腐郎	deu vu laon	人稱	2803
+吹糖孩	tshiu daon ghein	人稱	2803
+打鐵	tan thiq	人稱	2803
+鐵惰貧	thiq dou bien	人稱	2803
+做生活	tsou san woq	人稱	2803
+鞋脚骨手	gha ciaq kuaq sieu	人稱	2803
+廚工	dziu kon	人稱	2803
+（廚公）	dziu kon	人稱	2803
+上竈	zaon tsau	人稱	2803
+揢瓢	kho biau	人稱	2803
+下竈	gho tsau	人稱	2803
+剃頭	thi deu	人稱	2803
+司務	sy vu	人稱	2803
+師父	sy vu	人稱	2803
+（司父）	sy vu	人稱	2803
+徒弟	du di	人稱	2803
+喫衙門飯	chioq ngo men vae	人稱	2804
+衙門人	ngo men gnin	人稱	2804
+地方	di faon	人稱	2804
+隨嫁阿姆	zei ko an m	人稱	2804
+隨嫁	zei ko	人稱	2804
+當值做產	taon dziq tsou saen	人稱	2804
+當值	taon dziq	人稱	2804
+出窠娘	tshiuq khou gnian	人稱	2804
+老娘	lau gnian	人稱	2804
+當家	taon ko	人稱	2804
+知客	tsiu khaq	人稱	2804
+（主客）	tsiu khaq	人稱	2804
+火頭	hou deu	人稱	2804
+（伙頭）	hou deu	人稱	2804
+茶頭	dzo deu	人稱	2804
+出家人	tshiuq ko gnin	人稱	2804
+在家人	dzae ko gnin	人稱	2804
+念伴	gniaen bun	人稱	2804
+（唸伴）	gniaen bun	人稱	2804
+（念巫）	gniaen bun	人稱	2804
+廟道人	miau dau gnin	人稱	2805
+廟道娘	miau dau gnian	人稱	2805
+肚仙	du sien	人稱	2805
+擡轎	dae jiau	人稱	2805
+轎惰貧	jiau dou bien	人稱	2805
+擋瞎眼	taon haen	人稱	2805
+擋孩	taon uaen	人稱	2805
+紅黑帽	ghon haq mau	人稱	2805
+串客	tshoen khaq	人稱	2805
+班子	paen tsy	人稱	2805
+戲班子	shi paen tsy	人稱	2805
+喫開口飯	chioq khae kheu vae	人稱	2805
+值堂	dziq daon	人稱	2805
+吹行	tshiu ghaon	人稱	2805
+吹唱	tshiu tshaon	人稱	2805
+惰貧	dou bien	人稱	2805
+（墮貧）	dou bien	人稱	2805
+送娘	son gnian	人稱	2805
+送娘子	son gnian tsy	人稱	2805
+送娘婢	son gnian baen	人稱	2805
+䘕子人	ghaon tsy gnin	人稱	2806
+討飯	thau vae	人稱	2806
+借粮	tsia lian	人稱	2806
+告花子	kau huo tsy	人稱	2806
+（叫花子）	kau huo tsy	人稱	2806
+患難黨	waen naen taon	人稱	2806
+佯掃地	yan sau di	人稱	2806
+賭坯	tu phei	人稱	2806
+頭家	deu ko	人稱	2806
+莊	tsaon1	人稱	2806
+莊家	tsaon ko	人稱	2806
+散脚	saen ciaq	人稱	2806
+官人	kun gnin	人稱	2806
+（倌人）	kun gnin	人稱	2806
+脿子	piau tsy	人稱	2806
+（婊子）	piau tsy	人稱	2806
+（表子）	piau tsy	人稱	2806
+（嫖子）	piau tsy	人稱	2806
+花老	huo lau	人稱	2807
+（花嫪）	huo lau	人稱	2807
+半開門	pun khae men	人稱	2807
+私門鎖	sy men sou	人稱	2807
+私科子	sy khou tsy	人稱	2807
+（私窠子）	sy khou tsy	人稱	2807
+瘦馬	seu mo	人稱	2807
+馬	mo4	人稱	2807
+王八	waon pa	人稱	2807
+（王巴）	waon pa	人稱	2807
+（忘八）	waon pa	人稱	2807
+烏龜	u ciu	人稱	2807
+（烏車）	u ciu	人稱	2807
+王婆	waon bou	人稱	2807
+老鴇	lau pau	人稱	2807
+無賴	vu la	人稱	2807
+流氓	lieu maon	人稱	2807
+（游民）	lieu maon	人稱	2807
+空手人	khon sieu gnin	人稱	2807
+喫戤飯	chioq gae vaen	人稱	2807
+破靴黨	phou shiu taon	人稱	2807
+破靴	phou shiu	人稱	2807
+八大人	paq dou gnin	人稱	2808
+撮佬	tshaq lau	人稱	2808
+（拆老）	tshaq lau	人稱	2808
+扒手	bo sieu	人稱	2808
+（掱手）	bo sieu	人稱	2808
+剪綹	tsien lieu	人稱	2808
+（翦綹）	tsien lieu	人稱	2808
+掩邊賊	ien pien zaq	人稱	2808
+（掩壁賊）	ien pien zaq	人稱	2808
+（躽背賊）	ien pien zaq	人稱	2808
+（𨉖背賊）	ien pien zaq	人稱	2808
+白日撞	baq gniq dzaon	人稱	2808
+收曬㫰	sieu sa laon	人稱	2808
+摸夜友	moq ya yeu	人稱	2808
+（墨夜遊）	moq ya yeu	人稱	2808
+三隻手	saen tsaq sieu	人稱	2808
+賊窩家	zaq ou ko	人稱	2808
+窩家	ou ko	人稱	2808
+强盜	jian dau	人稱	2808
+刼賊	ciq dau	人稱	2808
+搶盜	tshian dau	人稱	2808
+明公	min kon	人稱	2809
+好老	hau lau	人稱	2809
+大好老	dou hau lau	人稱	2809
+臺撐	dae tshan	人稱	2809
+戲臺撐	shi dae tshan	人稱	2809
+喫食戶	chioq ziq wu	人稱	2809
+發財人	faq dzae gnin	人稱	2809
+快活人	khua waq gnin	人稱	2809
+根生土養	ken sen thu ian	人稱	2809
+老土地	lau thu di	人稱	2809
+當方土地	taon faon thu di	人稱	2809
+嬉客	shi khaq	人稱	2809
+滑頭	waq deu	人稱	2809
+傿子	ien tsy	人稱	2809
+（贋子）	ien tsy	人稱	2809
+儳頭	tshaen deu	人稱	2809
+（鑱頭）	tshaen deu	人稱	2809
+（孱頭）	tshaen deu	人稱	2809
+（僝頭）	tshaen deu	人稱	2809
+戇大	gaon dou	人稱	2810
+踱頭	doq deu	人稱	2810
+（獨頭）	doq deu	人稱	2810
+（喥頭）	doq deu	人稱	2810
+憨頭	hein deu	人稱	2810
+（儗頭）	hein deu	人稱	2810
+呆大	ngae dou	人稱	2810
+（㕌大）	ngae dou	人稱	2810
+（騃大）	ngae dou	人稱	2810
+木大	moq dou	人稱	2810
+呆木大	ngae moq dou	人稱	2810
+壽頭	zieu deu	人稱	2810
+頵頭子	chiun deu tsy	人稱	2810
+小家子	siau ko tsy	人稱	2810
+惡霸王	oq po waon	人稱	2810
+惡霸王	oq po	人稱	2810
+瞎子	haq tsy	人稱	2810
+瞎眼	haq ngaen	人稱	2810
+柳隆慶	lieu lon chin	人稱	2810
+小花臉	siau huo lien	人稱	2811
+白身人	baq sin gnin	人稱	2811
+暴出隴	pau tsiuq lon	人稱	2811
+馬留蟲	mo lieu dzon	人稱	2811
+千年調	tshien gnien diau	人稱	2811
+惡蚊蟲	oq men dzon	人稱	2811
+兩脚貓	lian ciaq maen	人稱	2811
+三脚貓	saen ciaq maen	人稱	2811
+淡烤茄	daen khau dziaen	人稱	2811
+好好先生	hau hau sien san	人稱	2811
+萬寶全書	vaen pau dzoen siu	人稱	2811
+出氣痧藥	tshiuq chi so yaq	人稱	2812
+隔年黃曆	kaq gnien waon liq	人稱	2812
+鐵絲揢簍	thiq sy khaq lou	人稱	2812
+牛皮紗篩	ngeu bi so pu	人稱	2812
+琉璃傢伙	lieu li ko hou	人稱	2812
+（玻璃傢生）	lieu li ko hou	人稱	2812
+上臺鐋鑼	zaon de than lou	人稱	2812
+汚糟穀蜢	ou tsau koq man	人稱	2812
+氽江浮屍	then kaon veu sy	人稱	2812
+尺七圓櫎	tshaq chiq yoen kuaon	人稱	2812
+尺七	tshaq chiq	人稱	2812
+牛頭夜叉	ngeu deu ya tsho	人稱	2812
+輪轉太婆	lin tsoen tha bou	人稱	2813
+段塘阿姆	doen daon an m	人稱	2813
+段塘叔婆	doen daon soq bou	人稱	2813
+段塘	doen daon	人稱	2813
+隔壁叔婆	kaq piq soq bou	人稱	2813
+橋頭三叔公	jiau deu saen soq kon	人稱	2813
+橋頭三叔	jiau deu saen soq	人稱	2813
+橋頭三	jiau deu saen	人稱	2813
+回湯豆腐乾	wei thaon deu vu kien	人稱	2813
+飯鑊頭蒼蠅	vaen ghoq deu tshaon in	人稱	2813
+和消頭	ghou siau deu	人稱	2813
+擾業朋	zau gniq ban	人稱	2813
+狗朋隊	keu ban dei	人稱	2813
+（狗碰頭）	keu ban dei	人稱	2813
+冤家朋	ioen ko ban	人稱	2813
+冤家	ioen ko	人稱	2813
+地頭鬼	di deu ciu	人稱	2813
+老酒甏	lau tsieu ban	人稱	2814
+牀頭鬼	zaon deu ciu	人稱	2814
+了家精	liau ko tsin	人稱	2814
+白虎星	baq fu sin	人稱	2814
+白虎	baq fu	人稱	2814
+狐狸精	wu li tsin	人稱	2814
+小舢板	siau saen paen	人稱	2814
+拖油瓶	thou yeu bin	人稱	2814
+（拖有病）	thou yeu bin	人稱	2814
+燥貼	sau thaq	人稱	2814
+（燥搨）	sau thaq	人稱	2814
+屋裏老	uoq li lau	人稱	2814
+自料理	zi liau li	人稱	2814
+（自了類）	zi liau li	人稱	2814
+隨批答	zei phi thaq	人稱	2815
+鏽釘株	sieu tin tsiu	人稱	2815
+紅腳梗	ghon ciaq kuan	人稱	2815
+白肚皮	baq du bi	人稱	2815
+地活猻	di waq sen	人稱	2815
+無脚蟹	vu ciaq ha	人稱	2815
+哭啜貓	koq tshiuq maen	人稱	2815
+夜老鴉	ya lau o	人稱	2815
+地雷火礮	di lei hou phau	人稱	2815
+菜園笆門	tshae yu po men	人稱	2815
+雞毛刷帚	ci mau siuq tsieu	人稱	2815
+揩卓橙布	kha tsoq ten pu	人稱	2815
+櫃台獅子	jiu de sy tsy	人稱	2815
+鑽倉老鼠	tsoen tshaon lau tsy	人稱	2816
+落弶老鼠	loq jian lau tsy	人稱	2816
+好日黃狗	hau gniq waon kien	人稱	2816
+紙畫老虎	tsy wo lau fu	人稱	2816
+坐桶老虎	zou don lau fu	人稱	2816
+大礮	dou phau	人稱	2816
+舢板	saen paen	人稱	2816
+琉璃燈	lieu li ten	人稱	2816
+纏頭鵝	dzien deu ngou	人稱	2816
+拖雞豹	thou ci pau	人稱	2816
+黑炭鬼	haq thaen ciu	人稱	2816
+黑炭頭	haq thaen deu	人稱	2816
+黑炭	haq thaen	人稱	2816
+浮屍	veu sy	人稱	2816
+雜種	zaq tson	人稱	2816
+（賊種）	zaq tson	人稱	2816
+（石中）	zaq tson	人稱	2816
+變種	pien tson	人稱	2817
+衆生	tson san	人稱	2817
+（中生）	tson san	人稱	2817
+冤鬼	ioen ciu	人稱	2817
+冤鳥	ioen tiau	人稱	2817
+牛	ngeu2	人稱	2817
+賊牛	zaq ngeu	人稱	2817
+笨牛	ben ngeu	人稱	2817
+鬼	ciu3	人稱	2817
+（魕）	ciu3	人稱	2817
+（𩴪）	ciu3	人稱	2817
+（機）	ciu3	人稱	2817
+（禨）	ciu3	人稱	2817
+（𩴆）	ciu3	人稱	2817
+夜人客	ya gnin khaq	人稱	2817
+鏖糟	au tsau	人稱	2817
+鏖糟氣	au tsau chi	人稱	2817
+邪氣	zia chi	人稱	2817
+老山大人	lau saen dou gnin	人稱	2818
+屋業地主	uoq gniq di tsiu	人稱	2818
+喪亡鬼	saon maon ciu	人稱	2818
+（傷亡鬼）	saon maon ciu	人稱	2818
+喪亡	saon maon	人稱	2818
+幼芒	au man	人稱	2818
+（拗猛）	au man	人稱	2818
+（盎孟）	au man	人稱	2818
+九良星	cieu lian sin	人稱	2818
+牀公牀婆	zaon kon zaon bou	人稱	2819
+監齋菩薩	kaen tsa bu saq	人稱	2819
+筲箕姑娘	sau ci ku gnian	人稱	2819
+汚缸姑娘	ou kaon ku gnian	人稱	2819
+倒矗和尚	tau toq ghou zaon	人稱	2819
