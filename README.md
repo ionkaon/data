@@ -6,7 +6,7 @@
 
 ## 《阿拉宁波话(修订版)》索引
 
-初版《阿拉宁波话》出版於 1991 年，於 2016 年出版了修訂版。修訂版 ISBN: 9787552626599。
+初版《阿拉宁波话》出版於 1991 年，於 2016 年出版了修訂版。修訂版 ISBN：9787552626599。
 
 書中「修订版后记」一節提到：
 
@@ -14,7 +14,7 @@
 
 文件 [`《阿拉宁波话(修订版)》索引.tsv`](《阿拉宁波话(修订版)》索引.tsv) 爲《阿拉宁波话(修订版)》中的方言詞和短語製作了索引。
 
-文件共分爲五列，列與列之間使用tab鍵隔開。第一列爲繁體的詞頭，第二列爲簡體的詞頭，第三列爲吳語拼音，第四列是分類，第五列是該詞條所在的頁碼。使用者可以用文本編輯器的搜索功能來查詢詞條，再通過相應的頁碼找到詞條在原書中的位置。
+文件共分爲五列，列與列之間使用 tab 鍵隔開。第一列爲繁體的詞頭，第二列爲簡體的詞頭，第三列爲吳語拼音，第四列是分類，第五列是該詞條所在的頁碼。使用者可以用文本編輯器的搜索功能來查詢詞條，再通過相應的頁碼找到詞條在原書中的位置。
 
 索引還將書中提到的又音某、又作某、也作某等單獨列爲了詞頭。
 
@@ -24,17 +24,17 @@
 
 ## The Ningpo Syllabary
 
-《The Ningpo Syllabary》出版於 1901 年，作者是德國語言學家 [穆麟德](https://en.wikipedia.org/wiki/Paul_Georg_von_Möllendorff) \(P. G. von Möllendorff\)。其中同音字表部分爲夏清瑞在穆麟德的指導下完成。書中採用了 [丁韙良](https://en.wikipedia.org/wiki/William_Alexander_Parsons_Martin) 等人在 1951 年創制的一套寧波話拼音，並在引言中對這套拼音做了詳細的描述。
+《The Ningpo Syllabary》出版於 1901 年，作者是德國語言學家 [穆麟德](https://en.wikipedia.org/wiki/Paul_Georg_von_Möllendorff) （P. G. von Möllendorff）。其中同音字表部分爲夏清瑞在穆麟德的指導下完成。書中採用了 [丁韙良](https://en.wikipedia.org/wiki/William_Alexander_Parsons_Martin) 等人在 1951 年創制的一套寧波話拼音，並在引言中對這套拼音做了詳細的描述。
 
 文件 [`The_Ningpo_Syllabary.txt`](The_Ningpo_Syllabary.txt) 中抄錄了原書第 1 頁～第 54 頁的同音字表。
 
 書中拼音首字母均用大寫，抄錄時全部改爲小寫。
 
-書中有部分漢字未被收錄到Unicode中，抄錄時使用 [IDC](https://en.wikipedia.org/wiki/Ideographic_Description_Characters_(Unicode_block)) 來表示。
+書中有部分漢字未被收錄到 Unicode 中，抄錄時使用 [IDC](https://en.wikipedia.org/wiki/Ideographic_Description_Characters_(Unicode_block)) 來表示。
 
 書中有部分音節收字有重複，在抄錄過程中刪去了這些重複收錄的字。
 
-書中同音字表內的部分拼音拼寫與引言中不同。對比使用同一拼音方案的《寧波方言字語彙解》(睦禮遜惠理, 1876)，可以確認引言中的拼寫是正確的。在抄錄時將同音字表的拼寫做了修正，包括如下幾條：
+書中同音字表內的部分拼音拼寫與引言中不同。對比使用同一拼音方案的《寧波方言字語彙解》（睦禮遜惠理，1876），可以確認引言中的拼寫是正確的。在抄錄時將同音字表的拼寫做了修正，包括如下幾條：
 
 - 引言作 üing，同音字表作 iüng
 - 引言作 üih，同音字表作 iüh
