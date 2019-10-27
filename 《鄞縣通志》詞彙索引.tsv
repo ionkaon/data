@@ -303,7 +303,7 @@
 割稻時	kaq dau zy	歲時	2785
 稻假	dau ko	歲時	2785
 秋厄伏	tshieu aq boq	歲時	2785
-秋老虎	tshieu lau hu	歲時	2785
+秋老虎	tshieu lau fu	歲時	2785
 桂花蒸	kuei huo tsin	歲時	2785
 八月天	paq yuq thien	歲時	2785
 小陽春	siau yan tshiun	歲時	2785
@@ -793,7 +793,7 @@
 牛皮紗篩	ngeu bi so pu	人稱	2812
 琉璃傢伙	lieu li ko hou	人稱	2812
 （玻璃傢生）	lieu li ko hou	人稱	2812
-上臺鐋鑼	zaon de than lou	人稱	2812
+上臺鐋鑼	zaon dae than lou	人稱	2812
 汚糟穀蜢	ou tsau koq man	人稱	2812
 氽江浮屍	then kaon veu sy	人稱	2812
 尺七圓櫎	tshaq chiq yoen kuaon	人稱	2812
@@ -832,7 +832,7 @@
 （自了類）	zi liau li	人稱	2814
 隨批答	zei phi thaq	人稱	2815
 鏽釘株	sieu tin tsiu	人稱	2815
-紅腳梗	ghon ciaq kuan	人稱	2815
+紅脚梗	ghon ciaq kuan	人稱	2815
 白肚皮	baq du bi	人稱	2815
 地活猻	di waq sen	人稱	2815
 無脚蟹	vu ciaq ha	人稱	2815
@@ -842,7 +842,7 @@
 菜園笆門	tshae yu po men	人稱	2815
 雞毛刷帚	ci mau siuq tsieu	人稱	2815
 揩卓橙布	kha tsoq ten pu	人稱	2815
-櫃台獅子	jiu de sy tsy	人稱	2815
+櫃台獅子	jiu dae sy tsy	人稱	2815
 鑽倉老鼠	tsoen tshaon lau tsy	人稱	2816
 落弶老鼠	loq jian lau tsy	人稱	2816
 好日黃狗	hau gniq waon kien	人稱	2816
@@ -892,3 +892,182 @@
 筲箕姑娘	sau ci ku gnian	人稱	2819
 汚缸姑娘	ou kaon ku gnian	人稱	2819
 倒矗和尚	tau toq ghou zaon	人稱	2819
+說話	siuq wo	事類	2819
+話頭	wo deu	事類	2819
+話場	wo jian	事類	2819
+話把	wo po	事類	2819
+（話欛）	wo po	事類	2819
+（話靶）	wo po	事類	2819
+話柄	wo pin	事類	2819
+口談	kheu dae	事類	2819
+口信	kheu sin	事類	2819
+脚色	ciaq saq	事類	2820
+（角色）	ciaq saq	事類	2820
+身家	sin ko	事類	2820
+身分	sin ven	事類	2820
+心衿	sin cin	事類	2820
+廓落	khoq loq	事類	2820
+廓子	khoq tsy	事類	2820
+（殼子）	khoq tsy	事類	2820
+框杗	khuaon maon	事類	2820
+架子	ko tsy	事類	2820
+場面	dzian mien	事類	2820
+樣範	yan vaen	事類	2820
+樣子	yan tsy	事類	2820
+體統	thi thon	事類	2820
+手勢	sieu siu	事類	2820
+手段	sieu doen	事類	2820
+脚擘	ciaq phaq	事類	2820
+跟脚	ken ciaq	事類	2820
+脚力	ciaq liq	事類	2820
+來根	le ken	事類	2820
+來根去脈	le ken chi maq	事類	2821
+來頭人	le deu gnin	事類	2821
+臛頭	hoq deu	事類	2821
+（𦞦頭）	hoq deu	事類	2821
+竄頭	tshoen deu	事類	2821
+三色	saen saq	事類	2821
+事體	zy thi	事類	2821
+行當	ghaon taon	事類	2821
+行止	ghan tsy	事類	2821
+行爲	ghan wei	事類	2821
+行意	ghan i	事類	2821
+作爲	tsoq wei	事類	2821
+皁白	zau baq	事類	2821
+把柄	po pin	事類	2822
+（把秉）	po pin	事類	2822
+（杷柄）	po pin	事類	2822
+（欛柄）	po pin	事類	2822
+（巴鼻）	po pin	事類	2822
+（巴臂）	po pin	事類	2822
+苗頭	miau deu	事類	2822
+（矛頭）	miau deu	事類	2822
+閒賬	ghaen tsian	事類	2822
+把勢	po siu	事類	2822
+落底	loq ti	事類	2822
+結束	ciq soq	事類	2822
+結果	ciq kou	事類	2822
+所以然	so yi zoen	事類	2822
+分	ven6	事類	2822
+（份）	ven6	事類	2822
+分子	ven tsy	事類	2822
+（份子）	ven tsy	事類	2822
+花色	huo saq	事類	2822
+花花色色	huo huo saq saq	事類	2822
+用場	yon dzian	事類	2823
+陶窰	dau yau	事類	2823
+開繳	khae ciau	事類	2823
+火功	hou kon	事類	2823
+（火工）	hou kon	事類	2823
+田地	dien di	事類	2823
+局面	jiuq mien	事類	2823
+局勢	jiuq siu	事類	2823
+局度	jiuq du	事類	2823
+房分	vaon ven	事類	2823
+（房戶）	vaon ven	事類	2823
+房	vaon2	事類	2823
+脚埭	ciaq da	事類	2823
+（脚隶）	ciaq da	事類	2823
+（脚䇐）	ciaq da	事類	2823
+造煞數	zau saq su	事類	2823
+急口令	ciq kheu lin	事類	2823
+（吃口令）	ciq kheu lin	事類	2823
+笑面虎	siau mien fu	事類	2823
+高帽子	kau mau tsy	事類	2824
+鬼畫符	ciu wo vu	事類	2824
+門檻	men khaen	事類	2824
+生意	san i	事類	2824
+門市	men zy	事類	2824
+拆兌	tshaq dei	事類	2824
+兌行	dei ghaon	事類	2824
+帳面	tsian mien	事類	2824
+（賬面）	tsian mien	事類	2824
+大小	dou siau	事類	2824
+利市	li zy	事類	2824
+便宜	bien gni	事類	2824
+花息	huo siq	事類	2825
+花	huo1	事類	2825
+櫃臺靠	jiu dae khau	事類	2825
+市值估價	zy jiq ku ko	事類	2825
+洋生	yan san	事類	2825
+洋花	yan huo	事類	2825
+六字	loq zy	事類	2825
+六合	loq ghaq	事類	2825
+八字	paq zy	事類	2825
+交杯酒	ciau pei tsieu	事類	2825
+待筵	dae yien	事類	2825
+周歲	tsieu siu	事類	2825
+（週歲）	tsieu siu	事類	2825
+周年	tsieu gni	事類	2825
+（週年）	tsieu gni	事類	2825
+七	tshiq7	事類	2825
+七頭	tshiq deu	事類	2825
+百日	paq gniq	事類	2826
+忌日	ji gniq	事類	2826
+生諱日期	san huei ziuq dzi	事類	2826
+十頭	ziuq deu	事類	2826
+陰生	in san	事類	2826
+陰壽	in zieu	事類	2826
+流年	lieu gnien	事類	2826
+月建	yuq cien	事類	2826
+大業	dou gniq	事類	2826
+小業	siau gniq	事類	2826
+田脚	dien ciaq	事類	2826
+大小業	dou siau gniq	事類	2826
+三浪頭	saen laon deu	事類	2826
+東道	ton dau	事類	2826
+小意思	siau i sy	事類	2826
+（小意智）	siau i sy	事類	2826
+把戲	po shi	事類	2827
+戲文	shi ven	事類	2827
+隔壁戲	kaq piq shi	事類	2827
+裝頭孩	tsian deu ghein	事類	2827
+凳頭戲	ten deu shi	事類	2827
+獨脚戲	doq ciaq shi	事類	2827
+木頭孩	moq deu ghein	事類	2827
+木頭戲	moq deu shi	事類	2827
+下弄上	gho lon zaon	事類	2827
+牽線木頭孩	chi sien moq deu ghein	事類	2827
+孩兒戲	ghae er shi	事類	2827
+文書	ven siu	事類	2827
+南詞	nein dzy	事類	2827
+武書	vu siu	事類	2827
+小唱	siau tshaon	事類	2828
+歌詩	kou sy	事類	2828
+（歌司）	kou sy	事類	2828
+龍鳳細吹	lon von si tsiu	事類	2828
+小明堂	siau min daon	事類	2828
+路吹	llu tsiu	事類	2828
+高蹻	kau chiau	事類	2828
+（高趫）	kau chiau	事類	2828
+（高蹺）	kau chiau	事類	2828
+（高橇）	kau chiau	事類	2828
+寥天	liau thien	事類	2828
+（撩天）	liau thien	事類	2828
+虎跳	fu thiau	事類	2828
+筋斗	cin teu	事類	2828
+（觔斗）	cin teu	事類	2828
+（金斗）	cin teu	事類	2828
+（跟斗）	cin teu	事類	2828
+（跟陡）	cin teu	事類	2828
+（跟倒）	cin teu	事類	2828
+兩脚船	lian ciaq zoen	事類	2828
+差頭	tsho deu	事類	2829
+（訍頭）	tsho deu	事類	2829
+噴頭	phen deu	事類	2829
+（啈頭）	phen deu	事類	2829
+蹱掽	tshon phan	事類	2829
+（衝碰）	tshon phan	事類	2829
+（銃䨻）	tshon phan	事類	2829
+（銃𤳹）	tshon phan	事類	2829
+（嗆哼）	tshon phan	事類	2829
+劍門	cien men	事類	2829
+禍祟	ghou sei	事類	2829
+（禍水）	ghou sei	事類	2829
+賊火	zaq hou	事類	2829
+火老鴉	hou lau o	事類	2829
+服辯	voq bi	事類	2829
+（服便）	voq bi	事類	2829
+花字	huo zy	事類	2829
+花押	huo aq	事類	2829
+短見	toen cien	事類	2830
