@@ -1,8 +1,8 @@
 # 寧波方言資料整理
 
-- [《阿拉宁波话(修订版)》索引](https://github.com/shinzoqchiuq/gninpou-dialect#阿拉宁波话修订版索引)
-- [The Ningpo Syllabary](https://github.com/shinzoqchiuq/gninpou-dialect#The-Ningpo-Syllabary)
-- [《寧波方言詞典》詞條](https://github.com/shinzoqchiuq/gninpou-dialect#寧波方言詞典詞條)
+- [《阿拉宁波话(修订版)》索引](https://github.com/ionkaon/data#阿拉宁波话修订版索引)
+- [The Ningpo Syllabary](https://github.com/ionkaon/data#The-Ningpo-Syllabary)
+- [《寧波方言詞典》詞條](https://github.com/ionkaon/data#寧波方言詞典詞條)
 
 ## 《阿拉宁波话(修订版)》索引
 
@@ -63,6 +63,6 @@
 
 ## 反饋
 
-限於本人水平，整理的資料中難免會有錯漏。如果使用者有任何問題或是發現了任何錯誤，歡迎提交 [issue](https://github.com/shinzoqchiuq/gninpou-dialect/issues)，或是通過以下郵箱直接與我聯繫。
+限於本人水平，整理的資料中難免會有錯漏。如果使用者有任何問題或是發現了任何錯誤，歡迎提交 [issue](https://github.com/ionkaon/data/issues)，或是通過以下郵箱直接與我聯繫。
 
 本人郵箱：shinzoqchiuq@outlook.com
