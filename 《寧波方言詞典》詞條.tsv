@@ -591,10 +591,10 @@
 天蘿箲	天蘿箲	天萝箲	thi lou shi
 天蘿花箲	天蘿花箲	天萝花箲	thi lou huo shi
 天河	天河	天河	thi ghou
-天狗吃日頭	天狗喫日頭	天狗吃日头	thi keu chioq gniq deu
+天狗喫日頭	天狗喫日頭	天狗吃日头	thi keu chioq gniq deu
 天狗拖日頭	天狗拖日頭	天狗拖日头	thi keu thou gniq deu
 天狗拖日頭	天狗拖日頭	天狗拖日头	thi keu tha gniq deu
-天狗吃月亮	天狗喫月亮	天狗吃月亮	thi keu chioq yuq lian
+天狗喫月亮	天狗喫月亮	天狗吃月亮	thi keu chioq yuq lian
 天狗拖月亮	天狗拖月亮	天狗拖月亮	thi keu thou yuq lian
 天狗拖月亮	天狗拖月亮	天狗拖月亮	thi keu tha yuq lian
 天打煞	天打煞	天打煞	thi tan saq
@@ -2105,8 +2105,8 @@
 壞	壞	坏	ua1
 壞坯子	壞坯子	坏坯子	ua phei tsy
 壞過	壞過	坏过	ua kou
-壞吃	壞喫	坏吃	ua chioq
-壞吃芋艿頭	壞喫芋艿頭	坏吃芋艿头	ua chioq n na deu
+壞喫	壞喫	坏吃	ua chioq
+壞喫芋艿頭	壞喫芋艿頭	坏吃芋艿头	ua chioq n na deu
 包	包	包	pau1
 包子	包子	包子	pau tsy
 包梢	包梢	包梢	pau sau
@@ -2647,7 +2647,7 @@
 好相量	好相量	好相量	hau shian lian
 好甮	好甮	好甮	hau ven
 好模好樣	好模好樣	好模好样	hau moq hau yan
-好吃果子	好喫果子	好吃果子	hau chioq kou tsy
+好喫果子	好喫果子	好吃果子	hau chioq kou tsy
 好日	好日	好日	hau gniq
 好日酒	好日酒	好日酒	hau gniq cieu
 好日黃狗	好日黄狗	好日黄狗	hau gniq waon ki
@@ -3342,7 +3342,7 @@
 小腳髈	小腳髈	小脚髈	shiau ciaq phaon
 小桌凳	小桌凳	小桌凳	shiau tsoq ten
 小雪	小雪	小雪	shiau soq
-小吃	小喫	小吃	shiau chioq
+小喫	小喫	小吃	shiau chioq
 小癟三	小癟三	小瘪三	shiau piq sae
 小結結	小結結	小结结	shiau ciq ciq
 小練練	小練練	小练练	shiau li li
@@ -3721,7 +3721,7 @@
 慢太婆	慢太婆	慢太婆	mae tha bou
 慢慢叫	慢慢叫	慢慢叫	mae mae ciau
 慢慢走	慢慢走	慢慢走	mae mae tseu
-慢慢吃	慢慢喫	慢慢吃	mae mae chioq
+慢慢喫	慢慢喫	慢慢吃	mae mae chioq
 慢泛	慢泛	慢泛	mae fae
 慢☐☐	慢☐☐	慢☐☐	mae than than
 貓	貓	猫	mae6
@@ -6509,7 +6509,7 @@
 浪○泛泛	浪○泛泛	浪○泛泛	laon fae fae
 浪頭	浪頭	浪头	laon deu
 浪	浪	浪	laon6
-浪吃浪用	浪喫浪用	浪吃浪用	laon chioq laon yon
+浪喫浪用	浪喫浪用	浪吃浪用	laon chioq laon yon
 浪食	浪食	浪食	laon zhiq
 㫰	㫰	㫰	laon6
 㫰竿	㫰竿	㫰竿	laon ki
@@ -9508,70 +9508,70 @@
 惡弄慫	惡弄慫	恶弄怂	oq lon son
 惡訟師	惡訟師	恶讼师	oq dzon sy
 惡刻	惡刻	恶刻	oq khaq
-吃水	喫水	吃水	chioq syu
-吃屁股	喫屁股	吃屁股	chioq phi ku
-吃死飯	喫死飯	吃死饭	chioq shi vae
-吃醋	喫醋	吃醋	chioq tshu
-吃素	喫素	吃素	chioq su
-吃軟弶	喫軟弶	吃软弶	chioq gniu jian
-吃絞絲	喫絞絲	吃绞丝	chioq gau sy
-吃夜點心	喫夜點心	吃夜点心	chioq ya ti shin
-吃夜點心	喫夜點心	吃夜点心	chioq ya te shin
-吃夜飯	喫夜飯	吃夜饭	chioq ya vae
-吃腦子卜	喫腦子卜	吃脑子卜	chioq nau tsy poq
-吃牢	喫牢	吃牢	chioq lau
-吃老酒	喫老酒	吃老酒	chioq lau cieu
-吃巴掌	喫巴掌	吃巴掌	chioq po tsaon
-吃家生	喫家生	吃家生	chioq ko san
-吃花菜	喫花菜	吃花菜	chioq huo tshe
-吃菜	喫菜	吃菜	chioq tshe
-吃齋	吃齋	吃斋	chioq tsa
-吃開口飯個	喫開口飯個	吃开口饭个	chioq khe kheu vae goq
-吃…飯	喫…飯	吃…饭	chioq vae
-吃飯店飯	喫飯店飯	吃饭店饭	chioq vae ti vae
-吃飯家生	吃飯家生	吃饭家生	chioq vae ko san
-吃飯間	喫飯間	吃饭间	chioq vae kae
-吃飯桌凳	喫飯桌凳	吃饭桌凳	chioq vae tsoq ten
-吃僝頭	喫僝頭	吃僝头	chioq zae deu
-吃噴頭	喫噴頭	吃喷头	chioq phen deu
-吃排頭	喫排頭	吃排头	chioq ba deu
-吃蛋糕	吃蛋糕	吃蛋糕	chioq dae kau
-吃閒食	喫閑食	吃闲食	chioq ghae zhiq
-吃酒	喫酒	吃酒	chioq cieu
-吃喜酒	吃喜酒	吃喜酒	chioq shi cieu
-吃賠賬	喫賠賬	吃赔账	chioq bei cian
-吃豆腐	喫豆腐	吃豆腐	chioq deu vu
-吃口	喫口	吃口	chioq kheu
-吃後樸	喫後樸	吃后朴	chioq gheu phoq
-吃生活	喫生活	吃生活	chioq san wo
-吃相	喫相	吃相	chioq shian
-吃長菜	喫長菜	吃长菜	chioq jian tshe
-吃場	喫場	吃场	chioq jian
-吃食	喫食	吃食	chioq zhiq
-吃香	喫香	吃香	chioq shian
-吃香菸	喫香煙	吃香烟	chioq shian i
-吃官司	喫官司	吃官司	chioq kun sy
-吃進	喫進	吃进	chioq cin
-吃白食	喫白食	吃白食	chioq baq zhiq
-吃沒	喫没	吃没	chioq maq
-吃髮郎	喫髮郎	吃发郎	chioq faq laon
-吃髮頭郎	喫髮頭郎	吃发头郎	chioq faq deu laon
-吃勿落	喫勿落	吃勿落	chioq vaq loq
-吃勒落	喫勒落	吃勒落	chioq laq loq
-吃夾餅	喫夾餅	吃夹饼	chioq kaq pin
-吃客	喫客	吃客	chioq khaq
-吃落	喫落	吃落	chioq loq
-吃落腳	喫落腳	吃落脚	chioq loq ciaq
-吃茶	喫茶	吃茶	chioq dzo
-吃吃我	喫喫我	吃吃我	chioq chioq ngo
-吃吃儂	喫喫儂	吃吃侬	chioq chioq nou
-吃吃渠	喫喫渠	吃吃渠	chioq chioq ji
-吃吃阿拉	喫喫阿拉	吃吃阿拉	chioq chioq aq laq
-吃吃倷	喫喫倷	吃吃倷	chioq chioq naq
-吃吃渠拉	喫喫渠拉	吃吃渠拉	chioq chioq jiq laq
-吃癟	吃癟	吃瘪	chioq piq
-吃天亮飯	喫天亮飯	吃天亮饭	chioq thiq gnian vae
-吃熱	喫熱	吃热	chioq gniq
+喫水	喫水	吃水	chioq syu
+喫屁股	喫屁股	吃屁股	chioq phi ku
+喫死飯	喫死飯	吃死饭	chioq shi vae
+喫醋	喫醋	吃醋	chioq tshu
+喫素	喫素	吃素	chioq su
+喫軟弶	喫軟弶	吃软弶	chioq gniu jian
+喫絞絲	喫絞絲	吃绞丝	chioq gau sy
+喫夜點心	喫夜點心	吃夜点心	chioq ya ti shin
+喫夜點心	喫夜點心	吃夜点心	chioq ya te shin
+喫夜飯	喫夜飯	吃夜饭	chioq ya vae
+喫腦子卜	喫腦子卜	吃脑子卜	chioq nau tsy poq
+喫牢	喫牢	吃牢	chioq lau
+喫老酒	喫老酒	吃老酒	chioq lau cieu
+喫巴掌	喫巴掌	吃巴掌	chioq po tsaon
+喫家生	喫家生	吃家生	chioq ko san
+喫花菜	喫花菜	吃花菜	chioq huo tshe
+喫菜	喫菜	吃菜	chioq tshe
+喫齋	吃齋	吃斋	chioq tsa
+喫開口飯個	喫開口飯個	吃开口饭个	chioq khe kheu vae goq
+喫…飯	喫…飯	吃…饭	chioq vae
+喫飯店飯	喫飯店飯	吃饭店饭	chioq vae ti vae
+喫飯家生	吃飯家生	吃饭家生	chioq vae ko san
+喫飯間	喫飯間	吃饭间	chioq vae kae
+喫飯桌凳	喫飯桌凳	吃饭桌凳	chioq vae tsoq ten
+喫僝頭	喫僝頭	吃僝头	chioq zae deu
+喫噴頭	喫噴頭	吃喷头	chioq phen deu
+喫排頭	喫排頭	吃排头	chioq ba deu
+喫蛋糕	吃蛋糕	吃蛋糕	chioq dae kau
+喫閒食	喫閑食	吃闲食	chioq ghae zhiq
+喫酒	喫酒	吃酒	chioq cieu
+喫喜酒	吃喜酒	吃喜酒	chioq shi cieu
+喫賠賬	喫賠賬	吃赔账	chioq bei cian
+喫豆腐	喫豆腐	吃豆腐	chioq deu vu
+喫口	喫口	吃口	chioq kheu
+喫後樸	喫後樸	吃后朴	chioq gheu phoq
+喫生活	喫生活	吃生活	chioq san wo
+喫相	喫相	吃相	chioq shian
+喫長菜	喫長菜	吃长菜	chioq jian tshe
+喫場	喫場	吃场	chioq jian
+喫食	喫食	吃食	chioq zhiq
+喫香	喫香	吃香	chioq shian
+喫香菸	喫香煙	吃香烟	chioq shian i
+喫官司	喫官司	吃官司	chioq kun sy
+喫進	喫進	吃进	chioq cin
+喫白食	喫白食	吃白食	chioq baq zhiq
+喫沒	喫没	吃没	chioq maq
+喫髮郎	喫髮郎	吃发郎	chioq faq laon
+喫髮頭郎	喫髮頭郎	吃发头郎	chioq faq deu laon
+喫勿落	喫勿落	吃勿落	chioq vaq loq
+喫勒落	喫勒落	吃勒落	chioq laq loq
+喫夾餅	喫夾餅	吃夹饼	chioq kaq pin
+喫客	喫客	吃客	chioq khaq
+喫落	喫落	吃落	chioq loq
+喫落腳	喫落腳	吃落脚	chioq loq ciaq
+喫茶	喫茶	吃茶	chioq dzo
+喫喫我	喫喫我	吃吃我	chioq chioq ngo
+喫喫儂	喫喫儂	吃吃侬	chioq chioq nou
+喫喫渠	喫喫渠	吃吃渠	chioq chioq ji
+喫喫阿拉	喫喫阿拉	吃吃阿拉	chioq chioq aq laq
+喫喫倷	喫喫倷	吃吃倷	chioq chioq naq
+喫喫渠拉	喫喫渠拉	吃吃渠拉	chioq chioq jiq laq
+喫癟	吃癟	吃瘪	chioq piq
+喫天亮飯	喫天亮飯	吃天亮饭	chioq thiq gnian vae
+喫熱	喫熱	吃热	chioq gniq
 玉蘭花	玉蘭花	玉兰花	gnioq lae huo
 玉石	玉石	玉石	gnioq zaq
 肉	肉	肉	gnioq8
@@ -9866,7 +9866,7 @@
 挈斤兩	挈斤兩	挈斤两	chiq cin lian
 挈夾	挈夾	挈夹	chiq kaq
 挈出尿瓶	挈出尿瓶	挈出尿瓶	chiq tshyuq syu bin
-吃力	喫力	吃力	chiq liq
+喫力	喫力	吃力	chiq liq
 皵	皵	皵	chiq7
 𤷾落	𤷾落	𤷾落	chiq loq
 漆蒿蒿	漆蒿蒿	漆蒿蒿	chiq hau hau

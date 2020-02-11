@@ -803,7 +803,7 @@
 𧻴趤公子	𧻴趤公子	laon daon kon tsy	称谓	27
 趤亨	趤亨	dan han	称谓	27
 懶樸	懒朴	lae phoq	称谓	27
-吃客	吃客	chioq khaq	称谓	27
+喫客	吃客	chioq khaq	称谓	27
 老土地	老土地	lau thu di	称谓	27
 外國人	外国人	nga koq gnin	称谓	27
 鄉下人	乡下人	shian gho gnin	称谓	27
@@ -971,8 +971,8 @@
 臭豬頭	臭猪头	chieu tsyu deu	称谓	33
 熱拆骨頭	热拆骨头	gniq tshaq kuaq deu	称谓	33
 吵朋烏龜	吵朋乌龟	tshau ban u ciu	称谓	33
-壞吃芋艿頭	坏吃芋艿头	ua chioq n na deu	称谓	33
-好吃果子	好吃果子	hau chioq kou tsy	称谓	33
+壞喫芋艿頭	坏吃芋艿头	ua chioq n na deu	称谓	33
+好喫果子	好吃果子	hau chioq kou tsy	称谓	33
 貨	货	hou5	称谓	33
 小貨	小货	shiau hou	称谓	33
 小貨場	小货场	shiau hou jian	称谓	33
@@ -1023,7 +1023,7 @@
 認屁和尚	认屁和尚	gnin phi ghou zaon	称谓	35
 跟屁屙蟲	跟屁屙虫	ken phi ou dzon	称谓	35
 隨伯嚭	随伯嚭	zei paq phi	称谓	35
-跟吃屁	跟吃屁	ken chioq phi	称谓	35
+跟喫屁	跟吃屁	ken chioq phi	称谓	35
 萬寶全書	万宝全书	vae pau dzoe syu	称谓	35
 燥地鴨	燥地鸭	sau di ae	称谓	35
 輪轉太婆	轮转太婆	len tsoe tha bou	称谓	35
@@ -1051,7 +1051,7 @@
 好日黃狗	好日黄狗	hau gniq waon ki	称谓	36
 生病黃魚	生病黄鱼	san bin waon ng	称谓	36
 蔫樣黃	蔫样黄	i yan waon	称谓	36
-吃口	吃口	chioq kheu	称谓	36
+喫口	吃口	chioq kheu	称谓	36
 拖鼻頭	拖鼻头	thou baq deu	称谓	36
 哭作包	哭作包	khoq tsoq pau	称谓	36
 ⿸尸咋屙樸	⿸尸咋屙朴	dza ou phoq	称谓	36
@@ -1481,7 +1481,7 @@
 沖場	冲场	tshon jian	身体	49
 三色	三色	sae saq	身体	49
 沙頭	沙头	so deu	身体	49
-吃相	吃相	chioq shian	身体	49
+喫相	吃相	chioq shian	身体	49
 睏相	睏相	khuen shian	身体	49
 笑面虎	笑面虎	shiau mi fu	身体	49
 面情	面情	mi jin	身体	49
@@ -2267,15 +2267,15 @@
 料理	料理	liau li	食品	77
 碗腳	碗脚	un ciaq	食品	77
 碗腳	碗脚	un cian	食品	77
-吃落腳	吃落脚	chioq loq cian	食品	77
+喫落腳	吃落脚	chioq loq cian	食品	77
 酒腳	酒脚	cieu ciaq	食品	78
 摐羹桶	𪭢羹桶	tshaon kan don	食品	78
 搡羹桶	搡羹桶	saon kan don	食品	78
 㪬落羹	㪬落羹	dzoq loq kan	食品	78
 泔腳	泔脚	ki ciaq	食品	78
-吃場	吃场	chioq jian	食品	78
-吃場案	吃场案	chioq jian ei	食品	78
-吃食	吃食	chioq zhiq	食品	78
+喫場	吃场	chioq jian	食品	78
+喫場案	吃场案	chioq jian ei	食品	78
+喫食	吃食	chioq zhiq	食品	78
 湯水	汤水	thaon syu	食品	78
 閒食	闲食	ghae zhiq	食品	78
 碎食	碎食	sei zhiq	食品	78
@@ -2365,7 +2365,7 @@
 赤泡茶	赤泡茶	chiq phau dzo	食品	81
 棒冰	棒冰	baon pin	食品	81
 地栗糕	地栗糕	di liq kau	食品	82
-吃水	吃水	chioq syu	食品	82
+喫水	吃水	chioq syu	食品	82
 熱食	热食	gniq zhiq	食品	82
 發食	发食	faq zhiq	食品	82
 氣	气	chi5	食品	82
@@ -2394,7 +2394,7 @@
 舍頭間	舍头间	so deu kae	建筑	82
 舍	舍	so1	建筑	82
 柴間	柴间	za kae	建筑	82
-吃飯間	吃饭间	chioq vae kae	建筑	83
+喫飯間	吃饭间	chioq vae kae	建筑	83
 竈偏間	灶偏间	tsau phi kae	建筑	83
 竈跟	灶跟	tsau ken	建筑	83
 竈跟間	灶跟间	tsau ken kae	建筑	83
@@ -2597,7 +2597,7 @@
 敲傢俬	敲家私	khau ko sy	器物用具	90
 房空	房空	vaon khon	器物用具	90
 家生	家生	ko san	器物用具	90
-吃飯家生	吃饭家生	chioq vae ko san	器物用具	90
+喫飯家生	吃饭家生	chioq vae ko san	器物用具	90
 家火	家火	ko hou	器物用具	90
 傢伙	家伙	ko hou	器物用具	90
 嫁資	嫁资	ko tsy	器物用具	90
@@ -3180,8 +3180,8 @@
 黃虻	黄虻	waon man	动物	112
 虎螕	虎螕	fu pi	动物	112
 草螕	草螕	tshau pi	动物	112
-吃髮螂	吃发螂	chioq faq laon	动物	112
-吃髮螳螂	吃发螳螂	chioq faq daon laon	动物	112
+喫髮螂	吃发螂	chioq faq laon	动物	112
+喫髮螳螂	吃发螳螂	chioq faq daon laon	动物	112
 斧頭斫螂	斧头斫螂	fu deu tsoq laon	动物	112
 斧頭䗫𧉹	斧头䗫𧉹	fu deu mo tsaq	动物	112
 解樹螂	解树螂	ga dzyu laon	动物	112
@@ -3642,7 +3642,7 @@
 𩌑	𩌑	iu3	其他	132
 䩩	䩩	iu3	其他	132
 廚頓	厨顿	dzyu ten	其他	132
-吃食命	吃食命	chioq zhiq min	其他	132
+喫食命	吃食命	chioq zhiq min	其他	132
 漲息	涨息	cian shiq	其他	132
 水缸腳	水缸脚	syu kaon ciaq	其他	132
 米漿泔水	米浆泔水	mi cian ki syu	其他	132
@@ -3724,7 +3724,7 @@
 咂	咂	tsoq7	与人体有关的动词	136
 渳	渳	mhi5	与人体有关的动词	136
 注	注	tsyu5	与人体有关的动词	136
-吃	吃	chioq7	与人体有关的动词	137
+喫	吃	chioq7	与人体有关的动词	137
 嗒	嗒	taq7	与人体有关的动词	137
 鯁	鲠	gan4	与人体有关的动词	137
 刮	刮	kuaq7	与人体有关的动词	137
@@ -3741,10 +3741,10 @@
 咽酸	咽酸	i soe	与人体有关的动词	137
 打䬵	打䬵	tan ge	与人体有关的动词	137
 打冷呃	打冷呃	tan lan aq	与人体有关的动词	137
-吃老蛤螷	吃老蛤螷	chioq lau kaq bi	与人体有关的动词	137
+喫老蛤螷	吃老蛤螷	chioq lau kaq bi	与人体有关的动词	137
 搶翁	抢翁	chian on	与人体有关的动词	137
 空肚	空肚	khon du	与人体有关的动词	137
-吃煞	吃煞	chioq saq	与人体有关的动词	137
+喫煞	吃煞	chioq saq	与人体有关的动词	137
 上念	上念	zaon gni	与人体有关的动词	138
 上念頭	上念头	zaon gni deu	与人体有关的动词	138
 嗀	嗀	hoq7	与人体有关的动词	138
@@ -4279,7 +4279,7 @@
 鼻頭管塞煞	鼻头管塞煞	baq deu kun saq saq	与人体有关的动词	172
 發酒凚	发酒凚	faq cieu jin	与人体有关的动词	172
 𢪂痚駝	𢪂痚驼	da hau dou	与人体有关的动词	172
-吃熱	吃热	chioq gniq	与人体有关的动词	172
+喫熱	吃热	chioq gniq	与人体有关的动词	172
 發痧氣	发痧气	faq so chi	与人体有关的动词	172
 肚皮⿸尸咋	肚皮⿸尸咋	du bi dza	与人体有关的动词	172
 ⿸尸咋肚皮	⿸尸咋肚皮	dza du bi	与人体有关的动词	172
@@ -4293,7 +4293,7 @@
 腳筋吊	脚筋吊	ciaq cin tiau	与人体有关的动词	172
 吊腳筋	吊脚筋	tiau ciaq cin	与人体有关的动词	172
 傷筋	伤筋	saon cin	与人体有关的动词	172
-吃蘿蔔乾	吃萝卜干	chioq lou boq ki	与人体有关的动词	172
+喫蘿蔔乾	吃萝卜干	chioq lou boq ki	与人体有关的动词	172
 漬煞	渍煞	ciq saq	与人体有关的动词	172
 滑腸	滑肠	waq jian	与人体有关的动词	172
 瘥	瘥	tsho5	与人体有关的动词	173
@@ -4332,8 +4332,8 @@
 顧着	顾着	ku dzoq	与人体有关的动词	174
 尚怕	尚怕	zaon pho	与人体有关的动词	174
 惑怕	惑怕	ghoq pho	与人体有关的动词	174
-吃𢞕	吃𢞕	chiq hoq	与人体有关的动词	174
-吃嚇	吃吓	chiq haq	与人体有关的动词	174
+喫𢞕	吃𢞕	chiq hoq	与人体有关的动词	174
+喫嚇	吃吓	chiq haq	与人体有关的动词	174
 腦算	脑算	nau soe	与人体有关的动词	174
 攪賺	搅赚	gau dzae	与人体有关的动词	174
 得知	得知	toq tsyu	与人体有关的动词	174
@@ -4415,7 +4415,7 @@
 兌姑嫂	兑姑嫂	dei ku sau	与人事有关的动词	179
 擡䞁房	抬䞁房	de i vaon	与人事有关的动词	179
 討䞁房	讨䞁房	thau i vaon	与人事有关的动词	179
-吃糖	吃糖	chioq daon	与人事有关的动词	179
+喫糖	吃糖	chioq daon	与人事有关的动词	179
 過歲	过岁	kou syu	与人事有关的动词	179
 發送	发送	faq son	与人事有关的动词	179
 搬嫁妝	搬嫁妆	pun ko tsaon	与人事有关的动词	179
@@ -4425,10 +4425,10 @@
 享先	享先	shian shi	与人事有关的动词	179
 好日	好日	hau gniq	与人事有关的动词	179
 傳袋	传袋	dzoe de	与人事有关的动词	180
-吃酒	吃酒	chioq cieu	与人事有关的动词	180
+喫酒	吃酒	chioq cieu	与人事有关的动词	180
 送轎	送轿	son jiau	与人事有关的动词	180
-吃送酒	吃送酒	chioq son cieu	与人事有关的动词	180
-吃送轎米飯	吃送轿米饭	chioq son jiau mi vae	与人事有关的动词	180
+喫送酒	吃送酒	chioq son cieu	与人事有关的动词	180
+喫送轎米飯	吃送轿米饭	chioq son jiau mi vae	与人事有关的动词	180
 送人情	送人情	son gnin jin	与人事有关的动词	180
 送嫁	送嫁	son ko	与人事有关的动词	180
 吵房	吵房	tshau vaon	与人事有关的动词	180
@@ -4793,8 +4793,8 @@
 上老當	上老当	zaon lau taon	与人事有关的动词	199
 穿繃	穿绷	tshoe pan	与人事有关的动词	199
 坍臺	坍台	thae de	与人事有关的动词	199
-吃癟	吃瘪	chioq piq	与人事有关的动词	199
-吃着	吃着	chioq dzoq	与人事有关的动词	199
+喫癟	吃瘪	chioq piq	与人事有关的动词	199
+喫着	吃着	chioq dzoq	与人事有关的动词	199
 落軋	落轧	loq gaq	与人事有关的动词	199
 落薄	落薄	loq boq	与人事有关的动词	199
 交運	交运	kau yun	与人事有关的动词	199
@@ -5418,7 +5418,7 @@
 細相	细相	shi shian	形态	232
 時道	时道	zy dau	形态	232
 登樣	登样	ten yan	形态	232
-吃格	吃格	chioq kaq	形态	232
+喫格	吃格	chioq kaq	形态	232
 出勢	出势	tshyuq syu	形态	232
 架勢	架势	ko syu	形态	233
 映起	映起	in chi	形态	233
@@ -5692,7 +5692,7 @@
 ⿰忄態	⿰忄态	the3	性质	246
 細碎	细碎	shi sei	性质	246
 低皮	低皮	ti bi	性质	246
-吃素	吃素	chioq su	性质	246
+喫素	吃素	chioq su	性质	246
 可憐可相	可怜可相	khou li khou shian	性质	246
 可憐相	可怜相	khou li shian	性质	246
 花	花	huo1	性质	247
@@ -6358,7 +6358,7 @@
 鮮朵朵	鲜朵朵	shi do do	味道	277
 鮮豁豁	鲜豁豁	shi huaq huaq	味道	277
 飄	飘	phiau1	味道	277
-壞吃	坏吃	ua chioq	味道	277
+壞喫	坏吃	ua chioq	味道	277
 及味	及味	jiq mi	味道	277
 香烘烘	香烘烘	shian hon hon	气味	277
 氣息	气息	chi shiq	气味	277
@@ -6972,7 +6972,7 @@
 打後手	打后手	tan gheu shieu	短语	314
 打把勢	打把势	tan po syu	短语	314
 打迾軋	打迾轧	tan laq gaq	短语	314
-吃栗子	吃栗子	chioq liq tsy	短语	314
+喫栗子	吃栗子	chioq liq tsy	短语	314
 打獨溜	打独溜	tan doq lieu	短语	314
 打探動	打探动	tan thei don	短语	314
 打探動鼓	打探动鼓	tan thei don ku	短语	314
@@ -7001,30 +7001,30 @@
 𢪂頭皮	𢪂头皮	da deu bi	短语	316
 吊心火	吊心火	tiau shin hou	短语	316
 吊燥水	吊燥水	tiau sau syu	短语	316
-吃小苦	吃小苦	chioq shiau khu	短语	316
-吃勿落	吃勿落	chioq vaq loq	短语	316
-吃勒落	吃勒落	chioq laq loq	短语	316
-吃巴掌	吃巴掌	chioq po tsaon	短语	316
-吃生活	吃生活	chioq san waq	短语	316
-吃老苦	吃老苦	chioq lau khu	短语	316
-吃死飯	吃死饭	chioq shi vae	短语	316
-吃夾餅	吃夹饼	chioq kaq pin	短语	316
-吃後撲	吃后扑	chioq gheu phoq	短语	316
-吃花菜	吃花菜	chioq huo tshe	短语	316
-吃豆腐	吃豆腐	chioq deu vu	短语	316
-吃輪飯	吃轮饭	chioq lin vae	短语	316
-吃軟弶	吃软弶	chioq gniu jian	短语	316
-吃攪勢	吃搅势	chioq gau syu	短语	316
-吃面孔	吃面孔	chioq mi khon	短语	316
-吃賠賬	吃赔账	chioq bei cian	短语	317
-吃蛋糕	吃蛋糕	chioq dae kau	短语	317
+喫小苦	吃小苦	chioq shiau khu	短语	316
+喫勿落	吃勿落	chioq vaq loq	短语	316
+喫勒落	吃勒落	chioq laq loq	短语	316
+喫巴掌	吃巴掌	chioq po tsaon	短语	316
+喫生活	吃生活	chioq san waq	短语	316
+喫老苦	吃老苦	chioq lau khu	短语	316
+喫死飯	吃死饭	chioq shi vae	短语	316
+喫夾餅	吃夹饼	chioq kaq pin	短语	316
+喫後撲	吃后扑	chioq gheu phoq	短语	316
+喫花菜	吃花菜	chioq huo tshe	短语	316
+喫豆腐	吃豆腐	chioq deu vu	短语	316
+喫輪飯	吃轮饭	chioq lin vae	短语	316
+喫軟弶	吃软弶	chioq gniu jian	短语	316
+喫攪勢	吃搅势	chioq gau syu	短语	316
+喫面孔	吃面孔	chioq mi khon	短语	316
+喫賠賬	吃赔账	chioq bei cian	短语	317
+喫蛋糕	吃蛋糕	chioq dae kau	短语	317
 打蛋糕	打蛋糕	tan dae kau	短语	317
-吃僝頭	吃僝头	chioq zae deu	短语	317
-吃噴頭	吃喷头	chioq phen deu	短语	317
-吃排頭	吃排头	chioq ba deu	短语	317
-吃排山	吃排山	chioq ba sae	短语	317
-吃趤飯	吃趤饭	chioq dan vae	短语	317
-吃翻桌	吃翻桌	chioq fae tsoq	短语	317
+喫僝頭	吃僝头	chioq zae deu	短语	317
+喫噴頭	吃喷头	chioq phen deu	短语	317
+喫排頭	吃排头	chioq ba deu	短语	317
+喫排山	吃排山	chioq ba sae	短语	317
+喫趤飯	吃趤饭	chioq dan vae	短语	317
+喫翻桌	吃翻桌	chioq fae tsoq	短语	317
 回腳出	回脚出	wei ciaq tshyuq	短语	317
 傷陰騭	伤阴骘	saon in ciq	短语	317
 自曉得	自晓得	zhi shiau taq	短语	317
@@ -7088,7 +7088,7 @@
 話話其	话话其	wo wo ji	短语	320
 聽壁腳	听壁脚	thin piq ciaq	短语	320
 岔夾餅	岔夹饼	tsho kaq pin	短语	320
-飯吃煞	饭吃煞	vae chioq saq	短语	320
+飯喫煞	饭吃煞	vae chioq saq	短语	320
 忌一腳	忌一脚	ji iq ciaq	短语	320
 苦勿出	苦勿出	khu vaq tshyuq	短语	320
 苦勒出	苦勒出	khu laq tshyuq	短语	320
@@ -7204,7 +7204,7 @@
 撮着撮	撮着撮	tshaq dzoq tshaq	短语	325
 抽着抽	抽着抽	chieu dzoq chieu	短语	325
 坐着坐	坐着坐	zou dzoq zou	短语	325
-吃着吃	吃着吃	chioq dzoq chioq	短语	325
+喫着喫	吃着吃	chioq dzoq chioq	短语	325
 嚼麥糕	嚼麦糕	zhiaq maq kau	短语	326
 一五一十	一五一十	iq ng iq zyuq	短语	326
 一長二短	一长二短	iq jian gni toe	短语	326
@@ -7302,7 +7302,7 @@
 有講嘸講	有讲呒讲	yeu kaon mh kaon	短语	329
 有看嘸看	有看呒看	yeu khi mh khi	短语	329
 有聽嘸聽	有听呒听	yeu thin mh thin	短语	329
-有吃嘸吃	有吃呒吃	yeu chioq mh chioq	短语	329
+有喫嘸喫	有吃呒吃	yeu chioq mh chioq	短语	329
 有寫嘸寫	有写呒写	yeu shia mh shia	短语	329
 有揩嘸揩	有揩呒揩	yeu kha mh kha	短语	329
 有⿰氵丈嘸⿰氵丈	有⿰氵丈呒⿰氵丈	yeu jian mh jian	短语	329
@@ -7311,13 +7311,13 @@
 死蟹一隻	死蟹一只	shi ha iq tsaq	短语	330
 死蟹吹白	死蟹吹白	shi ha tshyu baq	短语	330
 夾頭夾腦	夹头夹脑	kaq deu kaq nau	短语	330
-吃人腦髓	吃人脑髓	chioq gnin nau shi	短语	330
-吃氣勿過	吃气勿过	chioq chi vaq kou	短语	330
-吃腦子卜	吃脑子卜	chioq nau tsy boq	短语	330
-吃腦子彈	吃脑子弹	chioq nau tsy dae	短语	330
-吃腦子磕	吃脑子磕	chioq nau tsy khaq	短语	330
-吃蘿蔔乾	吃萝卜干	chioq lou boq ki	短语	330
-吃豁辣面	吃豁辣面	chioq huaq laq mi	短语	330
+喫人腦髓	吃人脑髓	chioq gnin nau shi	短语	330
+喫氣勿過	吃气勿过	chioq chi vaq kou	短语	330
+喫腦子卜	吃脑子卜	chioq nau tsy boq	短语	330
+喫腦子彈	吃脑子弹	chioq nau tsy dae	短语	330
+喫腦子磕	吃脑子磕	chioq nau tsy khaq	短语	330
+喫蘿蔔乾	吃萝卜干	chioq lou boq ki	短语	330
+喫豁辣面	吃豁辣面	chioq huaq laq mi	短语	330
 同同到老	同同到老	don don tau lau	短语	330
 傴頭磕腦	伛头磕脑	eu deu khaq nau	短语	330
 傴倒施揖	伛倒施揖	eu tau sy iq	短语	330
@@ -7350,7 +7350,7 @@
 嘸沒心事	呒没心事	mhiq shin zy	短语	331
 帳子丫臉	帐子丫脸	cian tsy o li	短语	331
 亂講西講	乱讲西讲	loe kaon shi kaon	短语	332
-亂吃西吃	乱吃西吃	loe chioq shi chioq	短语	332
+亂喫西喫	乱吃西吃	loe chioq shi chioq	短语	332
 亂開西開	乱开西开	loe khe shi khe	短语	332
 亂買西買	乱买西买	loe ma shi ma	短语	332
 亂話三千	乱话三千	loe wo sae chi	短语	332
@@ -7359,7 +7359,7 @@
 亂唱三千	乱唱三千	loe tshaon sae chi	短语	332
 亂弄三千	乱弄三千	loe lon sae chi	短语	332
 亂用三千	乱用三千	loe yon sae chi	短语	332
-亂吃三千	乱吃三千	loe chioq sae chi	短语	332
+亂喫三千	乱吃三千	loe chioq sae chi	短语	332
 亂算三千	乱算三千	loe soe sae chi	短语	332
 亂忖三千	乱忖三千	loe tshen sae chi	短语	332
 連頓夾廚	连顿夹厨	li ten kaq dzyu	短语	332
@@ -7398,7 +7398,7 @@
 性命出脫	性命出脱	shin min tshyuq thaq	短语	333
 空手散腳	空手散脚	khon shieu sae ciaq	短语	333
 話上加話	话上加话	wo zaon ko wo	短语	333
-吃上加吃	吃上加吃	chioq zaon ko chioq	短语	333
+喫上加喫	吃上加吃	chioq zaon ko chioq	短语	333
 看上加看	看上加看	khi zaon ko khi	短语	333
 做上加做	做上加做	tsou zaon ko tsou	短语	333
 忖上加忖	忖上加忖	tshen zaon ko tshen	短语	333
@@ -7446,7 +7446,7 @@
 倒摸順埭	倒摸顺埭	tau moq zyun da	短语	335
 倒摸順踏	倒摸顺踏	tau moq zyun daq	短语	335
 傾燙火熱	倾烫火热	chin thaon hou gniq	短语	336
-浪吃浪用	浪吃浪用	laon chioq laon yon	短语	336
+浪喫浪用	浪吃浪用	laon chioq laon yon	短语	336
 害連百場	害连百场	ghe li baq jian	短语	336
 害連白道場	害连白道场	ghe li baq dau jian	短语	336
 害爹害孃	害爹害娘	ghe tia ghe gnian	短语	336
@@ -7496,7 +7496,7 @@
 睬儂阿白哥	睬侬阿白哥	tshe nou aq baq kou	短语	338
 睬儂老白	睬侬老白	tshe nou lau baq	短语	338
 矮中取長	矮中取长	a tson tshyu jian	短语	338
-覅吃甮吃	覅吃甮吃	fe chioq ven chioq	短语	338
+覅喫甮喫	覅吃甮吃	fe chioq ven chioq	短语	338
 覅穿甮穿	覅穿甮穿	fe tshoe ven tshoe	短语	338
 覅聽甮聽	覅听甮听	fe thin ven thin	短语	338
 覅看甮看	覅看甮看	fe khi ven khi	短语	338
@@ -7513,7 +7513,7 @@
 瞎𠡒西𠡒	瞎𠡒西𠡒	haq tei shi tei	短语	339
 瞎𠡒百𠡒	瞎𠡒百𠡒	haq tei paq tei	短语	339
 踢腳𢲔手	踢脚𢲔手	thiq ciaq pae shieu	短语	339
-贏吃輸賴	赢吃输赖	yin chioq syu la	短语	339
+贏喫輸賴	赢吃输赖	yin chioq syu la	短语	339
 譬如勿得	譬如勿得	phi zyu vaq taq	短语	339
 譬如勿如	譬如勿如	phi zyu vaq zyu	短语	339
 一場嘸結果	一场呒结果	iq jian mh ciq kou	短语	339
@@ -7528,7 +7528,7 @@
 有句閒話成份	有句闲话成份	yeu ciu ghae wo jin ven	短语	340
 嘸沒閒話份	呒没闲话份	mhiq ghae wo ven	短语	340
 嘸沒閒話成份	呒没闲话成份	mhiq ghae wo jin ven	短语	340
-吃空心湯糰	吃空心汤团	chioq khon shin thaon doe	短语	340
+喫空心湯糰	吃空心汤团	chioq khon shin thaon doe	短语	340
 各手勿知賬	各手勿知账	koq shieu vaq tsyu cian	短语	340
 嘸郎看大體	呒郎看大体	mh laon khi da thi	短语	340
 嘸郎看大體	呒郎看大体	mh naon khi da thi	短语	340
@@ -7546,7 +7546,7 @@
 怨氣太白山	怨气太白山	iu chi tha baq sae	短语	340
 渾身勿搭界	浑身勿搭界	wen shin vaq taq ka	短语	340
 穿嘸沒穿着	穿呒没穿着	tshoe mhiq tshoe dzoq	短语	340
-吃嘸沒吃着	吃呒没吃着	chioq mhiq chioq dzoq	短语	340
+喫嘸沒喫着	吃呒没吃着	chioq mhiq chioq dzoq	短语	340
 做嘸沒做着	做呒没做着	tsou mhiq tsou dzoq	短语	340
 走嘸沒走着	走呒没走着	tseu mhiq tseu dzoq	短语	340
 冤家犯死徑	冤家犯死径	iu ko vae shi cin	短语	341
