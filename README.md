@@ -24,7 +24,7 @@
 
 ## The Ningpo Syllabary
 
-《The Ningpo Syllabary》出版於 1901 年，作者是德國語言學家 [穆麟德](https://en.wikipedia.org/wiki/Paul_Georg_von_Möllendorff) （P. G. von Möllendorff）。其中同音字表部分爲夏清瑞在穆麟德的指導下完成。書中採用了 [丁韙良](https://en.wikipedia.org/wiki/William_Alexander_Parsons_Martin) 等人在 1951 年創制的一套寧波話拼音，並在引言中對這套拼音做了詳細的描述。
+《寧波方言音節》(*The Ningpo Syllabary*) 出版於 1901 年，作者是德國語言學家 [穆麟德](https://en.wikipedia.org/wiki/Paul_Georg_von_Möllendorff) （P. G. von Möllendorff）。其中同音字表部分爲夏清瑞在穆麟德的指導下完成。書中採用了 [丁韙良](https://en.wikipedia.org/wiki/William_Alexander_Parsons_Martin) 等人在 1951 年創制的一套寧波話拼音，並在引言中對這套拼音做了詳細的描述。
 
 文件 [`The_Ningpo_Syllabary.txt`](The_Ningpo_Syllabary.txt) 中抄錄了原書第 1 頁～第 54 頁的同音字表。
 
