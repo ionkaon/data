@@ -573,7 +573,7 @@
 男人	男人	nei gnin	称谓	19
 老頭	老头	lau deu	称谓	19
 老頭	老头	lau dei	称谓	19
-老𡢿	老𡢿	lau gnion	称谓	19
+老𡢿	老𭑸	lau gnion	称谓	19
 老婆	老婆	lau bou	称谓	19
 女人	女人	gniu gnin	称谓	19
 屋裏人	屋里人	oq li gnin	称谓	19
@@ -683,13 +683,13 @@
 老太婆	老太婆	lau tha boe	称谓	22
 男人家	男人家	nei gnin ko	称谓	22
 女人頭	女人头	gniu gnin deu	称谓	22
-老𡢿爿	老𡢿爿	lau gnion bae	称谓	22
+老𡢿爿	老𭑸爿	lau gnion bae	称谓	22
 老人爿	老人爿	lau gnin bae	称谓	22
 男同胞	男同胞	nei don pau	称谓	22
 女同胞	女同胞	gniu don pau	称谓	22
 大姑娘	大姑娘	dou ku gnian	称谓	22
 孤老	孤老	ku lau	称谓	22
-孤孀老𡢿	孤孀老𡢿	ku saon lau gnion	称谓	22
+孤孀老𡢿	孤孀老𭑸	ku saon lau gnion	称谓	22
 小官人	小官人	shiau kun gnin	称谓	23
 自家人	自家人	zhi ko gnin	称谓	23
 人家人	人家人	gnin ko gnin	称谓	23
@@ -755,8 +755,8 @@
 警察爛眼	警察烂眼	cin tshaq lae ngae	称谓	25
 爛眼	烂眼	lae ngae	称谓	25
 大肚皮	大肚皮	dou du bi	称谓	25
-雙身老𡢿	双身老𡢿	saon shin lau gnion	称谓	25
-有身老𡢿	有身老𡢿	yeu shin lau gnion	称谓	25
+雙身老𡢿	双身老𭑸	saon shin lau gnion	称谓	25
+有身老𡢿	有身老𭑸	yeu shin lau gnion	称谓	25
 生姆孃	生姆娘	san m gnian	称谓	25
 出窠孃	出窠娘	tshyuq khou gnian	称谓	25
 阿姆	阿姆	a m	称谓	25
@@ -1508,7 +1508,7 @@
 肚才	肚才	du dze	身体	50
 計較	计较	ci kau	身体	50
 算着	算着	soe ciaq	身体	50
-惀帶	惀带	len ta	身体	50
+惀帶	𰑄带	len ta	身体	50
 門檻	门槛	men khae	身体	50
 根腳	根脚	ken ciaq	身体	50
 底	底	ti3	身体	50
@@ -1575,7 +1575,7 @@
 近𥉻眼	近𥉻眼	jin chi ngae	疾病	52
 近覷眼	近觑眼	jin tshyu ngae	疾病	52
 鏖糟眼	鏖糟眼	au tsau ngae	疾病	53
-青盲瞎	青盲瞎	chin maon haq	疾病	53
+青盲瞎	青盲瞎	chin man haq	疾病	53
 借米聾	借米聋	cia mi lon	疾病	53
 借米聾	借米聋	cian mi lon	疾病	53
 齈鼻頭	齈鼻头	nhon baq deu	疾病	53
@@ -1819,7 +1819,7 @@
 燥粥𤿏飯	燥粥𤿏饭	sau tsoq nei vae	食品	61
 燥烤飯	燥烤饭	sau khau vae	食品	61
 純米飯	纯米饭	zyun mi vae	食品	61
-冷飯娘	冷饭娘	lan vae gnian	食品	61
+冷飯孃	冷饭娘	lan vae gnian	食品	61
 飯黏	饭黏	vae kni	食品	61
 飯黏碎	饭黏碎	vae kni sei	食品	61
 鑊焦	镬焦	ghoq ciau	食品	61
@@ -3775,7 +3775,7 @@
 話	话	wo6	与人体有关的动词	139
 難話	难话	nae wo	与人体有关的动词	139
 難講	难讲	nae kaon	与人体有关的动词	139
-𧥣	𧥣	kheu5	与人体有关的动词	139
+𧥣	𬣚	kheu5	与人体有关的动词	139
 嘮	唠	lau6	与人体有关的动词	139
 歪	歪	hua3	与人体有关的动词	139
 聽回話	听回话	thin wei wo	与人体有关的动词	139
@@ -3806,8 +3806,8 @@
 脹	胀	cian5	与人体有关的动词	141
 發	发	faq7	与人体有关的动词	141
 噱	噱	shiuq7	与人体有关的动词	141
-謞	謞	hoq7	与人体有关的动词	141
-詏	詏	au3	与人体有关的动词	141
+謞	𰵿	hoq7	与人体有关的动词	141
+詏	𬣦	au3	与人体有关的动词	141
 屙講	屙讲	ou kaon	与人体有关的动词	141
 拆空	拆空	tshaq khon	与人体有关的动词	141
 拆亂	拆乱	tshaq loe	与人体有关的动词	141
@@ -3882,7 +3882,7 @@
 畚	畚	pen1	与人体有关的动词	146
 出	出	tshyuq7	与人体有关的动词	146
 扽	扽	den6	与人体有关的动词	146
-𠞭	𠞭	lheu1	与人体有关的动词	146
+𠞭	𫦉	lheu1	与人体有关的动词	146
 摟	搂	lheu1	与人体有关的动词	146
 鏤	镂	lheu1	与人体有关的动词	146
 撬	撬	jiau6	与人体有关的动词	146
@@ -4045,7 +4045,7 @@
 妝	妆	tsaon1	与人体有关的动词	157
 搨	搨	thaq7	与人体有关的动词	157
 𢷍	𢷍	in5	与人体有关的动词	157
-䞁	䞁	i5	与人体有关的动词	158
+䞁	𬥺	i5	与人体有关的动词	158
 拓	拓	thoq7	与人体有关的动词	158
 戥	戥	ten3	与人体有关的动词	158
 擪	擪	iq7	与人体有关的动词	158
@@ -4065,7 +4065,7 @@
 汏	汏	da6	与人体有关的动词	159
 濯	濯	dzaq8	与人体有关的动词	159
 排	排	ba2	与人体有关的动词	159
-㶒	㶒	thei5	与人体有关的动词	159
+㶒	𰛩	thei5	与人体有关的动词	159
 溼	湿	saq7	与人体有关的动词	159
 咬	咬	ngau4	与人体有关的动词	159
 鹽	盐	yi6	与人体有关的动词	159
@@ -4328,7 +4328,7 @@
 忖	忖	tshen3	与人体有关的动词	174
 呆忖忖	呆忖忖	nge tshen tshen	与人体有关的动词	174
 毛估估	毛估估	mau ku ku	与人体有关的动词	174
-惀	惀	len2	与人体有关的动词	174
+惀	𰑄	len2	与人体有关的动词	174
 防	防	baon2	与人体有关的动词	174
 記防	记防	ci baon	与人体有关的动词	174
 料着	料着	liau dzoq	与人体有关的动词	174
@@ -4416,8 +4416,8 @@
 做新婦	做新妇	tsou shin vu	与人事有关的动词	179
 擡去	抬去	de chi	与人事有关的动词	179
 兌姑嫂	兑姑嫂	dei ku sau	与人事有关的动词	179
-擡䞁房	抬䞁房	de i vaon	与人事有关的动词	179
-討䞁房	讨䞁房	thau i vaon	与人事有关的动词	179
+擡䞁房	抬𬥺房	de i vaon	与人事有关的动词	179
+討䞁房	讨𬥺房	thau i vaon	与人事有关的动词	179
 喫糖	吃糖	chioq daon	与人事有关的动词	179
 過歲	过岁	kou syu	与人事有关的动词	179
 發送	发送	faq son	与人事有关的动词	179
@@ -5134,7 +5134,7 @@
 肉割割	肉割割	gnioq kaq kaq	感觉	220
 殟煞	殟煞	uaq saq	感觉	220
 怏勃勃	怏勃勃	aon baq baq	感觉	220
-怏躁躁	怏躁躁	aon tshau tshau	感觉	220
+怏躁躁	怏躁躁	aon tsau tsau	感觉	220
 怏勃幾糟	怏勃几糟	aon baq ci tsau	感觉	220
 心煩幾糟	心烦几糟	shin vae ci tsau	感觉	220
 惡氣倒出	恶气倒出	oq chi tau tshyuq	感觉	220
@@ -5300,8 +5300,8 @@
 賊鈍	贼钝	zaq den	形态	227
 鋒快	锋快	fen khua	形态	227
 骨直	骨直	kuaq jiq	形态	227
-直儱侗	直儱侗	jiq lon thon	形态	227
-直白儱侗	直白儱侗	jiq baq lon thon	形态	227
+直儱侗	直𫢒侗	jiq lon thon	形态	227
+直白儱侗	直白𫢒侗	jiq baq lon thon	形态	227
 彎折格亂	弯折格乱	uae ciq kaq loe	形态	227
 水平	水平	syu bin	形态	227
 雪平	雪平	syuq bin	形态	227
@@ -5876,8 +5876,8 @@
 嘍吼	喽吼	leu heu	性质	256
 稀吼	稀吼	shi heu	性质	256
 稀裏吼嘍	稀里吼喽	shi li heu leu	性质	256
-𠞭膿刮髓	𠞭脓刮髓	lheu non kuaq shi	性质	256
-𠞭形刮髓	𠞭形刮髓	lheu yin kuaq shi	性质	256
+𠞭膿刮髓	𫦉脓刮髓	lheu non kuaq shi	性质	256
+𠞭形刮髓	𫦉形刮髓	lheu yin kuaq shi	性质	256
 丫角亂經	丫角乱经	o koq loe cin	性质	256
 奇出古怪	奇出古怪	ji tshyuq ku kua	性质	256
 硬傷	硬伤	ngan saon	性质	256
@@ -6400,7 +6400,7 @@
 答答	答答	taq taq	声音、情貌	278
 帶帶	带带	ta ta	声音、情貌	278
 大大	大大	da da	声音、情貌	278
-㖦㖦	㖦㖦	ton ton	声音、情貌	179
+㖦㖦	𰇎𰇎	ton ton	声音、情貌	179
 噥噥	哝哝	nhon nhon	声音、情貌	179
 ⿰口茄⿰口茄	⿰口茄⿰口茄	jia jia	声音、情貌	179
 紅紅	红红	ghon ghon	声音、情貌	179
@@ -6413,7 +6413,7 @@
 咿胡噢胡	咿胡噢胡	i wu au wu	声音、情貌	179
 咿哩嗚嚕	咿哩呜噜	i li u lu	声音、情貌	179
 哚哚	哚哚	do do	声音、情貌	179
-訰訰	訰訰	ten ten	声音、情貌	179
+訰訰	𰵍𰵍	ten ten	声音、情貌	179
 咖咖	咖咖	go go	声音、情貌	179
 嗐嗐	嗐嗐	ghe ghe	声音、情貌	179
 㖃㖃	㖃㖃	gheu gheu	声音、情貌	179
@@ -7484,7 +7484,7 @@
 腳底奔穿	脚底奔穿	ciaq ti pen tshoe	短语	337
 腳底奔洞	脚底奔洞	ciaq ti pen don	短语	337
 脫情勿來	脱情勿来	thaq jin vaq le	短语	337
-𠞭𠞭挖挖	𠞭𠞭挖挖	lheu lheu uaq uaq	短语	337
+𠞭𠞭挖挖	𫦉𫦉挖挖	lheu lheu uaq uaq	短语	337
 寄手勿動	寄手勿动	ci shieu vaq don	短语	337
 隨便其法	随便其法	zei bi ji faq	短语	337
 隨便其咋	随便其咋	zei bi ji dza	短语	337
