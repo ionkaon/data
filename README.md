@@ -2,7 +2,8 @@
 
 - [《阿拉宁波话(修订版)》索引](https://github.com/ionkaon/data#阿拉宁波话修订版索引)
 - [The Ningpo Syllabary](https://github.com/ionkaon/data#The-Ningpo-Syllabary)
-- [《寧波方言詞典》詞條](https://github.com/ionkaon/data#寧波方言詞典詞條)
+- [湯版《寧波方言詞典》詞條](https://github.com/ionkaon/data#湯版寧波方言詞典詞條)
+- [朱版《宁波方言词典》索引](https://github.com/ionkaon/data#朱版宁波方言词典索引)
 
 ## 《阿拉宁波话(修订版)》索引
 
@@ -51,7 +52,7 @@
 
 需要注意的是，拼音方案裏表示濁音或送氣的符號並非引號，而是 [粗氣符](https://en.wikipedia.org/wiki/Rough_breathing)「ʽ」。在抄錄時未對其做改動。
 
-## 《寧波方言詞典》詞條
+## 湯版《寧波方言詞典》詞條
 
 文件 [`《寧波方言詞典》詞條.tsv`](《寧波方言詞典》詞條.tsv) 整理了江蘇教育版《寧波方言詞典》中的詞條。
 
@@ -60,6 +61,16 @@
 書中未被 Unicode 收錄的生僻字，使用 [IDC](https://en.wikipedia.org/wiki/Ideographic_Description_Characters_(Unicode_block)) 表示。
 
 書中在字下面加小圓圈來表示同音替代，文件內使用在字後面加「○」的方式表示。
+
+## 朱版《宁波方言词典》索引
+
+文件 [`《宁波方言词典》索引.tsv`](《宁波方言词典》索引.tsv) 整理了汉语大词典版《宁波方言词典》中的詞條。
+
+文件共分爲五列，第一列是整理繁體詞頭，第二列是原書書中的簡體詞頭，第三列是詞語對應的推導到老派的吳語拼音，第四列爲從原書的國際音標轉寫過來的吳語拼音，第五列爲該詞在原書中的頁碼。
+
+書中未被 Unicode 收錄的生僻字，使用 [IDC](https://en.wikipedia.org/wiki/Ideographic_Description_Characters_(Unicode_block)) 表示。
+
+索引還將書中提到的又音某、又作某等單獨列爲了詞頭。
 
 ## 反饋
 
