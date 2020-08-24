@@ -1129,7 +1129,7 @@
 啥人	啥人	soq gnin	称谓	39
 啥人	啥人	sou gnin	称谓	39
 啥人	啥人	so gnin	称谓	39
-孰儂	孰侬	zyu nou	称谓	39
+孰儂	孰侬	zoq nou	称谓	39
 啥人家	啥人家	soq gnin ko	称谓	39
 啥人家	啥人家	sou gnin ko	称谓	39
 啥人家	啥人家	so gnin ko	称谓	39
@@ -1671,11 +1671,11 @@
 藥圓	药圆	yaq yu	疾病	56
 藍藥水	蓝药水	lae yaq syu	疾病	56
 快口藥	快口药	khua kheu yaq	疾病	56
-戴頭篷	戴头篷	ta deu bon	服饰	56
+戴頭篷	戴头篷	te deu bon	服饰	56
 蒲帽	蒲帽	bu mau	服饰	56
-涼帽戴篷	凉帽戴篷	lian mau ta bon	服饰	56
+涼帽戴篷	凉帽戴篷	lian mau te bon	服饰	56
 涼帽篷	凉帽篷	lian mau bon	服饰	56
-陽帽戴篷	阳帽戴篷	yan mau ta bon	服饰	56
+陽帽戴篷	阳帽戴篷	yan mau te bon	服饰	56
 陽帽篷	阳帽篷	yan mau bon	服饰	56
 大帽	大帽	da mau	服饰	56
 開普帽	开普帽	khe phu mau	服饰	56
@@ -2741,7 +2741,7 @@
 塊頭	块头	khuei deu	器物用具	95
 角頭	角头	koq deu	器物用具	95
 分頭	分头	fen deu	器物用具	95
-烏	乌	un3	器物用具	95
+烏	乌	u3	器物用具	95
 字	字	zy6	器物用具	95
 剃頭刀	剃头刀	thi deu tau	器物用具	95
 軋刀	轧刀	gaq tau	器物用具	95
@@ -4619,7 +4619,7 @@
 翻癟	翻瘪	fae piq	与人事有关的动词	189
 隨鑊落	随镬落	zei ghoq loq	与人事有关的动词	189
 下	下	gho6	与人事有关的动词	189
-下	下	o1	与人事有关的动词	189
+下	下	o5	与人事有关的动词	189
 芡漿	芡浆	chi cian	与人事有关的动词	189
 轉漿	转浆	tsoe cian	与人事有关的动词	189
 放湯	放汤	faon thaon	与人事有关的动词	189
@@ -4967,7 +4967,7 @@
 翻向	翻向	fae shian	其他动词	210
 翻大向	翻大向	fae dou shian	其他动词	210
 倒翻	倒翻	tau fae	其他动词	210
-傾轉	倾转	chin tsoe	其他动词	210
+傾轉	倾转	jin tsoe	其他动词	210
 翻肚	翻肚	fae tu	其他动词	210
 翻肚肚	翻肚肚	fae tu tu	其他动词	210
 刮	刮	kuaq7	其他动词	211
@@ -6727,9 +6727,9 @@
 依埭	依埭	i da	副词	294
 挨埭	挨埭	a da	副词	294
 咦	咦	yi4	副词	294
-原方	原方	gnieu faon	副词	294
-原方	原方	knieu faon	副词	294
-原舊	原旧	gnieu jieu	副词	294
+原方	原方	gniu faon	副词	294
+原方	原方	kniu faon	副词	294
+原舊	原旧	gniu jieu	副词	294
 仍規	仍规	jin kuei	副词	294
 同同	同同	don don	副词	294
 直落	直落	jiq loq	副词	294
@@ -7497,6 +7497,7 @@
 裝棚搭架	装棚搭架	tsaon ban taq ko	短语	338
 碎碎塞塞	碎碎塞塞	sei sei saq saq	短语	338
 睬儂瞎子	睬侬瞎子	tshe nou haq tsy	短语	338
+睬儂老白眼	睬侬老白眼	tshe nou lau baq ngae	短语	338
 睬儂阿白哥	睬侬阿白哥	tshe nou aq baq kou	短语	338
 睬儂老白	睬侬老白	tshe nou lau baq	短语	338
 矮中取長	矮中取长	a tson tshyu jian	短语	338
