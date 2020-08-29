@@ -27,7 +27,7 @@
 一遘晝	一遘昼	iq keu cieu	iq keu cieu	2
 一門心思	一门心思	iq men shin sy	iq men shin sy	2
 一日到夜	一日到夜	iq gniq tau ya	iq gniq tau ya	2
-一手一腳	一手一脚	iq shieu iq ciaq	iq shieu iq ciaq	2
+一手一腳	一手一脚	iq shieu iq ciaq	iq shieu iq ciq	2
 一長兩短	一长两短	iq jian lian toe	iq jian lian toe	2
 一長二短	一长二短	iq jian gni toe	iq jian gni toe	2
 一打一挼	一打一挼	iq tan iq nou	iq tan iq nou	2
@@ -106,7 +106,7 @@
 三不時	三不时	sae paq zy	sae paq zy	9
 三隻手	三只手	sae tsaq shieu	sae tsaq shieu	9
 三嚇頭	三吓头	sae haq deu	sae haq deu	9
-三腳貓	三脚猫	sae ciaq mae	sae ciaq mae	9
+三腳貓	三脚猫	sae ciaq mae	sae ciq mae	9
 三十年夜	三十年夜	sae zyuq gni ya	sae zoq gni ya	10
 三十年夜	三十年夜	sae syuq gni ya	sae soq gni ya	10
 大年夜	大年夜	dou gni ya	dou gni ya	10
@@ -139,7 +139,7 @@
 下遭	下遭	gho tsau	gho tsau	12
 下網	下网	gho maon	gho maon	12
 下回	下回	gho wei	gho wei	12
-下八腳	下八脚	gho paq ciaq	gho paq ciaq	12
+下八腳	下八脚	gho paq ciaq	gho paq ciq	12
 下巴兜	下巴兜	gho bo teu	gho bo teu	12
 下巴涎	下巴涎	gho bo zae	gho bo zae	12
 下半日	下半日	gho pun gniq	gho pu gniq	12
@@ -181,7 +181,7 @@
 大舌頭	大舌头	dou zhiq deu	dou zhiq deu	15
 大好老	大好老	dou hau lau	dou hau lau	15
 大多數	大多数	da tou su	da tou su	15
-大約目	大约目	da iaq moq	da iaq moq	15
+大約目	大约目	da iaq moq	da iq moq	15
 大蘇籃	大苏篮	dou su lae	dou su lae	15
 大肚皮	大肚皮	dou du bi	dou du bi	15
 大卵袋	大卵袋	dou loe de	dou loe de	15
@@ -189,9 +189,9 @@
 大姑娘	大姑娘	dou ku gnian	dou ku gnian	15
 大侾佬	大侾佬	dou hau lau	dou hau lau	15
 大筆頭	大笔头	dou piq deu	dou piq deu	16
-大腳風	大脚风	dou ciaq fon	dou ciaq fon	16
+大腳風	大脚风	dou ciaq fon	dou ciq fon	16
 象皮病	象皮病	zhian bi bin	zhian bi bin	16
-大腳髈	大脚髈	dou ciaq phaon	dou ciaq phaon	16
+大腳髈	大脚髈	dou ciaq phaon	dou ciq phaon	16
 大彭彭	大彭彭	dou ban ban	dou ban ban	16
 大戤戤	大戤戤	dou ge ge	dou ge ge	16
 大嘴巴	大嘴巴	dou tsyu po	dou tsyu po	16
@@ -358,7 +358,7 @@
 天膽地大	天胆地大	thi tae di dou	thi tae di dou	28
 天莙薘根	天莙荙根	thi ciun daq ken	thi ciun daq ken	28
 元寶籃	元宝篮	gniu pau lae	gniu pau lae	28
-無千大萬	无千大万	vu chi da vae	vu chi da vae	28
+無千大萬	无千大万	vu chi da vae	wu chi da vae	28
 無千大萬	无千大万	wu chi da vae	wu chi da vae	28
 扎	扎	tsaq7	tsaq7	29
 扎括	扎括	tsaq kuaq	tsaq kuaq	29
@@ -421,7 +421,7 @@
 瓦片	瓦片	ngo phi	ngo phi	33
 日頭	日头	gniq deu	gniq deu	33
 日裏	日里	gniq li	gniq li	33
-日腳	日脚	gniq ciaq	gniq ciaq	33
+日腳	日脚	gniq ciaq	gniq ciq	33
 日加日	日加日	gniq ko gniq	gniq ko gniq	33
 日打日	日打日	gniq tan gniq	gniq tan gniq	33
 日長夜大	日长夜大	gniq jian ya dou	gniq jian ya dou	33
@@ -499,7 +499,7 @@
 毛頭奶花	毛头奶花	mau dei na huo	mau dei na huo	38
 毛衣弗動	毛衣弗动	mau iu vaq don	mau iu faq don	38
 毛草火性	毛草火性	mau tshau hou shin	mau tshau hou shin	38
-毛腳女婿	毛脚女婿	mau ciaq gniu shi	mau ciaq gniu shi	38
+毛腳女婿	毛脚女婿	mau ciaq gniu shi	mau ciq gniu shi	38
 氣	气	chi5	chi5	38
 氣胎	气胎	chi thei	chi thei	38
 氣緊	气紧	chi cin	chi cin	38
@@ -557,7 +557,7 @@
 烏倫村	乌伦村	u len tshen	u len tshen	43
 烏老鴉	乌老鸦	u lau o	u lau o	43
 烏油油	乌油油	u yeu yeu	u yeu yeu	43
-烏腳雞	乌脚鸡	u ciaq ci	u ciaq ci	43
+烏腳雞	乌脚鸡	u ciaq ci	u ciq ci	43
 烏骨雞	乌骨鸡	u kuaq ci	u kuaq ci	43
 烏清早	乌清早	u chin tsau	u chin tsau	43
 烏稍蛇	乌稍蛇	u shiau dzo	u shiau dzo	43
@@ -591,7 +591,7 @@
 火耙	火耙	hou bo	hou bo	45
 火耙	火耙	hou boe	hou boe	45
 火鉗	火钳	hou ji	hou ji	45
-火着	火着	hou jiaq	hou jiaq	45
+火着	火着	hou jiaq	hou jiq	45
 火熜	火㷓	hou tshon	hou tshon	46
 火管	火管	hou kun	hou ku	46
 火車路	火车路	hou tsho lu	hou tsho lu	46
@@ -643,7 +643,7 @@
 捎棚	捎棚	sau ban	sau ban	49
 書獨頭	书独头	syu doq deu	syu doq deu	49
 末	末	maq8	maq8	49
-末腳	末脚	maq ciaq	maq ciaq	49
+末腳	末脚	maq ciaq	maq ciq	49
 末肚囡	末肚囡	maq tu noe	maq tu noe	49
 末末豆腐	末末豆腐	maq maq deu vu	maq maq deu vu	49
 末末腐	末末腐	maq maq vu	maq maq vu	49
@@ -727,7 +727,7 @@
 軋	轧	gaq8	gaq8	57
 軋頭	轧头	gaq deu	gaq deu	57
 軋道	轧道	gaq dau	gaq dau	57
-軋一腳	轧一脚	gaq iq ciaq	gaq iq ciaq	57
+軋一腳	轧一脚	gaq iq ciaq	gaq iq ciq	57
 軋朋友	轧朋友	gaq ban yeu	gaq ban yeu	57
 軋迾門	轧迾门	gaq laq men	gaq laq men	57
 軋力軋煞	轧力轧煞	gaq liq gaq saq	gaq liq gaq saq	58
@@ -789,7 +789,7 @@
 生姆娘	生姆娘	san m gnian	san m gnian	62
 生腥氣	生腥气	san shin chi	san shin chi	62
 生意人	生意人	san i gnin	san i gnin	62
-生頭陌腳	生头陌脚	san deu maq ciaq	san deu maq ciaq	62
+生頭陌腳	生头陌脚	san deu maq ciaq	san deu maq ciq	62
 生苦結鹹	生苦结咸	san khu ciq ghae	san khu ciq ghae	62
 生苦結鹹	生苦结咸	san ku ciq ghae	san ku ciq ghae	62
 生苦結鹹	生苦结咸	san khu thiq ghae	san khu thiq ghae	62
@@ -854,7 +854,7 @@
 外廂	外厢	nga shian	nga shian	67
 鳥頭	鸟头	tiau deu	tiau deu	67
 務心	务心	wu shin	wu shin	67
-務心	务心	vu shin	vu shin	67
+務心	务心	vu shin	wu shin	67
 包	包	pau1	pau1	67
 包頭	包头	pau deu	pau deu	67
 包梢	包梢	pau sau	pau sau	67
@@ -950,7 +950,7 @@
 弗爽快	弗爽快	vaq saon khua	faq saon khua	77
 弗做肉	弗做肉	vaq tsou gnioq	faq tsou gnioq	77
 弗得知	弗得知	vaq toq tsyu	faq toq tsyu	77
-弗着港	弗着港	vaq jiaq kaon	faq jiaq kaon	77
+弗着港	弗着港	vaq jiaq kaon	faq jiq kaon	77
 弗管帳	弗管帐	vaq kun cian	faq ku cian	78
 弗二弗三	弗二弗三	vaq gni vaq sae	faq gni faq sae	78
 弗上弗落	弗上弗落	vaq zaon vaq loq	faq zaon faq loq	78
@@ -1089,7 +1089,7 @@
 老三老四	老三老四	lau sae lau sy	lau sae lau sy	89
 老木𢙱倲	老木𢙱㑈	lau moq lon ton	lau moq lon ton	89
 老木躘踵	老木𨀁踵	lau moq lon tshon	lau moq lon tshon	89
-老少無欺	老少无欺	lau shiau vu chi	lau shiau vu chi	90
+老少無欺	老少无欺	lau shiau vu chi	lau shiau wu chi	90
 老少無欺	老少无欺	lau shiau wu chi	lau shiau wu chi	90
 老弗大草	老弗大草	lau vaq dou tshau	lau faq dou tshau	90
 老早百年	老早百年	lau tsau paq gni	lau tsau paq gni	90
@@ -1117,7 +1117,7 @@
 地莊船	地庄船	di tsaon zoe	di tsaon zoe	92
 地作貨	地作货	di tsoq hou	di tsoq hou	92
 地栗糕	地栗糕	di liq kau	di liq kau	92
-地腳印	地脚印	di ciaq in	di ciaq in	92
+地腳印	地脚印	di ciaq in	di ciq in	92
 地栿踏穿	地栿踏穿	di boq daq tshoe	di boq daq tshoe	92
 扠	扠	tsha1	tsha1	92
 耳朵皮	耳朵皮	gni to bi	gni to bi	92
@@ -1157,7 +1157,7 @@
 西瓜汛裏	西瓜汛里	shi kuo shin li	shi kuo shin li	95
 西湖楊柳	西湖杨柳	shi wu yan lieu	shi wu yan lieu	95
 壓末	压末	aq maq	aq maq	95
-壓末腳	压末脚	aq maq ciaq	aq maq ciaq	95
+壓末腳	压末脚	aq maq ciaq	aq maq ciq	95
 壓末腳	压末脚	aq maq cian	aq maq cian	95
 壓煞	压煞	aq saq	aq saq	95
 壓進	压进	aq cin	aq cin	96
@@ -1172,7 +1172,7 @@
 百葉	百叶	paq yiq	paq yiq	96
 百枚	百枚	paq mei	paq mei	96
 百債	百债	paq tsa	paq tsa	96
-百腳	百脚	paq ciaq	paq ciaq	96
+百腳	百脚	paq ciaq	paq ciq	96
 百搭	百搭	paq taq	paq taq	97
 百子炮	百子炮	paq tsy phau	paq tsy phau	97
 百發百中	百发百中	paq faq paq tson	paq faq paq tson	97
@@ -1192,7 +1192,7 @@
 有兩遭	有两遭	yeu lian tsau	yeu lian tsau	98
 有時節	有时节	yeu zy ciq	yeu zy ciq	98
 有陶成	有陶成	yeu dau jin	yeu dau jin	98
-有腳力	有脚力	yeu ciaq liq	yeu ciaq liq	98
+有腳力	有脚力	yeu ciaq liq	yeu ciq liq	98
 有數目	有数目	yeu su moq	yeu su moq	98
 有身老𡢿	有身老𭑸	yeu shin lau gnion	yeu shin lau gnion	99
 有要嘸緊	有要呒紧	yeu iau mh cin	yeu iau mh cin	99
@@ -1227,8 +1227,8 @@
 夾鉗	夹钳	gaq ji	gaq ji	101
 夾插	夹插	gaq tsha	gaq tsha	101
 夾籮	夹箩	kaq lou	kaq lou	101
-夾腳縫	夹脚缝	kaq ciaq von	kaq ciaq von	101
-夾腳縫	夹脚缝	kaq ciaq ven	kaq ciaq ven	101
+夾腳縫	夹脚缝	kaq ciaq von	kaq ciq von	101
+夾腳縫	夹脚缝	kaq ciaq ven	kaq ciq ven	101
 𢺵	𢺵	ji4	ji6	101
 𢺵竵	𢺵竵	ji hua	ji hua	101
 𢺵笡	𢺵笡	ji chia	ji chia	101
@@ -1276,7 +1276,7 @@
 同年相仿	同年相仿	don gni shian paon	don gni shian paon	105
 同年相仿	同年相仿	don di shian paon	don di shian paon	105
 吊	吊	tiau5	tiau5	105
-吊腳筋	吊脚筋	tiau ciaq cin	tiau ciaq cin	105
+吊腳筋	吊脚筋	tiau ciaq cin	tiau ciq cin	105
 吊樑桶	吊梁桶	tiau lian don	tiau lian don	105
 吊煞鬼	吊煞鬼	tiau saq ciu	tiau saq ciu	105
 喫	吃	chioq7	chioq7	105
@@ -1370,7 +1370,7 @@
 傴頭磕腦	伛头磕脑	eu deu khaq nau	eu deu khaq nau	112
 延	延	yi2	yi2	112
 延笆豆	延笆豆	yi po deu	yi po deu	112
-扁捏豆	扁捏豆	pi gniaq deu	pi gniaq deu	112
+扁捏豆	扁捏豆	pi gniaq deu	pi gniq deu	112
 傷風氣	伤风气	saon fon chi	saon fon chi	112
 傷陰騭	伤阴骘	saon in ciq	saon in ciq	113
 價鈿	价钿	ko di	ko di	113
@@ -1387,7 +1387,7 @@
 血心	血心	shiuq shin	shiuq shin	114
 血印	血印	shiuq in	shiuq in	114
 血血紅	血血红	shiuq shiuq ghon	shiuq shiuq ghon	114
-血出無賴	血出无赖	shiuq tshyuq vu la	shiuq tshyuq vu la	114
+血出無賴	血出无赖	shiuq tshyuq vu la	shiuq tshyuq wu la	114
 血出無賴	血出无赖	shiuq tshyuq wu la	shiuq tshyuq wu la	114
 向	向	shian5	shian5	114
 向道	向道	shian dau	shian dau	114
@@ -1402,7 +1402,7 @@
 後起來	后起来	gheu chi le	gheu chi le	115
 後煞來	后煞来	gheu saq le	gheu saq le	115
 後煞來	后煞来	gheu sei le	gheu sei le	115
-後腳煞	后脚煞	gheu ciaq saq	gheu ciaq saq	115
+後腳煞	后脚煞	gheu ciaq saq	gheu ciq saq	115
 後背	后背	gheu pei	gheu pei	115
 後生家	后生家	gheu san ko	gheu san ko	115
 後夾身	后夹身	gheu kaq shin	gheu kaq shin	115
@@ -1595,7 +1595,7 @@
 紅芷根	红芷根	ghon tsy ken	ghon tsy ken	132
 紅花碗	红花碗	ghon huo un	ghon huo u	132
 紅鉗蟹	红钳蟹	ghon ji ha	ghon ji ha	132
-紅腳梗	红脚梗	ghon ciaq kuan	ghon ciaq kuan	132
+紅腳梗	红脚梗	ghon ciaq kuan	ghon ciq kuan	132
 紅烯烯	红烯烯	ghon shi shi	ghon shi shi	132
 紅𧹝𧹝	紅𧹝𧹝	ghon ton ton	ghon ton ton	132
 紅煦煦	红煦煦	ghon shiu shiu	ghon shiu shiu	132
@@ -1661,7 +1661,7 @@
 走準	走准	tseu tsyun	tseu tsyun	138
 走油肉	走油肉	tseu yeu gnioq	tseu yeu gnioq	138
 走空埭	走空埭	tseu khon da	tseu khon da	138
-走腳鈿	走脚钿	tseu ciaq di	tseu ciaq di	138
+走腳鈿	走脚钿	tseu ciaq di	tseu ciq di	138
 赤豆	赤豆	tshaq deu	tshaq deu	138
 赤泡茶	赤泡茶	chiq phau dzo	chiq phau dzo	139
 折	折	ciq7	ciq7	139
@@ -1672,8 +1672,8 @@
 扳規	扳规	pae kuei	pae kuei	139
 扳鋤	扳锄	pae zyu	pae zyu	139
 扳價鈿	扳价钿	pae ko di	pae ko di	139
-扳後腳	扳后脚	pae gheu ciaq	pae gheu ciaq	139
-扳腳後跟	扳脚后跟	pae ciaq gheu ken	pae ciaq gheu ken	139
+扳後腳	扳后脚	pae gheu ciaq	pae gheu ciq	139
+扳腳後跟	扳脚后跟	pae ciaq gheu ken	pae ciq gheu ken	139
 摐	𪭢	tshaon5	tshaon5	140
 摐矮凳	𪭢矮凳	tshaon a ten	tshaon a ten	140
 拔秧凳	拔秧凳	baq ian ten	baq ian ten	140
@@ -1748,8 +1748,8 @@
 楊梅瘡	杨梅疮	yan mei tshaon	yan mei tshaon	145
 求靠	求靠	jieu khau	jieu khau	145
 豆板	豆板	deu pae	deu pae	145
-豆莢乾	豆荚干	deu ciaq ki	deu ciaq ki	145
-豆莢薧	豆荚薧	deu ciaq khau	deu ciaq khau	145
+豆莢乾	豆荚干	deu ciaq ki	deu ciq ki	145
+豆莢薧	豆荚薧	deu ciaq khau	deu ciq khau	145
 豆豉醬	豆豉酱	deu zy cian	deu zy cian	145
 豆豉醬	豆豉酱	deu zyu cian	deu zyu cian	145
 豆板醬	豆板酱	deu pae cian	deu pae cian	145
@@ -1836,14 +1836,14 @@
 嘸相貌	呒相貌	mh shian mau	mh shian mau	153
 嘸結果	呒结果	mh ciq kou	mh ciq kou	153
 嘸樣範	呒样范	mh yan vae	mh yan vae	153
-嘸根腳	呒根脚	mh ken ciaq	mh ken ciaq	153
-嘸根爛腳	呒根烂脚	mh ken lae ciaq	mh ken lae ciaq	153
+嘸根腳	呒根脚	mh ken ciaq	mh ken ciq	153
+嘸根爛腳	呒根烂脚	mh ken lae ciaq	mh ken lae ciq	153
 嘸陶成	呒陶成	mh dau jin	mh dau jin	153
 嘸陶白成	呒陶白成	mh dau baq jin	mh dau baq jin	153
 嘸陶嘸成	呒陶呒成	mh dau mh jin	mh dau mh jin	153
-嘸腳力	呒脚力	mh ciaq liq	mh ciaq liq	153
-嘸腳色	呒脚色	mh ciaq saq	mh ciaq saq	153
-嘸腳蟹	呒脚蟹	mh ciaq ha	mh ciaq ha	153
+嘸腳力	呒脚力	mh ciaq liq	mh ciq liq	153
+嘸腳色	呒脚色	mh ciaq saq	mh ciq saq	153
+嘸腳蟹	呒脚蟹	mh ciaq ha	mh ciq ha	153
 嘸清頭	呒清头	mh chin deu	mh chin deu	154
 嘸商量	呒商量	mh shian lian	mh shian lian	154
 嘸趣相	呒趣相	mh tshyu shian	mh tshyu shian	154
@@ -1857,7 +1857,7 @@
 嘸告話頭	呒告话头	mh kau wo deu	mh kau wo deu	155
 嘸要得緊	呒要得紧	mh iau taq cin	mh iau taq cin	155
 嘸帳得算	呒帐得算	mh cian taq soe	mh cian taq soe	155
-嘸腳活猻	呒脚活狲	mh ciaq waq sen	mh ciaq waq sen	155
+嘸腳活猻	呒脚活狲	mh ciaq waq sen	mh ciq waq sen	155
 嘸清白頭	呒清白头	mh chin baq deu	mh chin baq deu	155
 嘸數沒帳	呒数没帐	mh su maq cian	mh su maq cian	155
 嘸數沒帳	呒数没帐	mh su moq cian	mh su moq cian	155
@@ -1992,7 +1992,7 @@
 穀眼子	谷眼子	koq ngae tsyu	koq ngae tsyu	165
 穀眼烏珠	谷眼乌珠	koq ngae u tsyu	koq ngae u tsyu	165
 穀籮頭	谷箩头	koq lou deu	koq lou deu	165
-穀蝴蝶	谷蝴蝶	koq wu diaq	koq wu diaq	165
+穀蝴蝶	谷蝴蝶	koq wu diaq	koq wu diq	165
 含胡桃	含胡桃	ghei wu dau	ghei wu dau	165
 鄰舍	邻舍	lin so	lin so	165
 鄰舍家	邻舍家	lin so ko	lin so ko	165
@@ -2125,7 +2125,7 @@
 竈屋洞	灶屋洞	tsau oq don	tsau oq don	175
 竈口地㝩	灶口地㝩	tsau kheu di khaon	tsau kheu di khaon	175
 竈前地㝩	灶前地㝩	tsau zhi di khaon	tsau zhi di khaon	175
-竈跟無賴	灶跟无赖	tsau ken vu la	tsau ken vu la	176
+竈跟無賴	灶跟无赖	tsau ken vu la	tsau ken wu la	176
 竈跟無賴	灶跟无赖	tsau ken wu la	tsau ken wu la	176
 竈跟菩薩	灶跟菩萨	tsau ken bu saq	tsau ken bu saq	176
 灼辣辣	灼辣辣	ciq laq laq	ciq laq laq	176
@@ -2150,7 +2150,7 @@
 惀帶	𰑄带	len ta	len ta	178
 快活	快活	khua waq	khua waq	178
 快活	快活	khua wo	khua wo	178
-快口藥	快口药	khua kheu yaq	khua kheu yaq	178
+快口藥	快口药	khua kheu yaq	khua kheu yiq	178
 快活人	快活人	khua waq gnin	khua waq gnin	178
 宊	宊	thaq7	thaq7	178
 牢監	牢监	lau kae	lau kae	178
@@ -2287,7 +2287,7 @@
 拐	拐	kua3	kua3	190
 拐	拐	gua4	gua6	190
 拐腳	拐脚	kua cian	kua cian	190
-拐腳	拐脚	kua ciaq	kua ciaq	190
+拐腳	拐脚	kua ciaq	kua ciq	190
 拐拐動	拐拐动	kua kua don	kua kua don	191
 拐拐動	拐拐动	gua gua don	gua gua don	191
 拖	拖	tha1	tha1	191
@@ -2302,13 +2302,13 @@
 頂好	顶好	tin hau	tin hau	192
 頂真	顶真	tin tsyun	tin tsyun	192
 頂倒	顶倒	tin tau	tin tau	192
-頂頭摸腳	顶头摸脚	tin deu moq ciaq	tin deu moq ciaq	192
+頂頭摸腳	顶头摸脚	tin deu moq ciaq	tin deu moq ciq	192
 拆蝕	拆蚀	tshaq zhiq	tshaq zhiq	192
 拆搭	拆搭	tshaq taq	tshaq taq	192
 拆骨頭	拆骨头	tshaq kuaq deu	tshaq kuaq deu	192
 拆爛屙	拆烂屙	tshaq lae ou	tshaq lae ou	192
-拆壁腳	拆壁脚	tshaq piq ciaq	tshaq piq ciaq	193
-拆壁腳	拆壁脚	tshoq piq ciaq	tshoq piq ciaq	193
+拆壁腳	拆壁脚	tshaq piq ciaq	tshaq piq ciq	193
+拆壁腳	拆壁脚	tshoq piq ciaq	tshoq piq ciq	193
 擁	拥	ion3	ion3	193
 抵針	抵针	ti cin	ti cin	193
 抵配	抵配	ti phei	ti phei	193
@@ -2404,7 +2404,7 @@
 鬱	郁	iuq7	iuq7	201
 鬱炦炦	郁炦炦	iuq baq baq	iuq baq baq	201
 矻矻	矻矻	khaq khaq	khaq khaq	201
-奔腳頭	奔脚头	pen ciaq deu	pen ciaq deu	201
+奔腳頭	奔脚头	pen ciaq deu	pen ciq deu	201
 奇出古樣	奇出古样	ji tshyuq ku yan	ji tshyuq ku yan	201
 態	态	the3	the3	202
 劽劽	劽劽	laq laq	laq laq	202
@@ -2442,9 +2442,9 @@
 旺投燙	旺投烫	waon deu thaon	waon deu thaon	204
 旺旺動	旺旺动	waon waon don	waon waon don	205
 旺七旺八	旺七旺八	waon chiq waon paq	waon chiq waon paq	205
-旺三無程	旺三无程	waon sae vu jin	waon sae vu jin	205
+旺三無程	旺三无程	waon sae vu jin	waon sae wu jin	205
 旺三無程	旺三无程	waon sae wu jin	waon sae wu jin	205
-旺興夾腳	旺兴夹脚	waon shin kaq ciaq	waon shin kaq ciaq	205
+旺興夾腳	旺兴夹脚	waon shin kaq ciaq	waon shin kaq ciq	205
 果肉	果肉	kou gnioq	kou gnioq	205
 果桶	果桶	kou don	kou don	205
 味之素	味之素	vi tsy su	vi tsy su	205
@@ -2655,8 +2655,8 @@
 熓	𤆡	u1	u1	222
 熓焞焞	𤆡焞焞	u ten ten	u ten ten	222
 淺鬆鬆	浅松松	chi son son	chi son son	222
-泔腳	泔脚	ki ciaq	ki ciaq	222
-泔腳缸	泔脚缸	ki ciaq kaon	ki ciaq kaon	222
+泔腳	泔脚	ki ciaq	ki ciq	222
+泔腳缸	泔脚缸	ki ciaq kaon	ki ciq kaon	222
 河頭	河头	ghou deu	ghou deu	222
 河江	河江	ghou kaon	ghou kaon	222
 河泥	河泥	ghou gni	ghou gni	222
@@ -2741,7 +2741,7 @@
 空倉水鈿	空仓水钿	khon tshaon syu di	khon tshaon syu di	230
 空勢勢	空势势	khon syu syu	khon syu syu	230
 空豂豂	空豂豂	khon lau lau	khon lau lau	230
-空手散腳	空手散脚	khon shieu sae ciaq	khon shieu sae ciaq	230
+空手散腳	空手散脚	khon shieu sae ciaq	khon shieu sae ciq	230
 空頭白腦	空头白脑	khon deu baq nau	khon deu baq nau	231
 實貨	实货	zyuq hou	zoq hou	231
 實畐畐	实畐畐	zyuq biq biq	zoq biq biq	231
@@ -2865,7 +2865,7 @@
 按杖棒	按杖棒	ei jian baon	ei jian baon	240
 甚多沒少	甚多没少	zhin tou maq shiau	zhin tou maq shiau	240
 革命草	革命草	kaq min tshau	kaq min tshau	240
-莢	荚	ciaq7	ciaq7	240
+莢	荚	ciaq7	ciq7	240
 枼薄	枼薄	yiq boq	yiq boq	240
 枼薄裏	枼薄里	yiq boq li	yiq boq li	240
 貰器店	贳器店	syu chi ti	syu chi ti	240
@@ -2896,8 +2896,8 @@
 胡嚨哮管	胡咙哮管	wu lon hau kun	wu lon hau ku	243
 胡嚨哮管	胡咙哮管	u lon hau kun	u lon hau ku	243
 南貨店	南货店	nei hou ti	nei hou ti	243
-藥砂罐	药砂罐	yaq so kun	yaq so ku	243
-藥腥氣	药腥气	yaq shin chi	yaq shin chi	243
+藥砂罐	药砂罐	yaq so kun	yiq so ku	243
+藥腥氣	药腥气	yaq shin chi	yiq shin chi	243
 棧房	栈房	dzae vaon	dzae vaon	243
 相	相	shian5	shian5	243
 相因	相因	shian in	shian in	244
@@ -2968,7 +2968,7 @@
 輕𠆩	轻𠆩	chin fae	chin fae	249
 輕省	轻省	chin san	chin san	249
 輕骨頭	轻骨头	chin kuaq deu	chin kuaq deu	249
-鴉鵲	鸦鹊	o chiaq	o chiaq	250
+鴉鵲	鸦鹊	o chiaq	o chiq	250
 揹	背	pei5	pei5	250
 揹命	背命	pei min	pei min	250
 揹性命	背性命	pei shin min	pei shin min	250
@@ -2980,7 +2980,7 @@
 背脊頂	背脊顶	pei ciq ten	pei ciq ten	250
 背脊胴	背脊胴	pei ciq don	pei ciq don	250
 背脊骨	背脊骨	pei ciq kuaq	pei ciq kuaq	250
-背桌凳腳	背桌凳脚	pei tsoq ten ciaq	pei tsoq ten ciaq	250
+背桌凳腳	背桌凳脚	pei tsoq ten ciaq	pei tsoq ten ciq	250
 點飢	点饥	ti ci	ti ci	251
 點心時	点心时	ti shin zy	ti shin zy	251
 點心時	点心时	te shin zy	te shin zy	251
@@ -3048,7 +3048,7 @@
 咬口	咬口	ngau kheu	ngau kheu	255
 咬奶頭	咬奶头	ngau na deu	ngau na deu	255
 咬奶頭	咬奶头	ngau na dei	ngau na dei	255
-咳	咳	he1	hei1	256
+咳	咳	hei1	hei1	256
 咪咪	咪咪	mhi mhi	mhi mhi	256
 咪咪排排	咪咪排排	mhi mhi ba ba	mhi mhi ba ba	256
 噥噥	哝哝	nhon nhon	nhon nhon	256
@@ -3057,18 +3057,18 @@
 罰	罚	vaq8	vaq8	256
 罰願	罚愿	vaq gniu	vaq gniu	256
 貼	贴	thaq7	thaq7	256
-貼	贴	thiaq7	thiaq7	256
-貼水	贴水	thiaq syu	thiaq syu	257
-貼紕	贴纰	thiaq bi	thiaq bi	257
-貼袋	贴袋	thiaq de	thiaq de	257
-貼隔壁	贴隔壁	thiaq kaq piq	thiaq kaq piq	257
-貼色十六	贴色十六	thiaq saq zyuq loq	thiaq saq zoq loq	257
-貼色無離	贴色无离	thiaq saq vu li	thiaq saq vu li	257
-貼色無離	贴色无离	thiaq saq wu li	thiaq saq wu li	257
-貼色葫蘆	贴色葫芦	thiaq saq wu lu	thiaq saq wu lu	257
-貼色做樣	贴色做样	thiaq saq tsou yan	thiaq saq tsou yan	257
-貼色一樣	贴色一样	thiaq saq iq yan	thiaq saq iq yan	257
-貼色做號	贴色做号	thiaq saq tsou ghau	thiaq saq tsou ghau	257
+貼	贴	thiaq7	thiq7	256
+貼水	贴水	thiaq syu	thiq syu	257
+貼紕	贴纰	thiaq bi	thiq bi	257
+貼袋	贴袋	thiaq de	thiq de	257
+貼隔壁	贴隔壁	thiaq kaq piq	thiq kaq piq	257
+貼色十六	贴色十六	thiaq saq zyuq loq	thiq saq zoq loq	257
+貼色無離	贴色无离	thiaq saq vu li	thiq saq wu li	257
+貼色無離	贴色无离	thiaq saq wu li	thiq saq wu li	257
+貼色葫蘆	贴色葫芦	thiaq saq wu lu	thiq saq wu lu	257
+貼色做樣	贴色做样	thiaq saq tsou yan	thiq saq tsou yan	257
+貼色一樣	贴色一样	thiaq saq iq yan	thiq saq iq yan	257
+貼色做號	贴色做号	thiaq saq tsou ghau	thiq saq tsou ghau	257
 𤿏	𤿏	nei6	nei6	257
 𤿏𢼹𢼹	𤿏𢼹𢼹	nei bu bu	nei bu bu	257
 骨頭	骨头	kuaq deu	kuaq deu	257
@@ -3091,7 +3091,7 @@
 鋼精面桶	钢精面桶	kaon cin mi don	kaon cin mi don	259
 鋼精鍋子	钢精锅子	kaon cin kou tsy	kaon cin kou tsy	259
 鈐	钤	jin6	jin6	259
-鑰匙彎	钥匙弯	yaq zy uae	yaq zy uae	259
+鑰匙彎	钥匙弯	yaq zy uae	yiq zy uae	259
 缸竈	缸灶	kaon tsau	kaon tsau	259
 缸沙	缸沙	kaon so	kaon so	259
 拜生	拜生	pa san	pa san	259
@@ -3167,7 +3167,7 @@
 瓟痧氣	瓟痧气	bau so chi	bau so chi	266
 食	食	ze2	ze2	266
 食罩	食罩	zhiq tsau	zhiq tsau	266
-食頭刮腳	食头刮脚	ze deu kuaq ciaq	ze deu kuaq ciaq	266
+食頭刮腳	食头刮脚	ze deu kuaq ciaq	ze deu kuaq ciq	266
 盆子	盆子	ben tsy	ben tsy	266
 盆子菜	盆子菜	ben tsy tshe	ben tsy tshe	266
 胖頂	胖顶	phaon tin	phaon tin	266
@@ -3231,7 +3231,7 @@
 差眼眼	差眼眼	tsho ngae ngae	tsho ngae ngae	272
 差一眼	差一眼	tsho iq ngae	tsho iq ngae	272
 差鮊魚	差鲌鱼	tsha ba ng	tsha ba ng	272
-差來無幾	差来无几	tsho le vu ci	tsho le vu ci	272
+差來無幾	差来无几	tsho le vu ci	tsho le wu ci	272
 差來無幾	差来无几	tsho le wu ci	tsho le wu ci	272
 養出	养出	ian tshyuq	ian tshyuq	272
 養生	养生	yan san	yan san	272
@@ -3254,8 +3254,8 @@
 前駝背	前驼背	zhi dou pei	zhi dou pei	274
 前生前世	前生前世	zhi san zhi shi	zhi san zhi shi	274
 前世	前世	zhi shi	zhi shi	274
-前腳後頭	前脚后头	zhi ciaq gheu deu	zhi ciaq gheu deu	274
-前腳後跟	前脚后跟	zhi ciaq gheu ken	zhi ciaq gheu ken	274
+前腳後頭	前脚后头	zhi ciaq gheu deu	zhi ciq gheu deu	274
+前腳後跟	前脚后跟	zhi ciaq gheu ken	zhi ciq gheu ken	274
 總只	总只	tson ciq	tson ciq	274
 總超	总超	tson chiau	tson chiau	274
 總歸仔	总归仔	tson kuei tsy	tson kuei tsy	274
@@ -3295,7 +3295,7 @@
 活猻	活狲	waq sen	waq sen	277
 活絡	活络	waq loq	waq loq	277
 活被	活被	waq bi	waq bi	277
-活腳	活脚	waq ciaq	waq ciaq	277
+活腳	活脚	waq ciaq	waq ciq	277
 活龍介	活龙介	waq lon ka	waq lon ka	277
 活猻帽	活狲帽	waq sen mau	waq sen mau	277
 活啍活滾	活啍活滚	waq then waq kuen	waq then waq kuen	277
@@ -3349,7 +3349,7 @@
 誡訓	诫训	kae shiun	kae shiun	281
 䜎	䜎	lau6	lau6	281
 扁擔星	扁担星	pi tae shin	pi tae shin	281
-扁捏豆	扁捏豆	pi gniaq deu	pi gniaq deu	282
+扁捏豆	扁捏豆	pi gniaq deu	pi gniq deu	282
 扁窄窄	扁窄窄	pi tso tso	pi tso tso	282
 扁得得	扁得得	pi taq taq	pi taq taq	282
 謰謰謱謱	謰謰𫍴𫍴	lhi lhi lho lho	lhi lhi lho lho	282
@@ -3358,7 +3358,7 @@
 衲頭	衲头	naq dei	naq dei	282
 祖基	祖基	tsu ci	tsu ci	282
 神綻	神绽	zyun dzae	zyun dzae	282
-神志無知	神志无知	zyun tsy vu tsyu	zyun tsy vu tsyu	282
+神志無知	神志无知	zyun tsy vu tsyu	zyun tsy wu tsyu	282
 神志無知	神志无知	zyun tsy wu tsyu	zyun tsy wu tsyu	282
 神經忥忥	神经忥忥	zyun cin shi shi	zyun cin shi shi	282
 說話	说话	syuq wo	soq wo	282
@@ -3371,9 +3371,9 @@
 屋柱	屋柱	oq dzyu	oq dzyu	283
 屋頭頂	屋头顶	oq deu ten	oq deu ten	283
 屋山尖頭	屋山尖头	oq sae ci deu	oq sae ci deu	283
-屋裏無賴	屋里无赖	oq li vu la	oq li vu la	284
+屋裏無賴	屋里无赖	oq li vu la	oq li wu la	284
 屋裏無賴	屋里无赖	oq li wu la	oq li wu la	284
-屋跟無賴	屋跟无赖	oq ken vu la	oq ken vu la	284
+屋跟無賴	屋跟无赖	oq ken vu la	oq ken wu la	284
 屋跟無賴	屋跟无赖	oq ken wu la	oq ken wu la	284
 晝過	昼过	cieu kou	cieu kou	284
 晝過頭	昼过头	cieu kou deu	cieu kou deu	284
@@ -3424,7 +3424,7 @@
 挈當	挈当	chiq taon	chiq taon	288
 挈當桶	挈当桶	chiq taon don	chiq taon don	288
 挈水桶	挈水桶	chiq syu don	chiq syu don	288
-挈後腳	挈后脚	chiq gheu ciaq	chiq gheu ciaq	288
+挈後腳	挈后脚	chiq gheu ciaq	chiq gheu ciq	288
 珠珠魚	珠珠鱼	tsyu tsyu ng	tsyu tsyu ng	288
 班	班	pae1	pae1	288
 素雞	素鸡	su ci	su ci	288
@@ -3446,10 +3446,10 @@
 起頭家	起头家	chi deu ko	chi deu ko	290
 起沙	起沙	chi so	chi so	290
 起貨	起货	chi hou	chi hou	290
-起腳	起脚	chi ciaq	chi ciaq	290
+起腳	起脚	chi ciaq	chi ciq	290
 起燥	起燥	chi sau	chi sau	290
 起黑心	起黑心	chi haq shin	chi haq shin	290
-起頭落腳	起头落脚	chi deu loq ciaq	chi deu loq ciaq	291
+起頭落腳	起头落脚	chi deu loq ciaq	chi deu loq ciq	291
 鹽	盐	yi6	yi6	291
 鹽花	盐花	yi huo	yi huo	291
 鹽茄糊	盐茄糊	yi jia wu	yi jia wu	291
@@ -3458,7 +3458,7 @@
 捎棚	捎棚	sau ban	sau ban	291
 埕	埕	jin2	jin2	291
 埕頭泥	埕头泥	jin deu gni	jin deu gni	291
-捏	捏	gniaq8	gniaq8	291
+捏	捏	gniaq8	gniq8	291
 埋	埋	mha1	mha1	291
 捉漏	捉漏	tsoq leu	tsoq leu	292
 挫氣	挫气	tshou chi	tshou chi	292
@@ -3549,7 +3549,7 @@
 樣有份	样有份	yan yeu ven	yan yeu ven	299
 根頭	根头	ken deu	ken deu	299
 根株	根株	ken tsyu	ken tsyu	299
-根腳	根脚	ken ciaq	ken ciaq	299
+根腳	根脚	ken ciaq	ken ciq	299
 根渣	根渣	ken tso	ken tso	299
 䢚	䢚	kan5	kan5	300
 速朗	速朗	soq laon	soq laon	300
@@ -3605,7 +3605,7 @@
 蚊蟲	蚊虫	men dzon	men dzon	304
 蚊蠮絲	蚊蠮丝	men i sy	men i sy	304
 哭啜包	哭啜包	khoq tsoq pau	khoq tsoq pau	304
-哭啜無賴	哭啜无赖	khoq tsoq vu la	khoq tsoq vu la	304
+哭啜無賴	哭啜无赖	khoq tsoq vu la	khoq tsoq wu la	304
 哭啜無賴	哭啜无赖	khoq tsoq wu la	khoq tsoq wu la	304
 哭啜面貌	哭啜面貌	khoq tsoq mi mau	khoq tsoq mi mau	305
 喚	唤	hun5	hu5	305
@@ -3699,7 +3699,7 @@
 倒皵皮	倒皵皮	tau chiq bi	tau chiq bi	312
 倒摸順埭	倒摸顺埭	tau moq zyun da	tau moq zyun da	312
 𤖼	𤖼	phaq7	phaq7	313
-𤖼腳褲	𤖼脚裤	phaq ciaq khu	phaq ciaq khu	313
+𤖼腳褲	𤖼脚裤	phaq ciaq khu	phaq ciq khu	313
 候	候	gheu6	gheu6	313
 候隊	候队	gheu dei	gheu dei	313
 候自	候自	gheu zhi	gheu zhi	313
@@ -3725,7 +3725,7 @@
 殷青	殷青	i chin	i chin	315
 航船	航船	ghaon zoe	ghaon zoe	315
 聳	耸	son3	son3	315
-爹頭娘腳	爹头娘脚	tia deu gnian ciaq	tia deu gnian ciaq	316
+爹頭娘腳	爹头娘脚	tia deu gnian ciaq	tia deu gnian ciq	316
 舀	舀	iau3	iau3	316
 舀	舀	au5	au5	316
 舀斗	舀斗	iau teu	iau teu	316
@@ -3905,7 +3905,7 @@
 屙裏拌糟	屙里拌糟	ou li bun tsau	ou li boe tsau	332
 屙注蒼蠅	屙注苍蝇	ou tsyu tshaon in	ou tsyu tshaon in	332
 屙泥脾氣	屙泥脾气	ou gni bi chi	ou gni bi chi	332
-屙缸無賴	屙缸无赖	ou kaon vu la	ou kaon vu la	332
+屙缸無賴	屙缸无赖	ou kaon vu la	ou kaon wu la	332
 屙缸無賴	屙缸无赖	ou kaon wu la	ou kaon wu la	332
 屙賴脾氣	屙赖脾气	ou la bi chi	ou la bi chi	332
 屙嘴疙得	屙嘴疙得	ou tsyu kaq taq	ou tsyu kaq taq	332
@@ -4066,7 +4066,7 @@
 欸	欸	gheu2	gheu2	347
 虛頭	虚头	shiu deu	shiu deu	347
 虛㽺病	虚㽺病	shiu shiq bin	shiu shiq bin	347
-雀子斑	雀子斑	ciaq tsy pae	ciaq tsy pae	347
+雀子斑	雀子斑	ciaq tsy pae	ciq tsy pae	347
 雀子斑	雀子斑	tsoq tsy pae	tsoq tsy pae	347
 堂頭	堂头	daon deu	daon deu	347
 堂頃	堂顷	daon chian	daon chian	347
@@ -4197,10 +4197,10 @@
 做梅	做梅	tsou mei	tsou mei	359
 做雪	做雪	tsou syuq	tsou soq	359
 做啥	做啥	tsou sou	tsou sou	359
-做腳	做脚	tsou ciaq	tsou ciaq	359
+做腳	做脚	tsou ciaq	tsou ciq	359
 做人家	做人家	tsou gnin ko	tsou gnin ko	359
 做小貨	做小货	tsou shiau hou	tsou shiau hou	359
-做無賴	做无赖	tsou vu la	tsou vu la	359
+做無賴	做无赖	tsou vu la	tsou wu la	359
 做無賴	做无赖	tsou wu la	tsou wu la	359
 做風水	做风水	tsou fon syu	tsou fon syu	359
 做功德	做功德	tsou kon taq	tsou kon taq	359
@@ -4256,45 +4256,45 @@
 領囡	领囡	lin noe	lin noe	364
 領徑	领径	lin cin	lin cin	364
 領圈	领圈	lin chiu	lin chiu	364
-腳	脚	ciaq7	ciaq7	364
-腳力	脚力	ciaq liq	ciaq liq	365
-腳爪	脚爪	ciaq tsau	ciaq tsau	365
-腳凹	脚凹	ciaq au	ciaq au	365
-腳色	脚色	ciaq saq	ciaq saq	365
-腳勁	脚劲	ciaq jin	ciaq jin	365
-腳板	脚板	ciaq pae	ciaq pae	365
-腳面	脚面	ciaq mi	ciaq mi	365
-腳掙	脚挣	ciaq tsan	ciaq tsan	365
-腳骨	脚骨	ciaq kuaq	ciaq kuaq	365
-腳橋	脚桥	ciaq jiau	ciaq jiau	365
-腳埭	脚埭	ciaq da	ciaq da	365
-腳桶	脚桶	ciaq don	ciaq don	365
-腳筋	脚筋	ciaq cin	ciaq cin	365
-腳煞	脚煞	ciaq saq	ciaq saq	366
-腳踦	脚踦	ciaq ji	ciaq ji	366
-腳蹄	脚蹄	ciaq di	ciaq di	366
-腳擘	脚擘	ciaq phaq	ciaq phaq	366
-腳末頭	脚末头	ciaq maq deu	ciaq maq deu	366
-腳夾縫	脚夹缝	ciaq kaq von	ciaq kaq von	366
-腳罅縫	脚罅缝	ciaq ha von	ciaq ha von	366
-腳划船	脚划船	ciaq uo zoe	ciaq uo zoe	366
-腳後跟	脚后跟	ciaq gheu ken	ciaq gheu ken	366
-腳底心	脚底心	ciaq ti shin	ciaq ti shin	366
-腳泥螺	脚泥螺	ciaq gni lou	ciaq gni lou	366
-腳末泥螺	脚末泥螺	ciaq maq gni lou	ciaq maq gni lou	366
-腳糯	脚糯	ciaq nou	ciaq nou	366
-腳骨直	脚骨直	ciaq kuaq jiq	ciaq kuaq jiq	366
-腳骨筍	脚骨笋	ciaq kuaq syun	ciaq kuaq syun	367
-腳屙臭	脚屙臭	ciaq ou chieu	ciaq ou chieu	367
-腳娘肚	脚娘肚	ciaq gnian du	ciaq gnian du	367
-腳筋吊	脚筋吊	ciaq cin tiau	ciaq cin tiau	367
-腳碰腳	脚碰脚	ciaq ban ciaq	ciaq ban ciaq	367
-腳䯊頭	脚䯊头	ciaq khou deu	ciaq khou deu	367
-腳䯏頭	脚䯏头	ciaq khuaq deu	ciaq khuaq deu	367
-腳踏車	脚踏车	ciaq daq tsho	ciaq daq tsho	367
-腳底奔洞	脚底奔洞	ciaq ti pen don	ciaq ti pen don	367
-腳高腳低	脚高脚低	ciaq kau ciaq ti	ciaq kau ciaq ti	367
-腳部骼頭	脚部骼头	ciaq bu lu deu	ciaq bu lu deu	368
+腳	脚	ciaq7	ciq7	364
+腳力	脚力	ciaq liq	ciq liq	365
+腳爪	脚爪	ciaq tsau	ciq tsau	365
+腳凹	脚凹	ciaq au	ciq au	365
+腳色	脚色	ciaq saq	ciq saq	365
+腳勁	脚劲	ciaq jin	ciq jin	365
+腳板	脚板	ciaq pae	ciq pae	365
+腳面	脚面	ciaq mi	ciq mi	365
+腳掙	脚挣	ciaq tsan	ciq tsan	365
+腳骨	脚骨	ciaq kuaq	ciq kuaq	365
+腳橋	脚桥	ciaq jiau	ciq jiau	365
+腳埭	脚埭	ciaq da	ciq da	365
+腳桶	脚桶	ciaq don	ciq don	365
+腳筋	脚筋	ciaq cin	ciq cin	365
+腳煞	脚煞	ciaq saq	ciq saq	366
+腳踦	脚踦	ciaq ji	ciq ji	366
+腳蹄	脚蹄	ciaq di	ciq di	366
+腳擘	脚擘	ciaq phaq	ciq phaq	366
+腳末頭	脚末头	ciaq maq deu	ciq maq deu	366
+腳夾縫	脚夹缝	ciaq kaq von	ciq kaq von	366
+腳罅縫	脚罅缝	ciaq ha von	ciq ha von	366
+腳划船	脚划船	ciaq uo zoe	ciq uo zoe	366
+腳後跟	脚后跟	ciaq gheu ken	ciq gheu ken	366
+腳底心	脚底心	ciaq ti shin	ciq ti shin	366
+腳泥螺	脚泥螺	ciaq gni lou	ciq gni lou	366
+腳末泥螺	脚末泥螺	ciaq maq gni lou	ciq maq gni lou	366
+腳糯	脚糯	ciaq nou	ciq nou	366
+腳骨直	脚骨直	ciaq kuaq jiq	ciq kuaq jiq	366
+腳骨筍	脚骨笋	ciaq kuaq syun	ciq kuaq syun	367
+腳屙臭	脚屙臭	ciaq ou chieu	ciq ou chieu	367
+腳娘肚	脚娘肚	ciaq gnian du	ciq gnian du	367
+腳筋吊	脚筋吊	ciaq cin tiau	ciq cin tiau	367
+腳碰腳	脚碰脚	ciaq ban ciaq	ciq ban ciq	367
+腳䯊頭	脚䯊头	ciaq khou deu	ciq khou deu	367
+腳䯏頭	脚䯏头	ciaq khuaq deu	ciq khuaq deu	367
+腳踏車	脚踏车	ciaq daq tsho	ciq daq tsho	367
+腳底奔洞	脚底奔洞	ciaq ti pen don	ciq ti pen don	367
+腳高腳低	脚高脚低	ciaq kau ciaq ti	ciq kau ciq ti	367
+腳部骼頭	脚部骼头	ciaq bu lu deu	ciq bu lu deu	368
 腡	脶	lou2	lou2	368
 脪	脪	hen5	hen5	368
 脫	脱	thaq7	thaq7	368
@@ -4350,7 +4350,7 @@
 望	望	maon6	maon6	373
 望潮	望潮	maon jiau	maon jiau	373
 望孃盤	望娘盘	maon gnian bun	maon gnian boe	373
-着	着	ciaq7	ciaq7	373
+着	着	ciaq7	ciq7	373
 蓋頭	盖头	ke deu	ke deu	373
 粗剌柴	粗剌柴	tshu la za	tshu la za	373
 𥻤	𥻤	chieu1	chieu1	373
@@ -4363,7 +4363,7 @@
 斷檔	断档	doe taon	doe taon	374
 斷竅	断窍	doe chiau	doe chiau	374
 斷橛	断橛	doe jiuq	doe jiuq	374
-斷頭爛腳	断头烂脚	doe deu lae ciaq	doe deu lae ciaq	374
+斷頭爛腳	断头烂脚	doe deu lae ciaq	doe deu lae ciq	374
 斷頭落環	断头落环	doe deu loq guae	doe deu loq guae	374
 焐	焐	u5	u5	375
 𤈦	𤈦	mei6	mei6	375
@@ -4495,7 +4495,7 @@
 揞	揞	ae5	ae5	387
 擱庋	搁庋	koq ci	koq ci	388
 擱廊	搁廊	koq laon	koq laon	388
-擱碟	搁碟	koq diaq	koq diaq	388
+擱碟	搁碟	koq diaq	koq diq	388
 𢱤	𢱤	son3	son3	388
 摟	搂	lheu1	lheu1	388
 搲	搲	uo1	uo1	388
@@ -4528,7 +4528,7 @@
 落底	落底	loq ti	loq ti	391
 落家	落家	loq ko	loq ko	391
 落得	落得	loq taq	loq taq	391
-落腳	落脚	loq ciaq	loq ciaq	391
+落腳	落脚	loq ciaq	loq ciq	391
 落寇	落寇	loq khoq	loq khoq	391
 落檻	落槛	loq khae	loq khae	391
 落薄	落薄	loq boq	loq boq	391
@@ -4754,7 +4754,7 @@
 慌急慌忙	慌急慌忙	huaon ciq huaon maon	huaon ciq huaon maon	412
 𢝉𢝉動	𢝉𢝉动	taq taq don	taq taq don	412
 惶恐	惶恐	waon khon	waon khon	412
-𢜭力	𢜭力	jiaq liq	jiaq liq	412
+𢜭力	𢜭力	jiaq liq	jiq liq	412
 割	割	kaq7	kaq7	412
 割稻時	割稻时	kaq dau zy	kaq dau zy	412
 割稻汛裏	割稻汛里	kaq dau shin li	kaq dau shin li	412
@@ -4774,8 +4774,8 @@
 窗頭	窗头	tshaon deu	tshaon deu	413
 𡎺漏	𡎺漏	tsoq leu	tsoq leu	414
 褲袋	裤袋	khu de	khu de	414
-褲腳	裤脚	khu ciaq	khu ciaq	414
-褲腳筒	裤脚筒	khu ciaq don	khu ciaq don	414
+褲腳	裤脚	khu ciaq	khu ciq	414
+褲腳筒	裤脚筒	khu ciaq don	khu ciq don	414
 襉	裥	kae3	kae3	414
 謝年	谢年	zhia gni	zhia gni	414
 謝洋	谢洋	zhia yan	zhia yan	414
@@ -4855,7 +4855,7 @@
 皵頭	皵头	chiq deu	chiq deu	422
 藍扳	蓝扳	lae pae	lae pae	422
 藍邊碗	蓝边碗	lae pi un	lae pi u	422
-藍藥水	蓝药水	lae yaq syu	lae yaq syu	422
+藍藥水	蓝药水	lae yaq syu	lae yiq syu	422
 藍𤿠𤿠	蓝𤿠𤿠	lae ciq ciq	lae ciq ciq	422
 蓬	蓬	bon2	bon2	422
 蒿菜	蒿菜	hau tshe	hau tshe	423
@@ -4876,7 +4876,7 @@
 碰掙	碰挣	ban tsan	ban tsan	424
 碰和臺	碰和台	phan wu de	phan wu de	424
 碗盞	碗盏	un tsae	u tsae	424
-碗腳	碗脚	un ciaq	u ciaq	424
+碗腳	碗脚	un ciaq	u ciq	424
 碗腳	碗脚	un cian	u cian	424
 碗蔥	碗葱	un tshon	u tshon	424
 碗頭蔥	碗头葱	un deu tshon	u deu tshon	424
@@ -4885,9 +4885,9 @@
 雷大	雷大	lei dou	lei dou	424
 雷筍	雷笋	lei syun	lei syun	425
 霧露	雾露	wu lu	wu lu	425
-霧露	雾露	vu lu	vu lu	425
+霧露	雾露	wu lu	vu lu	425
 霧露恰恰	雾露恰恰	wu lu chia chia	wu lu chia chia	425
-霧露恰恰	雾露恰恰	vu lu chia chia	vu lu chia chia	425
+霧露恰恰	雾露恰恰	wu lu chia chia	vu lu chia chia	425
 㪥	㪥	tso1	tso1	425
 睬儂瞎子	睬侬瞎子	tshe nou haq tsy	tshe nou haq tsy	425
 睬儂老白眼	睬侬老白眼	tshe nou lau baq ngae	tshe nou lau baq ngae	425
@@ -4913,7 +4913,7 @@
 暗力卜朧	暗力卜胧	ei diq boq lon	ei diq boq lon	427
 照會	照会	ciau wei	ciau wei	427
 照相	照相	ciau shian	ciau shian	427
-蹺腳	跷脚	chiau ciaq	chiau ciaq	427
+蹺腳	跷脚	chiau ciaq	chiau ciq	427
 跺	跺	tho3	tho3	427
 跺底	跺底	tho ti	tho ti	427
 路	路	lu6	lu6	427
@@ -5143,7 +5143,7 @@
 穩篤六株	稳笃六株	uen toq loq tsyu	uen toq loq tsyu	449
 箍桶	箍桶	khou don	khou don	449
 箍桶	箍桶	khu don	khu don	449
-箬殼	箬壳	gniaq khoq	gniaq khoq	449
+箬殼	箬壳	gniaq khoq	gniq khoq	449
 箬鰈	箬鲽	gnioq thaq	gnioq thaq	449
 算帳	算帐	soe cian	soe cian	449
 籮	箩	lou2	lou2	450
@@ -5176,7 +5176,7 @@
 饅頭	馒头	mun deu	moe deu	452
 敲	敲	khau1	khau1	452
 敲糖	敲糖	khau daon	khau daon	452
-敲釘轉腳	敲钉转脚	khau tin tsoe ciaq	khau tin tsoe ciaq	452
+敲釘轉腳	敲钉转脚	khau tin tsoe ciaq	khau tin tsoe ciq	452
 豪𢜶	豪𢜶	ghau sau	ghau sau	452
 豪燥	豪燥	ghau sau	ghau sau	452
 膏	膏	kau1	kau1	452
@@ -5194,7 +5194,7 @@
 腐滯括剌	腐滞括剌	vu jiq guaq laq	vu jiq guaq laq	453
 瘟孫	瘟孙	uen sen	uen sen	453
 瘦怯怯	瘦怯怯	seu chiq chiq	seu chiq chiq	453
-瘦削削	瘦削削	seu shiaq shiaq	seu shiaq shiaq	453
+瘦削削	瘦削削	seu shiaq shiaq	seu shiq shiq	453
 瘦骨饞	瘦骨馋	seu kuaq zae	seu kuaq zae	454
 瘦骨饞	瘦骨馋	seu kuaq dzae	seu kuaq dzae	454
 瘥	瘥	tsho5	tsho5	454
@@ -5225,7 +5225,7 @@
 漉篩油	漉筛油	loq sy yeu	loq sy yeu	456
 滰	滰	jian4	jian6	456
 滰浴	滰浴	jian gnioq	jian gnioq	456
-滰腳面桶	滰脚面桶	jian ciaq mi don	jian ciaq mi don	456
+滰腳面桶	滰脚面桶	jian ciaq mi don	jian ciq mi don	456
 滴水下	滴水下	tiq syu gho	tiq syu gho	456
 慢𠆩	慢𠆩	mae fae	mae fae	456
 慢䋼䋼	慢䋼䋼	mae than than	mae than than	456
@@ -5255,7 +5255,7 @@
 撒尿樸	撒尿朴	dza syu phoq	dza syu phoq	459
 撒屙樸	撒屙朴	dza ou phoq	dza ou phoq	459
 撒潑無賴	撒泼无赖	saq phaq wu la	saq phaq wu la	459
-撒潑無賴	撒泼无赖	saq phaq vu la	saq phaq vu la	459
+撒潑無賴	撒泼无赖	saq phaq vu la	saq phaq wu la	459
 撒撒塞塞	撒撒塞塞	sei sei saq saq	sei sei saq saq	459
 擖	擖	guaq8	guaq8	459
 撩	撩	liau2	liau2	459
@@ -5270,7 +5270,7 @@
 趤頭	趤头	dan deu	dan deu	460
 趤亨	趤亨	dan han	dan han	460
 撐	撑	tshan1	tshan1	460
-撐腳	撑脚	tshan ciaq	tshan ciaq	460
+撐腳	撑脚	tshan ciaq	tshan ciq	460
 撐鬥風船	撐斗风船	tshan teu fon zoe	tshan teu fon zoe	461
 撮	撮	tshaq7	tshaq7	461
 撮	撮	tsoq7	tsoq7	461
@@ -5340,13 +5340,13 @@
 瞎眼土鯆	瞎眼土鯆	haq ngae thu bu	haq ngae thu bu	467
 嘶	嘶	shi1	shi1	467
 踔	踔	nau6	nau6	467
-踢腳線	踢脚线	thiq ciaq shi	thiq ciaq shi	467
+踢腳線	踢脚线	thiq ciaq shi	thiq ciq shi	467
 踏	踏	daq8	daq8	467
 踏牀	踏床	daq zaon	daq zaon	467
 踏牀頭	踏床头	daq zaon deu	daq zaon deu	467
-踏腳	踏脚	daq ciaq	daq ciaq	467
-踏腳車	踏脚车	daq ciaq tsho	daq ciaq tsho	467
-踮腳	踮脚	ti ciaq	ti ciaq	467
+踏腳	踏脚	daq ciaq	daq ciq	467
+踏腳車	踏脚车	daq ciaq tsho	daq ciq tsho	467
+踮腳	踮脚	ti ciaq	ti ciq	467
 蝙蝠老鼠	蝙蝠老鼠	pi foq lau tsy	pi foq lau tsy	467
 噢胡噢胡	噢胡噢胡	au wu au wu	au wu au wu	467
 噇	噇	saon5	saon5	468
@@ -5368,7 +5368,7 @@
 墨地漆暗	墨地漆暗	moq di tshaq ei	moq di tshaq ei	468
 墨漆斯暗	墨漆斯暗	moq tshaq sy ei	moq tshaq sy ei	468
 䫜臉	䫜脸	au li	au li	468
-鑷子鉗	镊子钳	gniaq tsy ji	gniaq tsy ji	468
+鑷子鉗	镊子钳	gniaq tsy ji	gniq tsy ji	468
 𤛏	𤛏	tshyu1	tshyu1	468
 靠	靠	khau5	khau5	469
 靠硬	靠硬	khau ngan	khau ngan	469
@@ -5654,7 +5654,7 @@
 蟹蓋頭	蟹盖头	ha ke deu	ha ke deu	497
 蟹肚子	蟹肚子	ha tu tsy	ha tu tsy	497
 蟹肚臍	蟹肚脐	ha du ji	ha du ji	497
-蟹腳踦	蟹脚踦	ha ciaq ji	ha ciaq ji	497
+蟹腳踦	蟹脚踦	ha ciaq ji	ha ciq ji	497
 鏖糟	鏖糟	au tsau	au tsau	497
 鏖糟	鏖糟	on tson	on tson	497
 鏖糟眼	鏖糟眼	au tsau ngae	au tsau ngae	497
@@ -5674,7 +5674,7 @@
 𪚁	𪚁	li6	li6	499
 欂櫨柱	欂栌柱	boq loq dzyu	boq loq dzyu	499
 欂櫨頭	欂栌头	boq loq deu	boq loq deu	499
-嚼麥糕	嚼麦糕	zhiaq maq kau	zhiaq maq kau	499
+嚼麥糕	嚼麦糕	zhiaq maq kau	zhiq maq kau	499
 嚵	嚵	dzae2	dzae2	499
 ⿱寨	⿱寨	za6	za6	499
 ⿱寨	⿱寨	dza6	dza6	499
