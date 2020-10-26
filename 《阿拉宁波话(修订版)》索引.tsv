@@ -1039,7 +1039,7 @@
 嘸腳活猻	呒脚活狲	mh ciaq waq sen	称谓	36
 鑽倉老鼠	钻仓老鼠	tsoe tshaon lau tsy	称谓	36
 落弶老鼠	落弶老鼠	loq jian lau tsy	称谓	36
-𤖼腳賴𪓿	𤖼脚赖𪓿	phaq ciaq la sy	称谓	36
+𤖼腳癩𪓿	𤖼脚癞𪓿	phaq ciaq la sy	称谓	36
 蓬頭獅	蓬头狮	bon deu sy	称谓	36
 蓬頭活鬼	蓬头活鬼	bon deu waq ciu	称谓	36
 死藤南瓜	死藤南瓜	shi den nei kuo	称谓	36
@@ -1466,6 +1466,7 @@
 身關	身关	shin kuae	身体	48
 後影	后影	gheu in	身体	48
 奶酣	奶酣	na he	身体	48
+奶酣	奶酣	na hei	身体	48
 個子頭	个子头	kou tsy deu	身体	48
 塊頭	块头	khuei deu	身体	48
 塊碼	块码	khuei mo	身体	48
@@ -1495,7 +1496,9 @@
 頭埭	头埭	deu da	身体	49
 章程	章程	tsaon jin	身体	49
 呵鼾	呵鼾	huo he	身体	49
+呵鼾	呵鼾	huo hei	身体	49
 眠鼾	眠鼾	mi he	身体	50
+眠鼾	眠鼾	mi hei	身体	50
 雞眨覺	鸡眨觉	ci saq kau	身体	50
 亂夢地裏	乱梦地里	loe maon di li	身体	50
 心網	心网	shin maon	身体	50
@@ -1867,7 +1870,7 @@
 汁水	汁水	ciq syu	食品	63
 汁湯	汁汤	ciq thaon	食品	63
 滷	卤	lu2	食品	63
-鹵滯	卤滞	lu dzyu	食品	63
+滷滯	卤滞	lu dzyu	食品	63
 臭滷	臭卤	chieu lu	食品	63
 葷腥	荤腥	huen shin	食品	63
 肉	肉	gnioq8	食品	63
@@ -1926,6 +1929,7 @@
 淡菜	淡菜	dae tshe	食品	65
 蠣黃	蛎黄	li uaon	食品	65
 毛蚶	毛蚶	mau he	食品	65
+毛蚶	毛蚶	mau hei	食品	65
 蛤螷	蛤螷	kaq bi	食品	65
 蛤皮	蛤皮	kaq bi	食品	65
 圓蛤	圆蛤	yu kaq	食品	65
@@ -2083,6 +2087,7 @@
 豆板	豆板	deu pae	食品	71
 蘭花倭豆	兰花倭豆	lae huo ou deu	食品	71
 羅漢豆	罗汉豆	lou he deu	食品	71
+羅漢豆	罗汉豆	lou hei deu	食品	71
 蠶豆	蚕豆	zei deu	食品	71
 細倭豆	细倭豆	shi ou deu	食品	71
 赤豆	赤豆	tshaq deu	食品	71
@@ -2577,7 +2582,7 @@
 回聲	回声	wei sen	交通	89
 地莊船	地庄船	di tsaon zoe	交通	89
 抲魚船	抲鱼船	kho ng zoe	交通	89
-⿰舟巤子	⿰舟巤子	laq tsy	交通	89
+𦪴子	𦪴子	laq tsy	交通	89
 抲水	抲水	kho syu	交通	89
 看鴨船	看鸭船	khi ae zoe	交通	89
 腳搲船	脚搲船	ciaq uo zoe	交通	89
@@ -3294,6 +3299,7 @@
 辣蓼	辣蓼	laq liau	植物	116
 艾青	艾青	nge chin	植物	116
 艾漢	艾汉	nge he	植物	116
+艾漢	艾汉	nge hei	植物	116
 青	青	chin1	植物	116
 苧麻	苎麻	ji mo	植物	116
 絡麻	络麻	loq mo	植物	116
@@ -3869,7 +3875,7 @@
 寫	写	shia3	与人体有关的动词	145
 瀉	泻	shia3	与人体有关的动词	145
 掏	掏	dau2	与人体有关的动词	145
-搲	搲	uo5	与人体有关的动词	145
+搲	搲	uo1	与人体有关的动词	145
 扷	扷	au5	与人体有关的动词	145
 拑	拑	ji2	与人体有关的动词	145
 夾	夹	ciq7	与人体有关的动词	145
@@ -3999,7 +4005,7 @@
 揞	揞	ae5	与人体有关的动词	154
 揞	揞	ghae6	与人体有关的动词	154
 攛	撺	tshoe1	与人体有关的动词	154
-碎	碎	sei1	与人体有关的动词	154
+碎	碎	sei5	与人体有关的动词	154
 㪗	㪗	theu3	与人体有关的动词	154
 ⿰扌囂	⿰扌嚣	shiau1	与人体有关的动词	154
 梟	枭	shiau1	与人体有关的动词	154
@@ -4212,7 +4218,9 @@
 伸懶勢	伸懒势	shin lae syu	与人体有关的动词	169
 拗腰骨	拗腰骨	au iau kuaq	与人体有关的动词	169
 打呵鼾	打呵鼾	tan huo he	与人体有关的动词	169
+打呵鼾	打呵鼾	tan huo hei	与人体有关的动词	169
 打眠鼾	打眠鼾	tan mi he	与人体有关的动词	169
+打眠鼾	打眠鼾	tan mi hei	与人体有关的动词	169
 打瞌𥅻	打瞌𥅻	tan khaq tshon	与人体有关的动词	169
 花	花	huo1	与人体有关的动词	169
 眯	眯	mhi5	与人体有关的动词	169
@@ -5457,6 +5465,7 @@
 結棍	结棍	ciq kuen	形态	234
 鐵倉介	铁仓介	thiq tshaon ka	形态	234
 紅出𩈣𩈣	红出𩈣𩈣	ghon tshyuq he he	形态	234
+紅出𩈣𩈣	红出𩈣𩈣	ghon tshyuq hei hei	形态	234
 𦫪色	𦫪色	o saq	形态	234
 僵	僵	cian1	形态	234
 㽺	㽺	shiq7	形态	234
@@ -5732,7 +5741,7 @@
 邪術胡道	邪术胡道	ya zyuq wu dau	性质	248
 風	风	fon5	性质	248
 風作爛氣	风作烂气	fon tsoq lae chi	性质	248
-泡衝	泡冲	phau tshon	性质	248
+泡衝	泡冲	phau tshyun	性质	248
 嗲	嗲	tia3	性质	248
 扭扭作作	扭扭作作	gnieu gnieu tsoq tsoq	性质	248
 生頭	生头	san deu	性质	248
@@ -6557,8 +6566,8 @@
 藍扮頭	蓝扮头	lae pae deu	副词	287
 千年藍扮	千年蓝扮	chi gni lae pae	副词	287
 賴花頭	赖花头	la huo deu	副词	287
-候着	候着	gheu zyuq	副词	287
-候着記把	候着记把	gheu zyuq ci po	副词	287
+候着	候着	gheu dzoq	副词	287
+候着記把	候着记把	gheu dzoq ci po	副词	287
 有兩遭	有两遭	yeu lian tsau	副词	288
 有辰光	有辰光	yeu zyun kuaon	副词	288
 每遭	每遭	mei tsau	副词	288
@@ -6632,7 +6641,7 @@
 倒叩	倒叩	tau kheu	副词	290
 防來	防来	baon le	副词	290
 防依來	防依来	baon i le	副词	290
-親	亲	chin5	副词	290
+親	亲	chin1	副词	290
 可	可	khou3	副词	290
 淨	净	zhin4	副词	290
 甚	甚	zhin4	副词	290
@@ -7143,7 +7152,7 @@
 䟕洪洞	䟕洪洞	tsho ghon don	短语	322
 乘風涼	乘风凉	zhin fon lian	短语	322
 借肩背	借肩背	cia ci pei	短语	322
-候着候	候着候	gheu zyuq gheu	短语	322
+候着候	候着候	gheu dzoq gheu	短语	322
 𣍐難熬	𠊉难熬	vei nae ngau	短语	322
 屙挭的	屙挭的	ou kuan tiq	短语	322
 擄順毛	掳顺毛	lou zyun mau	短语	323
@@ -7217,7 +7226,7 @@
 一手一腳	一手一脚	iq shieu iq ciaq	短语	326
 一打一挼	一打一挼	iq tan iq nou	短语	326
 一包一𢷒	一包一𢷒	iq pau iq jiq	短语	326
-一包一折	一包一折	iq pau iq ciq	短语	326
+一包一折	一包一折	iq pau iq tsoq	短语	326
 一直鼻頭	一直鼻头	iq jiq baq deu	短语	326
 一轉一迴	一转一回	iq tsoe iq wei	短语	326
 一進一出	一进一出	iq cin iq tshyuq	短语	326

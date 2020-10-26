@@ -32,7 +32,7 @@
 一長二短	一长二短	iq jian gni toe	iq jian gni toe	2
 一打一挼	一打一挼	iq tan iq nou	iq tan iq nou	2
 一生一世	一生一世	iq san iq shi	iq san iq shi	3
-一包一折	一包一折	iq pau iq ciq	iq pau iq ciq	3
+一包一折	一包一折	iq pau iq tsoq	iq pau iq tsoq	3
 一包一𢷒	一包一𢷒	iq pau iq jiq	iq pau iq jiq	3
 一式一樣	一式一样	iq saq iq yan	iq saq iq yan	3
 一色一樣	一色一样	iq saq iq yan	iq saq iq yan	3
@@ -286,7 +286,7 @@
 千定萬定	千定万定	chi din vae din	chi din vae din	22
 千恩萬謝	千恩万谢	chi en vae zhia	chi en vae zhia	22
 個	个	kou5	kou5	23
-個	个	ku5	ku5	23
+個	个	kun5	ku5	23
 個子頭	个子头	kou tsy deu	kou tsy deu	23
 凡到	凡到	vae tau	vae tau	23
 及味	及味	jiq mi	jiq mi	23
@@ -527,7 +527,7 @@
 反梢	反梢	fae sau	fae sau	40
 介	介	ka5	ka5	40
 介果	介果	ka kou	ka kou	41
-介果	介果	ka ku	ka ku	41
+介果	介果	ka kun	ka ku	41
 從直	从直	dzon jiq	dzon jiq	41
 今末	今末	ci maq	ci maq	41
 分	分	ven6	ven6	41
@@ -934,7 +934,7 @@
 弗過	弗过	vaq kou	faq kou	75
 弗來	弗来	vaq le	faq le	75
 弗知	弗知	faq ciq	faq ciq	75
-弗是	弗是	faq zy	faq zy	75
+弗是	弗是	vaq zy	faq zy	75
 弗像	弗像	vaq zhian	faq zhian	75
 弗入流	弗入流	vaq zyuq lieu	faq zoq lieu	75
 弗上課	弗上课	vaq zaon khou	faq zaon khou	76
@@ -2155,8 +2155,8 @@
 宊	宊	thaq7	thaq7	178
 牢監	牢监	lau kae	lau kae	178
 牢監犯	牢监犯	lau kae vae	lau kae vae	178
-良士	良士	lian zy	lian zy	178
-良士嬸	良士婶	lian zy shin	lian zy shin	178
+良士	良士	lan zy	lian zy	178
+良士嬸	良士婶	lan zy shin	lian zy shin	178
 諓	諓	dzoe2	dzoe2	179
 詀	𧮪	tshoe5	tshoe5	179
 𧮪風調	𧮪风调	tshoe fon diau	tshoe fon diau	179
@@ -2315,7 +2315,7 @@
 㧕	㧕	lieu6	lieu6	193
 勢口	势口	syu kheu	syu kheu	193
 抱裙	抱裙	bau jiun	bau jiun	193
-擽	㧰	loq	loq	193
+擽	㧰	loq8	loq8	193
 拄	拄	tsyu5	tsyu5	193
 拉打	拉打	lhan tan	lhan tan	193
 拉柴胡子	拉柴胡子	la za wu tsy	la za wu tsy	194
@@ -2516,7 +2516,7 @@
 和攏三姆	和拢三姆	ghou lon sae m	ghou lon sae m	210
 委氣	委气	uei chi	uei chi	210
 委實	委实	uei zyuq	uei zoq	210
-侉	侉	uo1	uo1	210
+侉	侉	o1	uo1	210
 侏	侏	tsyu1	tsyu1	210
 侏栗	侏栗	tsyu liq	tsyu liq	211
 貨場	货场	hou jian	hou jian	211
@@ -2529,7 +2529,7 @@
 儂	侬	nou6	nou6	211
 儂	侬	ng6	ng6	211
 儂	侬	ng nou	ng nou	211
-儂拉	侬拉	n naq	n naq	211
+儂拉	侬拉	ng naq	n naq	211
 儂拉	侬拉	n laq	n laq	211
 的	的	tiq7	tiq7	211
 的仔	的仔	tiq tsy	tiq tsy	212
@@ -2932,7 +2932,7 @@
 鹹咪咪	咸咪咪	ghae mhi mhi	ghae mhi mhi	246
 鹹駱駝	咸骆驼	ghae loq dou	ghae loq dou	246
 鹹辣辣	咸辣辣	ghae laq laq	ghae laq laq	246
-鹹𪉯𪉯	咸𪉯𪉯	ghae kaq kaq	ghae kaq kaq	246
+鹹𪉯𪉯	咸𪉯𪉯	ghae khaq khaq	ghae khaq khaq	246
 鹹𣝗青果	咸𣝗青果	ghae waq chin kou	ghae waq chin kou	245
 歪嘴	歪嘴	hua tsyu	hua tsyu	246
 歪七𢺵八	歪七𢺵八	hua chiq ji paq	hua chiq ji paq	246
@@ -2980,7 +2980,7 @@
 背脊頂	背脊顶	pei ciq ten	pei ciq ten	250
 背脊胴	背脊胴	pei ciq don	pei ciq don	250
 背脊骨	背脊骨	pei ciq kuaq	pei ciq kuaq	250
-背桌凳腳	背桌凳脚	pei tsoq ten ciaq	pei tsoq ten ciq	250
+揹桌凳腳	背桌凳脚	pei tsoq ten ciaq	pei tsoq ten ciq	250
 點飢	点饥	ti ci	ti ci	251
 點心時	点心时	ti shin zy	ti shin zy	251
 點心時	点心时	te shin zy	te shin zy	251
@@ -3428,15 +3428,15 @@
 珠珠魚	珠珠鱼	tsyu tsyu ng	tsyu tsyu ng	288
 班	班	pae1	pae1	288
 素雞	素鸡	su ci	su ci	288
-素淨	素净	su zhin	su zhin	288
-蠶豆	蚕豆	zei deu	zei deu	288
-撈	捞	lhau1	lhau1	288
-挭	挭	kuan1	kuan1	288
-捂	捂	u5	u5	288
-捂雪	捂雪	u syuq	u soq	288
-攦	攦	li4	li6	288
-摙	摙	li4	li6	288
-載	载	ze6	ze6	288
+素淨	素净	su zhin	su zhin	289
+蠶豆	蚕豆	zei deu	zei deu	289
+撈	捞	lhau1	lhau1	289
+挭	挭	kuan1	kuan1	289
+捂	捂	u5	u5	289
+捂雪	捂雪	u syuq	u soq	289
+攦	攦	li4	li6	289
+摙	摙	li4	li6	289
+載	载	ze6	ze6	289
 趕水	赶水	ki syu	ki syu	290
 趕出	赶出	ki tshyuq	ki tshyuq	290
 趕進	赶进	ki cin	ki cin	290
@@ -3484,11 +3484,11 @@
 熱拆骨頭	热拆骨头	gniq tshaq kuaq dei	gniq tshaq kuaq dei	294
 搗	捣	tau3	tau3	294
 搗親	捣亲	tau chin	tau chin	294
-搗梗	捣梗	tau gaon	tau gaon	294
+搗梗	捣梗	tau gan	tau gan	294
 搗子頭	捣子头	tau tsy deu	tau tsy deu	294
 搗臼丸	捣臼丸	tau jieu wun	tau jieu wu	294
 挨	挨	a1	a1	294
-挨	挨	a5	a5	294
+挨	挨	a1	a5	294
 挨排生	挨排生	a ba san	a ba san	295
 挨五接頭	挨五接头	a ng ciq deu	a ng ciq deu	295
 挨擠弗開	挨挤弗开	a ci vaq khe	a ci faq khe	295
@@ -4041,7 +4041,7 @@
 救命車	救命车	cieu min tsho	cieu min tsho	345
 嗇刻	啬刻	saq khaq	saq khaq	345
 嗇啚啚	啬啚啚	saq pi pi	saq pi pi	345
-𢼹	𢼹	bu2	bu2	345
+𢼹	𢼹	bu6	bu2	345
 欶	欶	soq7	soq7	345
 敐敐	敐敐	jin jin	jin jin	345
 敐挭括得	敐挭括得	jin guan kuaq taq	jin guan kuaq taq	345
@@ -4054,7 +4054,7 @@
 雪子	雪子	syuq tsy	soq tsy	346
 雪平	雪平	syuq bin	soq bin	346
 雪平	雪平	son bin	son bin	346
-雪麪	雪面	syuq mi	soq mi	346
+雪麪	雪面	soq mi	soq mi	346
 雪眼	雪眼	syuq ngae	soq ngae	346
 雪淡	雪淡	syuq dae	soq dae	347
 雪花粉	雪花粉	syuq huo fen	soq huo fen	347
@@ -4162,7 +4162,7 @@
 甜咪咪	甜咪咪	di mhi mhi	di mhi mhi	355
 甜漿漿	甜浆浆	di cian cian	di cian cian	355
 甜嫩嫩	甜嫩嫩	di nen nen	di nen nen	355
-甜嫩頭	甜嫩头	di nhen deu	di nhen deu	355
+甜嫩頭	甜嫩头	di nen deu	di nhen deu	355
 舑	舑	thae1	thae1	355
 舑	舑	tha1	tha1	355
 𥣘	𥣘	iq7	iq7	355
@@ -4660,7 +4660,7 @@
 𨔨𨔨	𨔨𨔨	tshaq tshaq	tshaq tshaq	402
 稍瓜	稍瓜	sau kuo	sau kuo	402
 稍尠	稍尠	shiau syu	shiau syu	402
-等	等	ten1	ten1	403
+等	等	ten3	ten1	403
 等頃	等顷	ten chian	ten chian	403
 等晌	等晌	ten zaon	ten zaon	403
 築漏	筑漏	tsoq leu	tsoq leu	403
@@ -4807,7 +4807,7 @@
 騙賊柺子	骗贼拐子	phi zaq kua tsy	phi zaq kua tsy	417
 騲雞	騲鸡	tshau ci	tshau ci	417
 剺	剺	li6	li6	417
-𢆞	𢆞	ciq5	ciq5	417
+𢆞	𢆞	ciq7	ciq7	417
 魂靈	魂灵	waq lin	waq lin	417
 𢲔	𢲔	pae5	pae5	417
 搕	搕	khaq7	khaq7	417
@@ -4885,9 +4885,9 @@
 雷大	雷大	lei dou	lei dou	424
 雷筍	雷笋	lei syun	lei syun	425
 霧露	雾露	wu lu	wu lu	425
-霧露	雾露	wu lu	vu lu	425
+霧露	雾露	vu lu	wu lu	425
 霧露恰恰	雾露恰恰	wu lu chia chia	wu lu chia chia	425
-霧露恰恰	雾露恰恰	wu lu chia chia	vu lu chia chia	425
+霧露恰恰	雾露恰恰	vu lu chia chia	wu lu chia chia	425
 㪥	㪥	tso1	tso1	425
 睬儂瞎子	睬侬瞎子	tshe nou haq tsy	tshe nou haq tsy	425
 睬儂老白眼	睬侬老白眼	tshe nou lau baq ngae	tshe nou lau baq ngae	425
@@ -5033,7 +5033,7 @@
 煨	煨	uei1	uei1	438
 𤒘	𤒘	toq7	toq7	439
 㷟	㷟	thei1	thei1	439
-煔	煔	yi6	yi6	439
+煔	煔	yi2	yi6	439
 煆	煆	huo5	huo5	439
 滿筍	满笋	mun syun	moe syun	439
 滿進溢出	满进溢出	mun cin kaq tshyuq	moe cin kaq tshyuq	439
@@ -5138,7 +5138,7 @@
 鏤	镂	lheu1	lheu1	449
 鏤眼	镂眼	lheu ngae	lheu ngae	449
 鏤勾師	镂勾师	leu keu sy	leu keu sy	449
-鏤膿刮髓	镂脓刮髓	lheu yin kuaq shi	lheu yin kuaq shi	449
+鏤膿刮髓	镂脓刮髓	lheu non kuaq shi	lheu non kuaq shi	449
 鏤鏤挖挖	镂镂挖挖	lheu lheu uaq uaq	lheu lheu uaq uaq	449
 穩篤六株	稳笃六株	uen toq loq tsyu	uen toq loq tsyu	449
 箍桶	箍桶	khou don	khou don	449
@@ -5181,7 +5181,7 @@
 豪燥	豪燥	ghau sau	ghau sau	452
 膏	膏	kau1	kau1	452
 膏蟹	膏蟹	kau ha	kau ha	452
-歊	歊	hau5	hau5	453
+歊	歊	hau1	hau5	453
 腐	腐	vu6	vu6	453
 腐滯滯	腐滞滯	vu ji ji	vu ji ji	453
 腐𤒻𤒻	腐𤒻𤒻	vu daq daq	vu daq daq	453
@@ -5194,9 +5194,9 @@
 腐滯括剌	腐滞括剌	vu jiq guaq laq	vu jiq guaq laq	453
 瘟孫	瘟孙	uen sen	uen sen	453
 瘦怯怯	瘦怯怯	seu chiq chiq	seu chiq chiq	453
-瘦削削	瘦削削	seu shiaq shiaq	seu shiq shiq	453
-瘦骨饞	瘦骨馋	seu kuaq zae	seu kuaq zae	454
-瘦骨饞	瘦骨馋	seu kuaq dzae	seu kuaq dzae	454
+瘦削削	瘦削削	seu shiq shiq	seu shiq shiq	453
+瘦骨饞	瘦骨馋	seu kuaq ze	seu kuaq zae	454
+瘦骨饞	瘦骨馋	seu kuaq dze	seu kuaq dzae	454
 瘥	瘥	tsho5	tsho5	454
 辣	辣	laq8	laq8	454
 辣茄	辣茄	laq jia	laq jia	454
@@ -5235,7 +5235,7 @@
 賽過	赛过	sei khou	sei khou	457
 𠠖	𠠖	kon5	kon5	457
 蜜甜	蜜甜	miq di	miq di	457
-譆	譆	syu5	syu5	457
+譆	譆	syu1	syu5	457
 褙襞	褙襞	pei paq	pei paq	457
 褓裙	褓裙	bau jiun	bau jiun	457
 褪	褪	then5	then5	457
@@ -5352,7 +5352,7 @@
 噇	噇	saon5	saon5	468
 𠿭	𠿭	waq8	waq8	468
 𠿭	𠿭	wa2	wa2	468
-⿰口強	⿰口强	jian2	jian2	468
+𠼢	𠼢	jian2	jian2	468
 墨筆	墨笔	moq piq	moq piq	468
 墨黑	墨黑	moq haq	moq haq	468
 墨漆黑	墨漆黑	moq tshaq haq	moq tshaq haq	468
