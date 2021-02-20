@@ -48,10 +48,10 @@
 做壽做九勿做十。	tsou zhieu tsou cieu vaq tsou zyuq.	346
 三十弗可錯，四十弗可做。	sae zyuq vaq khou tshou, sy zyuq vaq khou tsou.	346
 三十勿可錯，四十勿可做。	sae zyuq vaq khou tshou, sy zyuq vaq khou tsou.	346
-請喫酒，掗拜生。	chin chioq cieu, o pa san,	346
-長輩弗完婚，晚輩難成親。	cian pei vaq wun huen, vae pei nae jin chin,	346
-長輩勿完婚，晚輩難成親。	cian pei vaq wun huen, vae pei nae jin chin,	346
-男酒女茶，男借女順。	nei-nae cieu gniu dzo, nei-nae cia gniu zyun,	346
+請喫酒，掗拜生。	chin chioq cieu, o pa san.	346
+長輩弗完婚，晚輩難成親。	cian pei vaq wun huen, vae pei nae jin chin.	346
+長輩勿完婚，晚輩難成親。	cian pei vaq wun huen, vae pei nae jin chin.	346
+男酒女茶，男借女順。	nei-nae cieu gniu dzo, nei-nae cia gniu zyun.	346
 好女弗喫兩家茶。	hau gniu vaq chioq lian ko dzo.	346
 好女勿喫兩家茶。	hau gniu vaq chioq lian ko dzo.	346
 強盜弗進五女門。	jian dau vaq cin ng gniu men.	346
@@ -65,11 +65,11 @@
 若要夫妻同到老，梁山伯廟到一到。	zoq iau fu chi don tau lau, lian sae paq miau tau iq tau.	347
 男人弗能進紅房。	nei-nae gnin vaq nen cin ghon vaon.	347
 男人勿能進紅房。	nei-nae gnin vaq nen cin ghon vaon.	347
-烏鼻頭管望外婆。	u baq deu kun maon nga bou,	347
+烏鼻頭管望外婆。	u baq deu kun maon nga bou.	347
 小腳一雙，眼淚一缸。	shiau ciaq iq saon, ngae li iq kaon.	347
 團蕩阿姆鬧花燈。	doe daon a m nau huo ten.	347
 團蕩阿姆鬧花燈。	doe daon an m nau huo ten.	347
-正月正，新新衣裳穿上身；	cin yuq cin, shin shin i zaon tshoe zaon shin,	347
+正月正，新新衣裳穿上身；	cin yuq cin, shin shin i zaon tshoe zaon shin;	347
 二月二，菜羹菜飯煮露天。	gni yuq gni, tshe kan tshe vae tsy lu thi.	347
 十五十六，除酒除肉。	zyuq ng zyuq loq, dzyu cieu dzyu gnioq.	347
 三月三，踏沙灘。	sae yuq sae, daq so thae.	347
@@ -603,8 +603,9 @@
 屋寬弗如心寬。	oq khun vaq zyu shin khun.	362
 屋寬勿如心寬。	oq khun vaq zyu shin khun.	362
 庉庉朝南屋，喫喫陳年穀。	den den jiau nei-nae oq, chioq chioq jin gni koq.	362
-朝北財主，弗如朝南屋柱。朝西屋，冬夏哭。	jiau poq dze tsyu, vaq zyu jiau nei-nae oq dzyu. jiau shi oq, ton gho khoq.	362
-朝北財主，勿如朝南屋柱。朝西屋，冬夏哭。	jiau poq dze tsyu, vaq zyu jiau nei-nae oq dzyu. jiau shi oq, ton gho khoq.	362
+朝北財主，弗如朝南屋柱。	jiau poq dze tsyu, vaq zyu jiau nei-nae oq dzyu.	362
+朝北財主，勿如朝南屋柱。	jiau poq dze tsyu, vaq zyu jiau nei-nae oq dzyu.	362
+朝西屋，冬夏哭。	jiau shi oq, ton gho khoq.	362
 有喫嘸喫，莫庉朝西朝北。	yeu chioq mh chioq, mhau den jiau shi jiau poq.	362
 有喫嘸喫，莫庉朝西朝北。	yeu chioq mh chioq, mau den jiau shi jiau poq.	362
 冬弗上樓，夏弗上樓。	ton vaq zaon leu, gho vaq zaon leu.	362
@@ -821,7 +822,7 @@
 要喫飯，嫁老公；要射屙，箍馬桶。	iau chioq vae, ko lau kon; iau dza ou, khu mo don.	369
 要喫飯，嫁老公；要射屙，箍馬桶。	iau chioq vae, ko lau kon; iau dza ou, khou mo don.	369
 要喫飯，嫁老公；要撒屙，箍馬桶。	iau chioq vae, ko lau kon; iau dza ou, khu mo don.	369
-要喫飯，嫁老公；要撒屙，箍馬桶。	iau chioq vae, ko lau kon; iau dza ou, khou mo don	369
+要喫飯，嫁老公；要撒屙，箍馬桶。	iau chioq vae, ko lau kon; iau dza ou, khou mo don.	369
 三十過，四十來，雙手招郎郎弗來。	sae zyuq kou, sy zyuq le, saon shieu ciau laon laon vaq le.	369
 三十過，四十來，雙手招郎郎勿來。	sae zyuq kou, sy zyuq le, saon shieu ciau laon laon vaq le.	369
 女要男一張紙，男要女隔道牆。	gniu iau nei-nae iq jian tsy, nei-nae iau gniu kaq dau zhian.	369
@@ -3054,8 +3055,9 @@
 好狗勿攔路，好鐵勿打釘。	hau keu vaq lae lu, hau thiq vaq tan tin.	426
 貪自家肚下門。	thei zhi ko du gho men.	426
 貪賤買老牛，一年倒兩頭。	thei zhi ma lau ngeu, iq gni tau lian deu.	426
-貪眼小便宜，管着老價鈿。空高興，大番餅。	thei ngae shiau bi gni, kun dzoq lau ko di. khon kau shin, dou fae pin.	426
-貪眼小便宜，管着老價鈿。空高興，大番餅。	thei ngae shiau bi gni, kun zoq lau ko di. khon kau shin, dou fae pin.	426
+貪眼小便宜，管着老價鈿。	thei ngae shiau bi gni, kun dzoq lau ko di.	426
+貪眼小便宜，管着老價鈿。	thei ngae shiau bi gni, kun zoq lau ko di.	426
+空高興，大番餅。	khon kau shin, dou fae pin.	426
 白喫還要嫌鄙鹹淡。	baq chioq wa iau i pi ghae dae.	426
 白喫還要嫌鄙鹹淡。	baq chioq gha iau i pi ghae dae.	426
 小頭哏哏響，大頭弗管賬。	shiau deu khen khen shian, dou deu vaq kun cian.	426
