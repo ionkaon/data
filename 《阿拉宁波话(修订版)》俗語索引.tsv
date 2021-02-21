@@ -272,7 +272,7 @@
 勿怕家當空，只要有個好老公。	vaq pho ko taon khon, ciq iau yeu ghoq hau lau kon.	353
 一夜夫妻百夜恩，百夜夫妻海洋深。	iq ya fu chi paq ya en, paq ya fu chi he yan shin.	353
 少年夫妻甜如蜜，老年夫妻恩如漆。	shiau gni fu chi di zyu miq, lau gni fu chi en zyu chiq.	353
-家常便飯粗布衣，知冷知暖是夫妻。	ko dzaon bi vae tshu pu i, tsyu lan tsyu noe zy fu chi.	353
+家常便飯粗布衣，知冷知暖是夫妻。	cia dzaon bi vae tshu pu i, tsyu lan tsyu noe zy fu chi.	353
 好甮看我妻，只要看我身上衣。	hau ven khi-khe ngo chi, ciq iau khi-khe ngo shin zaon i.	353
 兒子越大越分開，夫妻越老越恩愛。	ng tsy yuq dou yuq fen khe, fu chi yuq lau yuq en e.	353
 患難夫妻恩愛多。	wae nae fu chi en e tou.	353
@@ -281,8 +281,8 @@
 喫勒好，穿勒好，弗如夫妻同到老。	chioq laq hau, tshoe laq hau, vaq zyu fu chi don tau lau.	353
 喫勒好，穿勒好，勿如夫妻同到老。	chioq laq hau, tshoe laq hau, vaq zyu fu chi don tau lau.	353
 夫妻和，萬事妥。	fu chi ghou, vae zy thou.	353
-夫妻和睦家業興，夫妻弗和睏弗寧。	fu chi ghou moq ko gniq shin, fu chi vaq ghou khuen vaq gnin.	353
-夫妻和睦家業興，夫妻勿和睏勿寧。	fu chi ghou moq ko gniq shin, fu chi vaq ghou khuen vaq gnin.	353
+夫妻和睦家業興，夫妻弗和睏弗寧。	fu chi ghou moq cia gniq shin, fu chi vaq ghou khuen vaq gnin.	353
+夫妻和睦家業興，夫妻勿和睏勿寧。	fu chi ghou moq cia gniq shin, fu chi vaq ghou khuen vaq gnin.	353
 捆綁弗成夫妻。	khuen paon vaq jin fu chi.	353
 捆綁勿成夫妻。	khuen paon vaq jin fu chi.	353
 柴米夫妻，酒肉朋友。	za mi fu chi, cieu gnioq ban yeu.	353
@@ -447,8 +447,11 @@
 做囡像梗龍，做新婦像梗蟲。	tsou noe zhian kuan lon, tsou shin vu zhian kuan dzon.	358
 河埠頭講阿婆，唸經堂講新婦。	ghou bu deu kaon aq bou, ne-gnie cin daon kaon shin vu.	358
 新婦壞罵兒子，兒子好誇新婦。	shin vu ua mo ng tsy, ng tsy hau khuo shin vu.	358
+新婦壞罵兒子，兒子好誇新婦。	shin vu ua mo ng tsy, ng tsy hau khua shin vu.	358
 孃誇囡好弗算好，婆誇新婦一朵花。	gnian khuo noe hau vaq soe hau, bou khuo shin vu iq to huo.	358
+孃誇囡好弗算好，婆誇新婦一朵花。	gnian khua noe hau vaq soe hau, bou khua shin vu iq to huo.	358
 孃誇囡好勿算好，婆誇新婦一朵花。	gnian khuo noe hau vaq soe hau, bou khuo shin vu iq to huo.	358
+孃誇囡好勿算好，婆誇新婦一朵花。	gnian khua noe hau vaq soe hau, bou khua shin vu iq to huo.	358
 月裏新婦弗可哄，月裏奶花弗可𢱤。	yuq li shin vu vaq khou hon, yuq li na huo vaq khou son.	358
 月裏新婦勿可哄，月裏奶花勿可𢱤。	yuq li shin vu vaq khou hon, yuq li na huo vaq khou son.	358
 好新婦弗怕惡阿婆。	hau shin vu vaq pho oq aq bou.	358
@@ -549,7 +552,7 @@
 油鹽勿喫是梅豆。	yeu yi vaq chioq zy mei deu.	361
 生蔥，熟大蒜。	san tshon, zoq da soe.	361
 地裏三樣葷：韭菜、大蒜、蔥。	di li sae yan huen: cieu tshe, da soe, tshon.	361
-海里三樣蔬：海帶、紫菜、苔。	he li sae yan su: he ta, tsy tshe, de.	361
+海裏三樣蔬：海帶、紫菜、苔。	he li sae yan su: he ta, tsy tshe, de.	361
 鹹齏炒炒，冷飯咬咬。	ghae ci tshau tshau, lan vae ngau ngau.	361
 家有鹹齏，弗喫淡飯。	cia yeu ghae ci, vaq chioq dae vae.	361
 家有鹹齏，勿喫淡飯。	cia yeu ghae ci, vaq chioq dae vae.	361
@@ -753,7 +756,7 @@
 疔瘡破頭，力大如牛。	tin tshaon phou deu, liq dou zyu ngeu.	367
 瘡癢爛，毒癢散。	tshaon yan lae, doq yan sae.	367
 針嘸四兩重，根根筋骨動。	cin mh sy lian dzon, ken ken cin kuaq don.	367
-窮醫管三家。	jion i kun sae cia.	367
+窮醫管三家。	jion i kun sae ko.	367
 窮算命，富喫藥。	jion soe min, fu chioq yaq.	367
 三分喫藥，七分調理。	sae fen chioq yaq, chiq fen diau li.	367
 刀傷藥雖好，弗犯爲妙。	tau saon yaq sei hau, vaq vae wei miau.	367
@@ -1139,7 +1142,7 @@
 吹過小滿風，批花好留種。	tshyu kou shiau mun fon, phi huo hau lieu tson.	377
 若要批花紅，八月十六頭夜種。	zhiaq iau phi huo ghon, paq yuq zyuq loq deu ya tson.	377
 若要批花紅，八月十六頭夜種。	zoq iau phi huo ghon, paq yuq zyuq loq deu ya tson.	377
-霜降種草子，幼苗容易死。	saon kaon tson tshau tsy, ieu miau yon yi shi.	377
+霜降種草子，幼苗容易死。	saon kaon tson tshau tsy, ieu miau yon yi sy.	377
 年裏春花月裏稻。	gni li tshyun huo yuq li dau.	377
 草子過冬壅遍灰，賽過冬天蓋牀被。	tshau tsy kou ton ion pi huei, se kou ton thi ke zaon bi.	377
 若要草子好，經常三分燥。	zhiaq iau tshau tsy hau, cin dzaon sae fen sau.	377
@@ -1335,8 +1338,8 @@
 在山靠山。	dze sae khau sae.	382
 若要富，竹、茶、兔。	zhiaq iau fu, tsoq, dzo, thu.	382
 若要富，竹、茶、兔。	zoq iau fu, tsoq, dzo, thu.	382
-家有千株樹，一世弗窮苦。	ko yeu chi tsyu zyu, iq shi vaq jion khu.	382
-家有千株樹，一世勿窮苦。	ko yeu chi tsyu zyu, iq shi vaq jion khu.	382
+家有千株樹，一世弗窮苦。	cia yeu chi tsyu zyu, iq shi vaq jion khu.	382
+家有千株樹，一世勿窮苦。	cia yeu chi tsyu zyu, iq shi vaq jion khu.	382
 種樹造林，莫過清明。	tson zyu zau lin, mhau kou chin min.	382
 種樹造林，莫過清明。	tson zyu zau lin, mau kou chin min.	382
 種樹嘸巧，深埋實搗。	tson zyu mh chiau, shin ma zyuq tau.	382
@@ -1367,7 +1370,7 @@
 茶地勿挖，茶芽勿發。	dzo di vaq uaq, dzo ngo vaq faq.	383
 春茶留一芽，夏茶發一把。	tshyun dzo lieu iq ngo, gho dzo faq iq po.	383
 頭茶荒，二茶光。	deu dzo huaon, gni dzo kuaon.	383
-薔薇花開頭朵，家家好喫新茶。	jian vi huo khe deu to, ko ko hau chioq shin dzo.	383
+薔薇花開頭朵，家家好喫新茶。	jian vi huo khe deu to, cia cia hau chioq shin dzo.	383
 若要果樹長勒好，施肥治蟲水喫飽。	zhiaq iau kou zyu cian laq hau, sy vi dzyu dzon syu chioq pau.	383
 若要果樹長勒好，施肥治蟲水喫飽。	zoq iau kou zyu cian laq hau, sy vi dzyu dzon syu chioq pau.	383
 若要蟲子少，除淨樹邊草。	zhiaq iau dzon tsy shiau, dzyu zhin zyu pi tshau.	383
@@ -1494,7 +1497,8 @@
 春水弗離山頭，黃魚弗離灘頭。	tshyun syu vaq li sae deu, waon ng vaq li thae deu.	386
 春水勿離山頭，黃魚勿離灘頭。	tshyun syu vaq li sae deu, waon ng vaq li thae deu.	386
 菜花籽結龍頭，小黃魚結蓬頭。	tshe huo tsy ciq lon deu, shiau waon ng ciq bon deu.	386
-正月十四夜亮，烏賊擺擺樣；正月十四夜暗，烏賊沒上磡。	cin yuq zyuq sy ya lian, u zaq pa pa yan; cin yuq zyuq sy ya ei-e, u zaq maq zaon khae.	386
+正月十四夜亮，烏賊擺擺樣；正月十四夜暗，烏賊沒上墈。	cin yuq zyuq sy ya lian, u zaq pa pa yan; cin yuq zyuq sy ya ei-e, u zaq maq zaon khi-khe.	386
+正月十四夜亮，烏賊擺擺樣；正月十四夜暗，烏賊沒上墈。	cin yuq zyuq sy ya lian, u zaq pa pa yan; cin yuq zyuq sy ya ei-e, u zaq maq zaon khe.	386
 二月二晴，船艙前而掛銀瓶；二月二落，船艙前面嘸人踱。	gni yuq gni zhin, zoe tshaon zhi er kuo gnin bin; gni yuq gni loq, zoe tshaon zhi mi mh gnin doq.	386
 二月清明魚如草，三月清明魚如寶。	gni yuq chin min ng zyu tshau, sae yuq chin min ng zyu pau.	386
 清明三月節，烏賊嘸處疊。	chin min sae yuq ciq, u zaq mh tshyu diaq.	386
@@ -1550,11 +1554,11 @@
 弗怕弗識貨，只怕貨比貨。	vaq pho vaq shiq hou, ciq pho hou pi hou.	388
 勿怕勿識貨，只怕貨比貨。	vaq pho vaq shiq hou, ciq pho hou pi hou.	388
 眼睛看過別高低。	ngae cin khi-khe kou biq kau ti.	388
-貨問三家弗喫虧，路走三遍弗生頭。	hou men sae ko vaq chioq khuei, lu tseu sae pi vaq san deu.	388
-貨問三家勿喫虧，路走三遍勿生頭。	hou men sae ko vaq chioq khuei, lu tseu sae pi vaq san deu.	388
+貨問三家弗喫虧，路走三遍弗生頭。	hou men sae cia vaq chioq khuei, lu tseu sae pi vaq san deu.	388
+貨問三家勿喫虧，路走三遍勿生頭。	hou men sae cia vaq chioq khuei, lu tseu sae pi vaq san deu.	388
 貨到地頭爛。	hou tau di deu lae.	388
 人靠衣裝，貨靠包裝。	gnin khau i tsaon, hou khau pau tsaon.	388
-辦事體看人頭，做生意靠嬸頭。	bae zy thi khi-khe gnin deu, tsou san i khau shin deu.	388
+辦事體看人頭，做生意靠㜅頭。	bae zy thi khi-khe gnin deu, tsou san i khau shiuq deu.	388
 種田弗離田頭，做生意弗離櫃頭。	tson di vaq li di deu, tsou san i vaq li jiu deu.	388
 種田勿離田頭，做生意勿離櫃頭。	tson di vaq li di deu, tsou san i vaq li jiu deu.	388
 店倌弗離櫃檯。	ti kun vaq li jiu de.	388
@@ -1649,8 +1653,8 @@
 有手藝喫手藝，嘸手藝喫爛泥。	yeu shieu gni chioq shieu gni, mh shieu gni chioq na gni.	390
 荒年餓弗煞手藝人。	huaon gni ngou vaq saq shieu gni gnin.	390
 荒年餓勿煞手藝人。	huaon gni ngou vaq saq shieu gni gnin.	390
-家有千金，弗如薄藝在身。	ko yeu chi cin, vaq zyu boq gni dze shin.	390
-家有千金，勿如薄藝在身。	ko yeu chi cin, vaq zyu boq gni dze shin.	390
+家有千金，弗如薄藝在身。	cia yeu chi cin, vaq zyu boq gni dze shin.	390
+家有千金，勿如薄藝在身。	cia yeu chi cin, vaq zyu boq gni dze shin.	390
 扁擔兩頭環，弗挑要餓飯。	pi tae lian deu wae, vaq thiau iau ngou vae.	390
 扁擔兩頭環，勿挑要餓飯。	pi tae lian deu wae, vaq thiau iau ngou vae.	390
 上磨肩胛，下磨腳底。	zaon mou ci kaq, gho mou ciaq ti.	390
@@ -1687,6 +1691,7 @@
 一個將軍一個令。	iq goq cian ciun iq goq lin.	391
 一個將軍一個令。	iq ghoq cian ciun iq ghoq lin.	391
 兵垮垮一人，將垮垮千人。	pin khuo khuo iq gnin, cian khuo khuo chi gnin.	391
+兵垮垮一人，將垮垮千人。	pin khua khua iq gnin, cian khua khua chi gnin.	391
 養兵千日，用力一朝。	ian pin chi zyuq, yon liq iq ciau.	391
 一人拼命，萬夫莫當。	iq gnin phin min, vae fu mhau taon.	391
 一人拼命，萬夫莫當。	iq gnin phin min, vae fu mau taon.	391
@@ -1916,9 +1921,9 @@
 日落風忽現，風暴就要見。	gniq loq fon huaq yi, fon pau jieu iau ci.	397
 日發黃，大雨打崩塘。	gniq faq waon, dou yu tan pon daon.	397
 日頭倒照，雨落倒掉。	gniq deu tau ciau, yu loq tau diau.	397
-日暈雨，月暈風。	gniq yun yu, yuq yun fon.	397
-日暈三更雨，月暈午時風。	gniq yun sae kan yu, yuq yun wu zy fon.	397
-月亮邊有暈，明日要發風。	yuq lian pi yeu yun, min gniq iau faq fon.	397
+日暈雨，月暈風。	zyuq yun yu, yuq yun fon.	397
+日暈三更雨，月暈午時風。	zyuq yun sae kan yu, yuq yun wu zy fon.	397
+月亮邊有暈，明日要發風。	yuq lian pi yeu yun, min zyuq iau faq fon.	397
 大暈暈風，小暈暈雨。	dou yun yun fon, shiau yun yun yu.	397
 初三見星月，初八見雨雪。	tshu sae ci shin yuq, tshu paq ci yu syuq.	398
 夏夜星密，明朝晴熱。	gho ya shin miq, min ciau zhin gniq.	398
@@ -2135,7 +2140,7 @@
 重陽晴，一冬晴；重陽雨，一冬水。	dzon yan zhin, iq ton zhin; dzon yan yu, iq ton syu.	403
 九月十三晴，釘鞋雨傘掛斷繩。	cieu yuq zyuq sae zhin, tin gha yu sae kuo doe zhin.	403
 立冬晴，一冬晴；立冬落，一冬落。	liq ton zhin, iq ton zhin; liq ton loq, iq ton loq.	403
-十月十日晴，小麥大麥像鼓釘。	zyuq yuq zyuq gniq zhin, shiau maq dou maq zhian ku tin.	403
+十月十日晴，小麥大麥像鼓釘。	zyuq yuq zyuq zyuq zhin, shiau maq dou maq zhian ku tin.	403
 乾淨冬至邋遢年，邋遢冬至乾淨年。	ki-ke zhin ton tsy laq thaq gni, laq thaq ton tsy ki-ke zhin gni.	403
 上半年東南風天晴，下半年西北風天晴。	zaon pun gni ton nei-nae fon thi zhin, gho pun gni shi poq fon thi zhin.	403
 上半個月看初三，下半個月看十四。	zaon pun goq yuq khi-khe tshu sae, gho pun goq yuq khi-khe zyuq sy.	403
@@ -2225,7 +2230,7 @@
 夜裏東風吹潮大，八月十六大潮汛。	ya li ton fon tshyu jiau dou, paq yuq zyuq loq dou jiau shin.	406
 八月十六明月照，海水浸過龍王廟。	paq yuq zyuq loq min yuq ciau, he syu cin kou lon waon miau.	406
 漲潮風起，潮平風止。	cian jiau fon chi, jiau bin fon tsy.	406
-春分秋分，日夜平分；夏至冬至，日夜參差。	tshyun fen chieu fen, gniq ya bin fen; gho tsy ton tsy, gniq ya tshen tshy.	406
+春分秋分，日夜平分；夏至冬至，日夜參差。	tshyun fen chieu fen, zyuq ya bin fen; gho tsy ton tsy, zyuq ya tshen tshy.	406
 冬至止短，夏至止長。	ton tsy tsy toe, gho tsy tsy jian.	406
 嬉嬉夏至日，睏睏冬至夜。	shi shi gho tsy gniq, khuen khuen ton tsy ya.	406
 冬至日長一線。	ton tsy gniq jian iq shi.	406
@@ -2317,7 +2322,7 @@
 燕子窠墊草多，當年雨水多。	i tsy khou di tshau tou, taon gni yu syu tou.	408
 燕子地上飛，陰雨在眼前。	i tsy di zaon fi, in yu dze ngae zhi.	408
 燕低飛，蛇過道，大雨馬上就要到。	i ti fi, dzo kou dau, dou yu mo zaon jieu iau tau.	408
-鳥兒飛勒高，天家一定好。	tiau er fi laq kau, thi ko iq din hau.	408
+鳥兒飛勒高，天家一定好。	gniau er fi laq kau, thi ko iq din hau.	408
 久雨聞鳥聲，弗久天轉晴。	cieu yu ven tiau shin, vaq cieu thi tsoe zhin.	408
 久雨聞鳥聲，勿久天轉晴。	cieu yu ven tiau shin, vaq cieu thi tsoe zhin.	408
 百鳥分散，晴天多旱。	paq gniau fen sae, zhin thi tou ghei-ghe.	408
@@ -2424,8 +2429,8 @@
 花美勒外面，人美勒心裏。	huo mei laq nga mi, gnin mei laq shin li.	411
 馬好弗在鞍，人美弗在衫。	mo hau vaq dze ei-e, gnin mei vaq dze sae.	411
 馬好勿在鞍，人美勿在衫。	mo hau vaq dze ei-e, gnin mei vaq dze sae.	411
-萬貫家財弗算富，一分仁義值千金。	vae kun ko dze vaq soe fu, iq fen zyun gni jiq chi cin.	411
-萬貫家財勿算富，一分仁義值千金。	vae kun ko dze vaq soe fu, iq fen zyun gni jiq chi cin.	411
+萬貫家財弗算富，一分仁義值千金。	vae kun cia dze vaq soe fu, iq fen zyun gni jiq chi cin.	411
+萬貫家財勿算富，一分仁義值千金。	vae kun cia dze vaq soe fu, iq fen zyun gni jiq chi cin.	411
 寧可清貧，弗可濁富。	nen khou chin bin, vaq khou dzoq fu.	411
 寧可清貧，勿可濁富。	nen khou chin bin, vaq khou dzoq fu.	411
 寧虧自家，弗虧人家。	gnin khuei zhi ko, vaq khuei gnin ko.	411
@@ -2538,7 +2543,7 @@
 手腳慢泛，起早落晏。	shieu ciaq mae fae, chi tsau loq ae.	414
 快手勢弗及慢兩爹。	khua shieu syu vaq jiq mae lian tia.	414
 快手勢勿及慢兩爹。	khua shieu syu vaq jiq mae lian tia.	414
-家有一雙勤儉手，四季好甮愁喫穿。	ko yeu iq saon jin ji shieu, sy ci hau ven zeu chioq tshoe.	414
+家有一雙勤儉手，四季好甮愁喫穿。	cia yeu iq saon jin ji shieu, sy ci hau ven zeu chioq tshoe.	414
 頭苦蘿蔔頭，喫穿好甮愁。	deu khu lou boq deu, chioq tshoe hau ven zeu.	414
 大富靠天，小富靠儉。	dou fu khau thi, shiau fu khau ji.	414
 小雨落成河，粒米積成籮。	shiau yu loq jin ghou, liq mi ciq jin lou.	414
@@ -2548,8 +2553,8 @@
 一餐省一口，一年有一斗。	iq tshae san iq kheu, iq gni yeu iq teu.	414
 一日省把米，三年添牀被。	iq gniq san po mi, sae gni thi zaon bi.	414
 緊緊一天，寬寬一年。	cin cin iq thi, khun khun iq gni.	414
-家有千金，弗如日進分文。	ko yeu chi cin, vaq zyu gniq cin fen ven.	414
-家有千金，勿如日進分文。	ko yeu chi cin, vaq zyu gniq cin fen ven.	414
+家有千金，弗如日進分文。	cia yeu chi cin, vaq zyu zyuq cin fen ven.	414
+家有千金，勿如日進分文。	cia yeu chi cin, vaq zyu zyuq cin fen ven.	414
 會賺弗如會積。	wei dzae vaq zyu wei ciq.	414
 會賺勿如會積。	wei dzae vaq zyu wei ciq.	414
 省喫儉用，一世弗窮。	san chioq ji yon, iq shi vaq jion.	414
@@ -2932,8 +2937,8 @@
 嘴上嘸毛，辦事勿牢。	tsyu zaon mh mau, bae zy vaq lau.	423
 頭夜忖忖千條路，第二天亮摸原路。	deu ya tshen tshen chi diau lu, di gni thiq gnian moq gniu lu.	423
 頭夜忖忖千條路，第二天亮摸原路。	deu ya tshen tshen chi diau lu, di gni thi gnian moq gniu lu.	423
-見死弗救大惡人。	ci shi vaq cieu dou oq gnin.	423
-見死勿救大惡人。	ci shi vaq cieu dou oq gnin.	423
+見死弗救大惡人。	ci sy vaq cieu dou oq gnin.	423
+見死勿救大惡人。	ci sy vaq cieu dou oq gnin.	423
 大欺小，弗公道；大幫小，刮刮叫。	dou chi shiau, vaq kon dau; dou paon shiau, kuaq kuaq ciau.	423
 大欺小，勿公道；大幫小，刮刮叫。	dou chi shiau, vaq kon dau; dou paon shiau, kuaq kuaq ciau.	423
 瓶口好塞，人口難扎。	bin kheu hau saq, gnin kheu nae tsaq.	423
@@ -2987,7 +2992,7 @@
 裝睏着，等忘記。	tsaon khuen dzoq, ten maon ci.	425
 裝睏着，等忘記。	tsaon khuen zoq, ten maon ci.	425
 三兩蝤蛑四兩縛。	sae lian jieu meu sy lian bou.	425
-撮只櫓烏珠想打船。	tshaq ciq lu u tsyu shian tan zoe.	425
+撮隻櫓烏珠想打船。	tshaq tsaq lu u tsyu shian tan zoe.	425
 蘿蔔賣完，秤花還只曉得。	lou boq ma wun, chin huo wa ciq shiau taq.	425
 蘿蔔賣完，秤花還只曉得。	lou boq ma wun, chin huo gha ciq shiau taq.	425
 挑礱糠弗曉得輕，挑豬涴弗曉得重。	thiau lon khaon vaq shiau taq chin, thiau tsyu ou vaq shiau taq dzon.	425
@@ -2995,9 +3000,7 @@
 挑礱糠弗曉得輕，挑豬屙弗曉得重。	thiau lon khaon vaq shiau taq chin, thiau tsyu ou vaq shiau taq dzon.	425
 挑礱糠勿曉得輕，挑豬屙勿曉得重。	thiau lon khaon vaq shiau taq chin, thiau tsyu ou vaq shiau taq dzon.	425
 日裏扛到夜裏，菩薩還來廟裏。	gniq li kaon tau ya li, bu saq wa le miau li.	425
-日裏扛到夜裏，菩薩還來廟裏。	gniq li gaon tau ya li, bu saq wa le miau li.	425
 日裏扛到夜裏，菩薩還來廟裏。	gniq li kaon tau ya li, bu saq gha le miau li.	425
-日裏扛到夜裏，菩薩還來廟裏。	gniq li gaon tau ya li, bu saq gha le miau li.	425
 日裏講到夜裏，菩薩還來廟裏。	gniq li kaon tau ya li, bu saq wa le miau li.	425
 日裏講到夜裏，菩薩還來廟裏。	gniq li kaon tau ya li, bu saq gha le miau li.	425
 城隍廟得病，土地堂將息。	jin waon miau taq bin, thu di daon cian shiq.	425
@@ -3179,7 +3182,7 @@
 爛眼碰着炎眼。	lae ngae ban zoq yi ngae.	429
 眼眼叫碰着眼眼叫。	ngae ngae ciau ban dzoq ngae ngae ciau.	429
 眼眼叫碰着眼眼叫。	ngae ngae ciau ban zoq ngae ngae ciau.	429
-各廟各菩薩，各人懺念法。	koq miau koq bu saq, koq gnin tshae ne-gnie faq.	429
+各廟各菩薩，各人懺唸法。	koq miau koq bu saq, koq gnin tshae ne-gnie faq.	429
 又要等先生，又要候年庚。	yi iau ten shi san, yi iau gheu gni kan.	429
 上弗上，落弗落。	zaon vaq zaon, loq vaq loq.	429
 上勿上，落勿落。	zaon vaq zaon, loq vaq loq.	429
@@ -3349,7 +3352,7 @@
 三個廚工殺穀蜢。	sae goq dzyu kon saq koq man.	433
 三個廚工殺穀蜢。	sae ghoq dzyu kon saq koq man.	433
 死貓嚇煞活老鼠。	shi mae haq saq waq lau tsy.	433
-遠來和尚會念經。	yu le ghou zaon wei ne-gnie cin.	433
+遠來和尚會唸經。	yu le ghou zaon wei ne-gnie cin.	433
 擺勒和尚罵賊禿。	pa laq ghou zaon mo zaq thaq.	433
 皇帝弗羯太監羯。	waon ti vaq ciq tha kae ciq.	433
 皇帝勿羯太監羯。	waon ti vaq ciq tha kae ciq.	433
@@ -3360,7 +3363,7 @@
 嘴巴嘟起掛油瓶。	tsyu po tu chi kuo yeu bin.	433
 蒼蠅飛過打滑脫。	tshaon in fi kou tan waq thaq.	433
 老虎頭上拍蒼蠅。	lau fu deu zaon phaq tshaon in.	433
-萬寶全書缺只角。	vae pau dzoe syu chiuq ciq koq.	433
+萬寶全書缺隻角。	vae pau dzoe syu chiuq tsaq koq.	433
 新造茅坑三日香。	shin zau mau khan sae gniq shian.	433
 飯店臭蟲叮客人。	vae ti chieu dzon tin khaq gnin.	433
 苦竹根頭出苦筍。	khu tsoq ken deu tshyuq khu syun.	433
@@ -3619,8 +3622,8 @@
 粗粗糙，牢牢靠。	tshu tshu tshau, lau lau khau.	438
 落手快，弗招怪。	loq shieu khua, vaq ciau kua.	438
 落手快，勿招怪。	loq shieu khua, vaq ciau kua.	438
-要緊弗得慢，尿瓶挈只環。	iau cin vaq taq mae, syu bin chiq ciq guae.	438
-要緊勿得慢，尿瓶挈只環。	iau cin vaq taq mae, syu bin chiq ciq guae.	438
+要緊弗得慢，尿瓶挈隻環。	iau cin vaq taq mae, syu bin chiq tsaq guae.	438
+要緊勿得慢，尿瓶挈隻環。	iau cin vaq taq mae, syu bin chiq tsaq guae.	438
 紙團撮過，並嘸罪過。	tsy doe tshaq kou, bin mh zei kou.	439
 行業弗尋，賭場撮引。	ghaon gniq vaq zhin, tu jian tshaq yin.	439
 行業勿尋，賭場撮引。	ghaon gniq vaq zhin, tu jian tshaq yin.	439
@@ -3655,7 +3658,7 @@
 跌落地，撮着自。	tiq loq di, tshaq zoq zhi.	439
 天上跌落地下撮，撮了還好做菩薩。	thi zaon tiq loq di gho tshaq, tshaq laq wa hau tsou bu saq.	439
 天上跌落地下撮，撮了還好做菩薩。	thi zaon tiq loq di gho tshaq, tshaq laq gha hau tsou bu saq.	439
-活絡，活絡，搶只料勺；呆大，呆大，搶只銅鑼。	waq loq, waq loq, chian ciq liau zoq; nge dou, nge dou, chian ciq don lou.	439
+活絡，活絡，搶隻料勺；呆大，呆大，搶隻銅鑼。	waq loq, waq loq, chian tsaq liau zoq; nge dou, nge dou, chian tsaq don lou.	439
 後生三鬥三升火，草蓬腳下弗可坐。	gheu san sae teu sae shin hou, tshau bon ciaq gho vaq khou zou.	439
 後生三鬥三升火，草蓬腳下勿可坐。	gheu san sae teu sae shin hou, tshau bon ciaq gho vaq khou zou.	439
 廿歲英雄，挑兩盞燈籠；碰着鬥風，還要七踵八踵。	ne-gnie syu in yon, thiau lian tsae ten lon; ban dzoq teu fon, wa iau chiq tson paq tson.	439
@@ -3719,7 +3722,7 @@
 文弗像讀書人，武弗像救火兵——派弗來用場。	ven vaq zhian doq syu gnin, wu-vu vaq zhian cieu hou pin —— pha vaq le yon jian.	443
 文勿像讀書人，武勿像救火兵——派勿來用場。	ven vaq zhian doq syu gnin, wu-vu vaq zhian cieu hou pin —— pha vaq le yon jian.	443
 木器店老闆——木頭木腦。	moq chi ti lau pae —— moq deu moq nau.	443
-竈跟菩薩面孔——墨漆黑。	tsau ken bu saq mi khon —— moq chiq haq.	443
+竈跟菩薩面孔——墨漆黑。	tsau ken bu saq mi khon —— moq tshaq haq.	443
 水牛過河——豆腐。	syu ngeu kou ghou —— deu vu.	443
 嘸輸嘸贏——白肚。	mh syu mh yin —— baq tu.	443
 火螢頭——自照自。	hou yin deu —— zhi ciau zhi.	443
@@ -3812,7 +3815,7 @@
 鴨背澆水——弗覺着。	aq pei ciau syu —— vaq koq zoq.	445
 鴨背澆水——勿覺着。	aq pei ciau syu —— vaq koq dzoq.	445
 鴨背澆水——勿覺着。	aq pei ciau syu —— vaq koq zoq.	445
-肉里加麻油——傷料。	gnioq li ko mo yeu —— saon liau.	445
+肉裏加麻油——傷料。	gnioq li ko mo yeu —— saon liau.	445
 溼手遭麪粉——左右爲難。	shiq shieu tsau mi fen —— tsou yeu wei nae.	445
 癢地方弗𢪂，痛地方𢪂——弗知痛癢。	yan di faon vaq da, thon di faon da —— vaq tsyu thon yan.	445
 癢地方勿𢪂，痛地方𢪂——勿知痛癢。	yan di faon vaq da, thon di faon da —— vaq tsyu thon yan.	445
