@@ -1313,7 +1313,7 @@
 嘴脣皮	嘴唇皮	tsyu zyun bi	身体	44
 牙鬚	牙须	ngo su	身体	44
 牙梳	牙梳	ngo su	身体	44
-拉柴胡子	拉柴胡子	lha za wu tsy	身体	44
+拉柴鬍子	拉柴胡子	la za wu tsy	身体	44
 牙齒	牙齿	ngo tsy	身体	44
 牙子	牙子	ngo tsy	身体	44
 牙肉	牙肉	ngo gnioq	身体	44
@@ -3327,9 +3327,9 @@
 根株	根株	ken tsyu	植物	117
 稻根株	稻根株	dau ken tsyu	植物	117
 失	失	syuq7	植物	117
-掙株	挣株	tsan tsyu	植物	117
-掙	挣	tsan5	植物	117
-樹掙	树挣	zyu tsan	植物	117
+棦株	棦株	tsan tsyu	植物	117
+棦	棦	tsan5	植物	117
+樹棦	树棦	zyu tsan	植物	117
 絲流	丝流	sy lieu	植物	117
 椏杈	桠杈	o tsho	植物	117
 丫叉	丫叉	o tsho	植物	117
@@ -5365,6 +5365,7 @@
 花泡	花泡	huo phau	形态	229
 花裏花繃	花里花绷	huo li huo pan	形态	229
 花裏花繃	花里花绷	huo liq huo pan	形态	229
+花裏不剌	花里不剌	huo li paq la	形态	229
 花裏不剌	花里不剌	huo li paq laq	形态	229
 雜格楞敦	杂格楞敦	zaq kaq len ten	形态	229
 雜七格勒	杂七格勒	zaq chiq kaq laq	形态	229
@@ -5672,6 +5673,7 @@
 異樣	异样	yi yan	性质	245
 異樣刮得	异样刮得	yi yan kuaq taq	性质	245
 頭大	头大	deu dou	性质	245
+頭大不剌	头大不剌	deu dou paq la	性质	245
 頭大不剌	头大不剌	deu dou paq laq	性质	245
 大戤戤	大戤戤	dou ge ge	性质	245
 刻	刻	khaq7	性质	245
@@ -5984,6 +5986,7 @@
 䪆	䪆	thi5	性质	261
 極䪆	极䪆	jiq thi	性质	261
 䪆潔	䪆洁	thi ciq	性质	261
+糙粒不剌	糙粒不剌	tshau liq paq la	性质	261
 糙粒不剌	糙粒不剌	tshau liq paq laq	性质	261
 粒粒瘃瘃	粒粒瘃瘃	liq liq tsoq tsoq	性质	261
 腐其其	腐其其	vu ji ji	性质	261
@@ -6925,6 +6928,7 @@
 個	个	kou5	其他虚词（附象声词、词缀）	307
 相	相	shian5	其他虚词（附象声词、词缀）	307
 裏	里	li4	其他虚词（附象声词、词缀）	307
+不剌	不剌	paq la	其他虚词（附象声词、词缀）	307
 不剌	不剌	paq laq	其他虚词（附象声词、词缀）	307
 剌柴	剌柴	la za	其他虚词（附象声词、词缀）	307
 肯肯	肯肯	khen khen	其他虚词（附象声词、词缀）	307
@@ -6991,8 +6995,8 @@
 軋一腳	轧一脚	gaq iq ciaq	短语	314
 只欠多	只欠多	ciq chi tou	短语	314
 嘆苦經	叹苦经	thae khu cin	短语	315
-仗人勢	仗人势	cian gnin syu	短语	315
-行人勢	行人势	ghaon gnin syu	短语	315
+仗人勢	仗人势	jian gnin syu	短语	315
+行人勢	行人势	ghan gnin syu	短语	315
 仗毛力	仗毛力	cian mau liq	短语	315
 甩翎子	甩翎子	huaq lin tsy	短语	315
 接翎子	接翎子	ciq lin tsy	短语	315
