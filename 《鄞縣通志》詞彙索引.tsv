@@ -551,8 +551,8 @@
 老官	lau kun	人稱	2799
 （老串）	lau kun	人稱	2799
 前路	zien lu	人稱	2799
-教書先生	kau siu sien san	人稱	2799
-教書	kau siu	人稱	2799
+敎書先生	kau siu sien san	人稱	2799
+敎書	kau siu	人稱	2799
 老伻	lau pan	人稱	2799
 （老倗）	lau pan	人稱	2799
 （老幫）	lau pan	人稱	2799
@@ -1371,14 +1371,14 @@
 （蒜髮）	soen faq	疾病	2842
 （算髮）	soen faq	疾病	2842
 瘋手	fon sien	疾病	2842
-蹺腳	chiau ciaq	疾病	2841
-蹺腳	chiau cian	疾病	2842
-拐腳	kua ciaq	疾病	2842
-（𦫳腳）	kua ciaq	疾病	2842
-（瘸腳）	kua ciaq	疾病	2842
-拐腳	kua cian	疾病	2842
-（𦫳腳）	kua cian	疾病	2842
-（瘸腳）	kua cian	疾病	2842
+蹺脚	chiau ciaq	疾病	2841
+蹺脚	chiau cian	疾病	2842
+拐脚	kua ciaq	疾病	2842
+（𦫳脚）	kua ciaq	疾病	2842
+（瘸脚）	kua ciaq	疾病	2842
+拐脚	kua cian	疾病	2842
+（𦫳脚）	kua cian	疾病	2842
+（瘸脚）	kua cian	疾病	2842
 毛病	mau bin	疾病	2842
 病痛	bin thon	疾病	2842
 病痼毒	bin ku doq	疾病	2842
@@ -1647,7 +1647,7 @@
 繳身帶	ciau sin ta	衣飾	2853
 （𩏷身帶）	ciau sin ta	衣飾	2853
 褓裙	bau jiu	衣飾	2854
-豁腳袴	huaq ciaq khu	衣飾	2854
+豁脚袴	huaq ciaq khu	衣飾	2854
 鞔襠袴	mun taon khu	衣飾	2854
 （縵襠袴）	mun taon khu	衣飾	2854
 （顢襠袴）	mun taon khu	衣飾	2854
@@ -1663,7 +1663,7 @@
 布襴	pu laen	衣飾	2854
 （布攔）	pu laen	衣飾	2854
 飯單	vaen taen	衣飾	2854
-腳紗	caiq so	衣飾	2854
+脚紗	caiq so	衣飾	2854
 膝綑	siu khuen	衣飾	2854
 （膝袴）	siu khuen	衣飾	2854
 （舄袴）	siu khuen	衣飾	2854
@@ -1797,7 +1797,7 @@
 家常便飯	cia dzaon bien vaen	食品	2860
 壓飯𣂞頭	aq vaen laon dein	食品	2860
 小菜碟	siau tshae diaq	食品	2860
-盌腳	un ciaq	食品	2860
+盌脚	un ciaq	食品	2860
 迴殘	wei dzaen	食品	2860
 （囘殘）	wei dzaen	食品	2860
 羹飯	kan vaen	食品	2860
@@ -1912,7 +1912,7 @@
 工錢	kon dien	用品	2866
 拜見錢	pa cien dien	用品	2866
 見面錢	cien mien dien	用品	2866
-腳錢	ciaq dien	用品	2866
+脚錢	ciaq dien	用品	2866
 力錢	liq dien	用品	2866
 酒錢	tsieu dien	用品	2866
 力	liq8	用品	2866
@@ -2377,3 +2377,1844 @@
 樁	tsaon1	器具	2887
 （㦼）	tsaon1	器具	2887
 篾䉡	miq daen	器具	2887
+跳板	thiau paen	器具	2887
+（艞板）	thiau paen	器具	2887
+錨	mau2	器具	2887
+（⿰金貓）	mau2	器具	2887
+碇	tin5	器具	2887
+（椗）	tin5	器具	2887
+（矴）	tin5	器具	2887
+（磸）	tin5	器具	2887
+櫓烏嘴	lu u tsiu	器具	2887
+（櫓烏珠）	lu u tsiu	器具	2887
+（櫓烏珠）	lu u tsiu	器具	2887
+（櫓窡）	lu u tsiu	器具	2887
+（櫓主）	lu u tsiu	器具	2887
+鑼鼓	lou ku	器具	2888
+𧰵鼓	toq ku	器具	2888
+（䶀鼓）	toq ku	器具	2888
+（足鼓）	toq ku	器具	2888
+宕鑼	than lou	器具	2888
+（⿱不定鑼）	than lou	器具	2888
+（鐋鑼）	than lou	器具	2888
+大鈸	dou baq	器具	2888
+寋唱	gien tshaon	器具	2888
+（寋鎗）	gien tshaon	器具	2888
+吹簫	tshiu siau	器具	2888
+綽板	tshoq paen	器具	2888
+（捔板）	tshoq paen	器具	2888
+號頭	gha teu	器具	2888
+（號斗）	gha teu	器具	2888
+（嗐頭）	gha teu	器具	2888
+悶筒	mhen don	器具	2888
+（唔頭）	mhen don	器具	2888
+鷂子	yau tsy	器具	2888
+鷂	yau2	器具	2888
+色子	saq tsy	器具	2889
+（骰子）	saq tsy	器具	2889
+搖鼟鼓	yau ten ku	器具	2889
+撥不倒	paq paq tau	器具	2889
+𢨋不倒	paq paq tau	器具	2889
+野狐臉	ya wu lien	器具	2889
+㩢陀螺	miq daon laon	器具	2889
+（篾螗蜋）	miq daon laon	器具	2889
+花綠紙	huo loq tsy	器具	2889
+籌馬	dzieu mo	器具	2889
+行頭	ghan deu	器具	2889
+珓	kau5	器具	2889
+（筊）	kau5	器具	2889
+珓頭	kau deu	器具	2889
+搖呼串	yau fu tshan	器具	2890
+（搖虎撑）	yau fu tshan	器具	2890
+手梏	sieu khau	器具	2890
+棺材	kun zae	器具	2890
+材	zae2	器具	2890
+板方	paen faon	器具	2890
+（板枋）	paen faon	器具	2890
+壽枋板	zieu paen faon	器具	2890
+和頭	ghou deu	器具	2890
+（𤖱頭）	ghou deu	器具	2890
+（柇頭）	ghou deu	器具	2890
+家生	ko san	器具	2890
+傢生	ko san	器具	2890
+家貨	ko hou	器具	2890
+（傢伙）	ko hou	器具	2890
+家事	ko sy	器具	2890
+（家私）	ko sy	器具	2890
+（家使）	ko sy	器具	2890
+什物	ziuq vaq	器具	2890
+盤頭	bun deu	器具	2890
+盤	bun2	器具	2890
+生財	sen dzae	器具	2890
+嫁妝	ko tsaon	器具	2890
+（嫁裝）	ko tsaon	器具	2890
+妝奩	tshaon lien	器具	2890
+嫁資	ko tsy	器具	2890
+課馬	khou mo	動物	2891
+（騍馬）	khou mo	動物	2891
+㹙	an3	動物	2891
+（⿰牛瞢）	an3	動物	2891
+（㹚）	an3	動物	2891
+（嬰）	an3	動物	2891
+豬玀	tsiu lou	動物	2891
+（豬肉）	tsiu lou	動物	2891
+泥豬	gnio tsiu	動物	2891
+（愚豬）	gnio tsiu	動物	2891
+（肉豬）	gnio tsiu	動物	2891
+牯豬	ku tsiu	動物	2891
+（羖豬）	ku tsiu	動物	2891
+（孤豬）	ku tsiu	動物	2891
+黃狗	waon kien	動物	2891
+（黃犬）	waon kien	動物	2891
+羯狗娘	ciq keu gnian	動物	2891
+貓	maen	動物	2892
+老鼠	lau tsy	動物	2892
+⿱金⿲金車金⿱車⿲車金車	shio cio	動物	2892
+鮮雞	sien ci	動物	2892
+（騸雞）	sien ci	動物	2892
+（線雞）	sien ci	動物	2892
+（鏾雞）	sien ci	動物	2892
+（閹雞）	sien ci	動物	2892
+草雞	tshau ci	動物	2892
+（騲雞）	tshau ci	動物	2892
+（雌雞）	tshau ci	動物	2892
+童子雞	don tsy ci	動物	2892
+（童雌雞）	don tsy ci	動物	2892
+鴨	aen1	動物	2892
+𨾊鵝	gaon ngou	動物	2893
+（駕鵝）	gaon ngou	動物	2893
+𨾊𨾊鵝	gaon gaon ngou	動物	2893
+雁鵝	nga ngou	動物	2893
+（外鵝）	nga ngou	動物	2893
+老鴉	lau o	動物	2893
+水老鴉	siu lau o	動物	2893
+夜鴉	ya uaon	動物	2893
+（夜鵟）	ya uaon	動物	2893
+鵟	uaon	動物	2893
+逐魂	dzoq wen	動物	2893
+（蜀魂）	dzoq wen	動物	2893
+訓狐	hen hu	動物	2893
+貓頭鷹	mau deu in	動物	2893
+步姑	bu ku	動物	2893
+（勃姑）	bu ku	動物	2893
+（布穀）	bu ku	動物	2893
+（鵓鴣）	bu ku	動物	2893
+江貓	kaon maen	動物	2893
+海老鷹	hae lae in	動物	2893
+蛤蚆	kaq po	動物	2893
+（蛤⿰虫霸）	kaq po	動物	2893
+（蝦蟇）	kaq po	動物	2893
+（蛙）	kaq po	動物	2893
+癩𪓿	la sy	動物	2893
+（癩屍）	la sy	動物	2893
+石撞	zaq dzaon	動物	2893
+田雞	dien ci	動物	2893
+水雞	siu ci	動物	2893
+烏鼻鼽蟲	u baq deu dzon	動物	2894
+蟾蜍	ghaen ci	動物	2894
+大肚	du du	動物	2894
+四脚蛇	sy ciaq dzo	動物	2894
+壁虎	piq fu	動物	2894
+河鯽魚	ghou tsin ng	動物	2894
+河鯽魚	ghou ci ng	動物	2894
+鱖魚	kuei ng	動物	2894
+（鮭魚）	kuei ng	動物	2894
+（𫙷魚）	kuei ng	動物	2894
+（桂花魚）	kuei ng	動物	2894
+鱓魚	zoen yu	動物	2894
+（鱔魚）	zoen yu	動物	2894
+（䱇魚）	zoen yu	動物	2894
+黃鱔	waon zoen	動物	2894
+鮆魚	dzi ng	動物	2895
+（鱭魚）	dzi ng	動物	2895
+蟚越蟹	bau yoen ha	動物	2895
+（彭越蟹）	bau yoen ha	動物	2895
+（彭螖蟹）	bau yoen ha	動物	2895
+螄螺	sy lou	動物	2895
+黃蜆	waon shien	動物	2895
+淡菜	daen tshae	動物	2895
+滷菜	lu tshae	動物	2895
+貢乾	kon kien	動物	2895
+蚻蟧	tso lien	動物	2895
+（䘁蟟）	tso lien	動物	2895
+（知了）	tso lien	動物	2895
+蚱蜢	koq man	動物	2895
+（穀蜢）	koq man	動物	2895
+蟑螂	tsaon laon	動物	2895
+（樟螂）	tsaon laon	動物	2895
+（髒螂）	tsaon laon	動物	2895
+竈雞	tsau ci	動物	2895
+竈馬	tsau mo	動物	2895
+丁獅子	tin sy tsy	動物	2895
+打燈虫	tan ten dzon	動物	2895
+火螢頭	hou yin dein	動物	2896
+喫髮螂	chioq faq laon	動物	2896
+織績虫	tsia tsia dzon	動物	2896
+（績縩虫）	tsia tsia dzon	動物	2896
+賣油郎	ma yeu laon	動物	2896
+游蛄	yeu ku	動物	2896
+（蚰蛄）	yeu ku	動物	2896
+（螻蛄）	yeu ku	動物	2896
+結蛛	ciq tsiu	動物	2896
+（蜘蛛）	ciq tsiu	動物	2896
+（𧍩蛛）	ciq tsiu	動物	2896
+壁老虎	piq lau fu	動物	2896
+壁蟹	piq ha	動物	2896
+黃蟻	huo gni	動物	2896
+（黃軦）	huo gni	動物	2896
+棚虫	ban dzon	動物	2896
+（巴虫）	ban dzon	動物	2896
+白螞蟻	baq mo gni	動物	2896
+蛷䗏	jieu shieu	動物	2896
+（蠷螋）	jieu shieu	動物	2896
+（蠼螋）	jieu shieu	動物	2896
+蜈蚣	men kon	動物	2896
+（猛蚣）	men kon	動物	2896
+百脚	paq ciaq	動物	2897
+香料虫	shian liau dzon	動物	2897
+殠花娘子	shian liau dzon	動物	2897
+曲蟮	chioq zien	動物	2897
+（蛐蟮）	chioq zien	動物	2897
+（蚯蚓）	chioq zien	動物	2897
+地龍	di lon	動物	2897
+蠟	laq8	動物	2897
+（蝲）	laq8	動物	2897
+毛毛虫	mau mau dzon	動物	2897
+蛆虫	chi dzon	動物	2897
+（棲虫）	chi dzon	動物	2897
+𧈨虫	chi dzon	動物	2897
+蟣仔	ci tsy	動物	2897
+蠁	shian3	動物	2897
+臑頭肉	zau deu gnioq	動物	2897
+（䐬頭肉）	zau deu gnioq	動物	2897
+福利	foq li	動物	2897
+（福禮）	foq li	動物	2897
+正福	tsin foq	動物	2897
+利市	li zy	動物	2897
+順風	ziun fon	動物	2898
+賺頭	dzaen dein	動物	2898
+肘子	tsieu tsy	動物	2898
+胖蹄	phaon di	動物	2898
+蹄胖	di phaon	動物	2898
+後坐臀	gheu zou den	動物	2898
+頵頭	chiun deu	動物	2898
+豬尿脬	tsiu siu phau	動物	2898
+（豬尿胞）	tsiu siu phau	動物	2898
+嘴䩉	tsiu bu	動物	2898
+（嘴𩒺）	tsiu bu	動物	2898
+（嘴⿰月莆）	tsiu bu	動物	2898
+脚蹄	ciaq di	動物	2898
+蹄	di2	動物	2898
+（蹏）	di2	動物	2898
+尾巴	mi po	動物	2898
+嘴甲	tsiu kaq	動物	2898
+（嘴革）	tsiu kaq	動物	2898
+翼梢	yiq sau	動物	2898
+（翼捎）	yiq sau	動物	2898
+翼梢股	yiq sau ku	動物	2898
+翼梢膀	yiq sau paon	動物	2898
+脚爪	ciaq tsau	動物	2899
+（脚叉）	ciaq tsau	動物	2899
+肫	tsiun1	動物	2899
+（膞）	tsiun1	動物	2899
+（胵）	tsiun1	動物	2899
+膯	ten1	動物	2899
+膯鼓	ten ku	動物	2899
+（膯臌）	ten ku	動物	2899
+瘃	tsoq7	動物	2899
+（𢍂）	tsoq7	動物	2899
+（準）	tsoq7	動物	2899
+黃	uaon1	動物	2899
+（𪏙）	uaon1	動物	2899
+划水	huo siu	動物	2899
+豁水	huaq siu	動物	2899
+鰭槍	ji tshian	動物	2899
+殼	khoq7	動物	2899
+（壳）	khoq7	動物	2899
+（鞹）	khoq7	動物	2899
+殼腔	khoq chian	動物	2899
+瓦腔	ngo chian	動物	2899
+鯌	khau5	動物	2899
+（烤）	khau5	動物	2899
+（薧）	khau5	動物	2899
+鯌頭	khau dein	動物	2899
+鮝	sian3	動物	2899
+（鱶）	sian3	動物	2899
+魚腊	ng siq	動物	2900
+（魚屑）	ng siq	動物	2900
+（魚䐹）	ng siq	動物	2900
+（魚鱐）	ng siq	動物	2900
+螟蜅	min fu	動物	2900
+（螟脯）	min fu	動物	2900
+（明府）	min fu	動物	2900
+明府鮝	min fu sian	動物	2900
+六穀	loq koq	植物	2900
+陸穀	loq koq	植物	2900
+倭豆	ou deu	植物	2900
+蠶豆	zein deu	植物	2900
+羅漢豆	lou hein deu	植物	2900
+芋奶	n na	植物	2900
+（芋艿）	n na	植物	2900
+黃瓜	waon kuo	植物	2900
+菜瓜	tshae kuo	植物	2901
+（翠瓜）	tshae kuo	植物	2901
+夜開花	ya khae huo	植物	2901
+瓠	bu6	植物	2901
+了藤瓜	liau den kuo	植物	2901
+落脚茄	loq ciaq jiaen	植物	2901
+芝麻	tsy mo	植物	2901
+（脂麻）	tsy mo	植物	2901
+麻	mo2	植物	2901
+蕎頭	jiau deu	植物	2901
+（藠頭）	jiau deu	植物	2901
+馬蘭頭	mo laen deu	植物	2901
+草子	tshau tsy	植物	2901
+（草芓）	tshau tsy	植物	2901
+苔條	dae diau	植物	2901
+苔菜	dae tshae	植物	2901
+石花	ziq huo	植物	2901
+木蓮	moq lien	植物	2901
+胓㠮	phan phon	植物	2901
+（胮肛）	phan phon	植物	2901
+釣紅	tiau ghon	植物	2902
+底紅	ti ghon	植物	2902
+（蒂紅）	ti ghon	植物	2902
+金厖	cin man	植物	2902
+（金滿）	cin man	植物	2902
+花	huo1	植物	2902
+薄荷	bou hou	植物	2902
+（蔢𦽅）	bou hou	植物	2902
+滿堂紅	mun daon ghon	植物	2902
+野白茄花	ya baq dzia huo	植物	2902
+稗草	bo tshau	植物	2902
+（叛草）	bo tshau	植物	2902
+狗尾巴	keu mi po	植物	2902
+魚腥草	ng sin tshau	植物	2902
+薸	biau2	植物	2902
+（䕯）	biau2	植物	2902
+青衣	tshin i	植物	2903
+（青翳）	tshin i	植物	2903
+椏枝	o tsy	植物	2903
+（丫枝）	o tsy	植物	2903
+椏杈	o tsho	植物	2903
+株	tsiu1	植物	2903
+（玍）	tsiu1	植物	2903
+根株	ken tsiu	植物	2903
+跟頭	ken deu	植物	2903
+掙	tsan1	植物	2903
+棦株	tsan tsiu	植物	2903
+（棦㨖）	tsan tsiu	植物	2903
+葉瓣	yiq baen	植物	2903
+（葉爿）	yiq baen	植物	2903
+葉子	yiq tsy	植物	2903
+腦	nau2	植物	2903
+腦頭	nau dein	植物	2903
+蕊	gniu2	植物	2903
+（蘂）	gniu2	植物	2903
+蕊頭	gniu dein	植物	2903
+（女嘾）	gniu dein	植物	2903
+蒂頭	ti dein	植物	2903
+（蔕頭）	ti dein	植物	2903
+果	kun3	植物	2903
+核	waq8	植物	2903
+（覈）	waq8	植物	2903
+（𣝗）	waq8	植物	2903
+穗	bei6	植物	2904
+（秠）	bei6	植物	2904
+麩皮	fu bi	植物	2904
+（麱皮）	fu bi	植物	2904
+粞糠	si khaon	植物	2904
+（細糠）	si khaon	植物	2904
+糳米糠	tshaq mi khaon	植物	2904
+礱糠	lon khaon	植物	2904
+大糠	dou khaon	植物	2904
+𥣘子	iq tsy	植物	2904
+（䅖子）	iq tsy	植物	2904
+扁子	pien tsy	植物	2904
+豆莢	deu ciq	植物	2904
+行鞭筍	ghan pien siun	植物	2904
+（莖鞭筍）	ghan pien siun	植物	2904
+鞭筍	pien siun	植物	2904
+箬殼	gniaq khoq	植物	2904
+（篛殼）	gniaq khoq	植物	2904
+蕻	hon5	植物	2904
+（𦶓）	hon5	植物	2904
+㼑	lien2	植物	2904
+（𤬓）	lien2	植物	2904
+（聯）	lien2	植物	2904
+（練）	lien2	植物	2904
+瓤	naon2	植物	2904
+瓤子	naon tsy	植物	2904
+（帑子）	naon tsy	植物	2904
+樹蓬	ziu bon	植物	2905
+（樹芃）	ziu bon	植物	2905
+（樹薄）	ziu bon	植物	2905
+茇頭	baq deu	植物	2905
+把	po3	數量	2905
+包	pau1	數量	2905
+綳	pan1	數量	2905
+班	paen1	數量	2905
+（般）	paen1	數量	2905
+遍	pien5	數量	2905
+（徧）	pien5	數量	2905
+本	pen3	數量	2905
+博	poq7	數量	2905
+（膊）	poq7	數量	2905
+邊	pien1	數量	2905
+餅	pin3	數量	2906
+匹	phiq7	數量	2906
+捧	phon5	數量	2906
+批	phi1	數量	2906
+派	pha5	數量	2906
+𤖼	phaq7	數量	2906
+（䤨）	phaq7	數量	2906
+（釽）	phaq7	數量	2906
+𥿯	phan1	數量	2906
+（膀）	phan1	數量	2906
+片	phi5	數量	2906
+爿	baen6	數量	2906
+（瓣）	baen6	數量	2906
+蓬	bon2	數量	2907
+盤	bun2	數量	2907
+（蟠）	bun2	數量	2907
+縛	bou6	數量	2907
+部	bu6	數量	2907
+排	bi2	數量	2907
+（輩）	bi2	數量	2907
+（比）	bi2	數量	2907
+（坒）	bi2	數量	2907
+（㗗）	bi2	數量	2907
+浡	baq8	數量	2907
+門	men2	數量	2907
+枚	mei2	數量	2907
+幅	foq7	數量	2907
+副	fu5	數量	2908
+（付）	fu5	數量	2908
+番	faen1	數量	2908
+封	fon1	數量	2908
+分	fen1	數量	2908
+份	ven6	數量	2908
+（分）	ven6	數量	2908
+（門）	ven6	數量	2908
+服	voq8	數量	2908
+茷	vaq8	數量	2908
+（伐）	vaq8	數量	2908
+（坺）	vaq8	數量	2908
+點	tien3	數量	2908
+滴	tiq7	數量	2908
+渧	ti5	數量	2908
+沰	toq7	數量	2908
+（𣶦）	toq7	數量	2908
+堆	tei1	數量	2909
+頂	tin3	數量	2909
+擔	taen1	數量	2909
+（担）	taen1	數量	2909
+（儋）	taen1	數量	2909
+頓	ten5	數量	2909
+對	tei5	數量	2909
+朵	to3	數量	2909
+檔	taon5	數量	2909
+（攩）	taon5	數量	2909
+（黨）	taon5	數量	2909
+斢	theu1	數量	2909
+（透）	theu1	數量	2909
+（區）	theu1	數量	2909
+𡍲	thaq7	數量	2909
+（搭）	thaq7	數量	2909
+套	thau5	數量	2909
+（韜）	thau5	數量	2909
+拓	thoq7	數量	2910
+（托）	thoq7	數量	2910
+（庹）	thoq7	數量	2910
+（度）	thoq7	數量	2910
+脫	thaq7	數量	2910
+帖	thiaq7	數量	2910
+䠀	thaon3	數量	2910
+（䟫）	thaon3	數量	2910
+（趟）	thaon3	數量	2910
+攤	thaen1	數量	2910
+道	dau5	數量	2910
+段	thoen5	數量	2910
+堵	du2	數量	2910
+壇	daen2	數量	2910
+條	diau2	數量	2910
+頭	deu2	數量	2910
+度	du6	數量	2911
+鋌	din6	數量	2911
+（梃）	din6	數量	2911
+（錠）	din6	數量	2911
+埭	da6	數量	2911
+（䇐）	da6	數量	2911
+（隶）	da6	數量	2911
+（㐲）	da6	數量	2911
+（𡊀）	da6	數量	2911
+（达）	da6	數量	2911
+（條）	da6	數量	2911
+（道）	da6	數量	2911
+叠	daq8	數量	2911
+團	doen2	數量	2911
+粒	liq8	數量	2911
+稜	lin2	數量	2911
+（棱）	lin2	數量	2911
+（疄）	lin2	數量	2911
+（壣）	lin2	數量	2911
+（埨）	lin2	數量	2911
+路	lu6	數量	2911
+綹	lieu4	數量	2911
+（柳）	lieu4	數量	2911
+纑	lu2	數量	2912
+（縷）	lu2	數量	2912
+（路）	lu2	數量	2912
+間	kaen1	數量	2912
+館	kun3	數量	2912
+架	ko5	數量	2912
+格	kaq7	數量	2912
+（隔）	kaq7	數量	2912
+梗	kuan3	數量	2912
+根	kuan3	數量	2912
+挂	kuo5	數量	2912
+（掛）	kuo5	數量	2912
+剮	ko3	數量	2912
+（架）	ko3	數量	2912
+襇	kaen1	數量	2912
+（間）	kaen1	數量	2912
+竿	kien3	數量	2912
+管	kun3	數量	2912
+股	ku3	數量	2913
+角	koq7	數量	2913
+屆	ka5	數量	2913
+覺	kau5	數量	2913
+工	kon1	數量	2913
+光	kuaon1	數量	2913
+（摑）	kuaon1	數量	2913
+口	kheu3	數量	2913
+塊	khuei5	數量	2913
+（凷）	khuei5	數量	2913
+綑	khuen3	數量	2913
+（捆）	khuen3	數量	2913
+個	kou5	數量	2913
+個	goq8	數量	2913
+個	gou6	數量	2913
+（箇）	kou5	數量	2913
+（箇）	goq8	數量	2913
+（箇）	gou6	數量	2913
+（个）	kou5	數量	2913
+（个）	goq8	數量	2913
+（个）	gou6	數量	2913
+（亇）	kou5	數量	2913
+（亇）	goq8	數量	2913
+（亇）	gou6	數量	2913
+化	huo5	數量	2914
+（花）	huo5	數量	2914
+位	wei6	數量	2914
+回	wei2	數量	2914
+捲	cioen3	數量	2914
+（卷）	cioen3	數量	2914
+莢	ciq7	數量	2914
+夾	ciaq7	數量	2914
+（䅐）	ciaq7	數量	2914
+（䄯）	ciaq7	數量	2914
+（𢆞）	ciaq7	數量	2914
+（𡘸）	ciaq7	數量	2914
+脚	ciaq7	數量	2914
+記	ci5	數量	2914
+挈	chiq7	數量	2914
+圈	chioen1	數量	2914
+（圓）	chioen1	數量	2914
+件	jien6	數量	2914
+橛	jiuq8	數量	2915
+劇	jiaq8	數量	2915
+揑	gniaq8	數量	2915
+（捻）	gniaq8	數量	2915
+（搦）	gniaq8	數量	2915
+樣	yan6	數量	2915
+（㨾）	yan6	數量	2915
+暈	yun6	數量	2915
+屒	tsin5	數量	2915
+（⿸戶辰）	tsin5	數量	2915
+（進）	v	數量	2915
+隻	tsaq7	數量	2915
+（只）	tsaq7	數量	2915
+種	tson3	數量	2915
+枝	tsy1	數量	2915
+（支）	tsy1	數量	2915
+節	tsiq7	數量	2915
+（卩）	tsiq7	數量	2915
+株	tsiu1	數量	2915
+蒸	tsin1	數量	2916
+注	tsiu5	數量	2916
+宗	tson1	數量	2916
+樁	tsaon1	數量	2916
+（章）	tsaon1	數量	2916
+（莊）	tsaon1	數量	2916
+作	tsoq7	數量	2916
+遭	tsau1	數量	2916
+（傮）	tsau1	數量	2916
+轉	tsoen3	數量	2916
+尊	tsen1	數量	2916
+炷	dziu6	數量	2916
+（主）	dziu6	數量	2916
+串	tshoen5	數量	2916
+千	tshien1	數量	2916
+弔	tiau5	數量	2916
+（吊）	tiau5	數量	2916
+撮	tshaq7	數量	2916
+撐	tshan1	數量	2917
+餐	tshaen1	數量	2917
+齣	tshiuq7	數量	2917
+次	tshy5	數量	2917
+（垐）	tshy5	數量	2917
+重	dzon2	數量	2917
+（緟）	dzon2	數量	2917
+幢	dzaon2	數量	2917
+張	dzian4	數量	2917
+（幀）	dzian4	數量	2917
+陣	dzin6	數量	2917
+潮	dziau2	數量	2917
+住	dzyu6	數量	2918
+（廚）	dzyu6	數量	2918
+場	dzian2	數量	2918
+社	dzo4	數量	2918
+撒	dza6	數量	2918
+雙	saon1	數量	2918
+聲	sin1	數量	2918
+扇	sien5	數量	2918
+座	zou6	數量	2918
+層	zen2	數量	2918
+仞	ziun6	數量	2918
+腰	iau1	數量	2918
+我	ngo4	代名	2919
+你	ng4	代名	2919
+（唔）	ng4	代名	2919
+（俉）	ng4	代名	2919
+（爾）	ng4	代名	2919
+渠	ji4	代名	2919
+（佢）	ji4	代名	2919
+（其）	ji4	代名	2919
+（𠐾）	ji4	代名	2919
+誰	ziu2	代名	2919
+（孰）	ziu2	代名	2919
+儂	nou2	代名	2919
+我儂	ngo nou	代名	2919
+你儂	ng nou	代名	2919
+渠儂	ji nou	代名	2919
+誰儂	ziu nou	代名	2919
+類	la6	代名	2920
+類	laq8	代名	2920
+（仂）	la6	代名	2920
+（仂）	laq8	代名	2920
+（僚）	la6	代名	2920
+（僚）	laq8	代名	2920
+（儕）	la6	代名	2920
+（儕）	laq8	代名	2920
+我類	aq la	代名	2920
+我類	aq laq	代名	2920
+（阿拉）	aq la	代名	2920
+（阿拉）	aq laq	代名	2920
+（我僇）	aq la	代名	2920
+（我僇）	aq laq	代名	2920
+你類	ng la	代名	2920
+你類	ng laq	代名	2920
+（俉傉）	ng la	代名	2920
+（俉傉）	ng laq	代名	2920
+渠類	ji la	代名	2920
+渠類	ji laq	代名	2920
+渠類	jiq la	代名	2920
+渠類	jiq laq	代名	2920
+（其拉）	ji la	代名	2920
+（其拉）	ji laq	代名	2920
+（其拉）	jiq la	代名	2920
+（其拉）	jiq laq	代名	2920
+（𠐾𠎿）	ji la	代名	2920
+（𠐾𠎿）	ji laq	代名	2920
+（𠐾𠎿）	jiq la	代名	2920
+（𠐾𠎿）	jiq laq	代名	2920
+誰類	ziu la	代名	2920
+誰類	ziu laq	代名	2920
+一班人	iq paen gnin	代名	2920
+我類一班人	aq la iq paen gnin	代名	2920
+我類一班人	aq laq iq paen gnin	代名	2920
+當一班人	daon iq paen gnin	代名	2920
+你類一班人	ng la iq paen gnin	代名	2920
+你類一班人	ng laq iq paen gnin	代名	2920
+渠類一班人	ji la iq paen gnin	代名	2920
+渠類一班人	jiq la iq paen gnin	代名	2920
+渠類一班人	ji laq iq paen gnin	代名	2920
+渠類一班人	jiq laq iq paen gnin	代名	2920
+該一班人	kiq iq paen gnin	代名	2920
+個	goq8	代名	2920
+我個	ngo goq	代名	2920
+你個	ng goq	代名	2920
+渠個	ji goq	代名	2920
+你我	ng ngo	代名	2921
+自家	zi ko	代名	2921
+人家	gnin ko	代名	2921
+當	daon6	代名	2921
+當	taon1	代名	2921
+（黨）	daon6	代名	2921
+（黨）	taon1	代名	2921
+該	kiq7	代名	2921
+該	kae1	代名	2921
+（介）	kiq7	代名	2921
+（介）	kae1	代名	2921
+（其）	kiq7	代名	2921
+（其）	kae1	代名	2921
+曷里	aq li	代名	2921
+（阿裏）	aq li	代名	2921
+亮	lian6	顏色	2922
+天奣奣	thien an an	顏色	2922
+朗炕	laon haon	顏色	2922
+（㝗㝩）	laon haon	顏色	2922
+靉	a5	顏色	2922
+（曖）	a5	顏色	2922
+陰靉	in a	顏色	2922
+（隱曖）	in a	顏色	2922
+（霒曖）	in a	顏色	2922
+幽	ieu1	顏色	2922
+（𠮫）	ieu1	顏色	2922
+熓焞焞	u ten ten	顏色	2922
+簇新	tshaq sin	顏色	2922
+簇新	tshiuq sin	顏色	2922
+簇簇新	tshaq tshaq sin	顏色	2922
+簇簇新	tshiuq tshiuq sin	顏色	2922
+（鏃鏃新）	tshaq tshaq sin	顏色	2922
+（鏃鏃新）	tshiuq tshiuq sin	顏色	2922
+斬	tsaen3	顏色	2922
+（崭）	tsaen3	顏色	2922
+（偡）	tsaen3	顏色	2922
+斬新	tsaen sin	顏色	2922
+簇斬新	tshaq tsaen sin	顏色	2922
+黫	ien1	顏色	2923
+（煙）	ien1	顏色	2923
+（蔫）	ien1	顏色	2923
+（菸）	ien1	顏色	2923
+黫黮黮	ien tan tan	顏色	2923
+俏	tshiau5	顏色	2923
+（釥）	tshiau5	顏色	2923
+㜺	tsaen5	顏色	2923
+紅彤彤	ghon ton ton	顏色	2923
+（紅𠄉𠄉）	ghon ton ton	顏色	2923
+（紅𧹝𧹝）	ghon ton ton	顏色	2923
+紅赬赬	ghon zen zen	顏色	2923
+（紅䞓䞓）	ghon zen zen	顏色	2923
+紅赮赮	ghon ho ho	顏色	2923
+紅赮赮	ghon heu heu	顏色	2923
+（紅𧹳𧹳）	ghon ho ho	顏色	2923
+（紅𧹳𧹳）	ghon heu heu	顏色	2923
+紅旭旭	ghon shiuq shiuq	顏色	2923
+（紅𧹴𧹴）	ghon shiuq shiuq	顏色	2923
+紅丢丢	ghon tieu tieu	顏色	2923
+（紅朵朵）	ghon tieu tieu	顏色	2923
+血紅	shiuq ghon	顏色	2923
+血血紅	shiuq shiuq ghon	顏色	2923
+奔血	pen shiuq	顏色	2924
+大紅	don ghon	顏色	2924
+（彤紅）	don ghon	顏色	2924
+紫赯色	tsy daon saq	顏色	2924
+（紫棠色）	tsy daon saq	顏色	2924
+紫赯赯	tsy daon daon	顏色	2924
+黃蒼蒼	waon tshaon tshaon	顏色	2924
+黃𪎶𪎶	waon dzen dzen	顏色	2924
+（黃黗黗）	waon dzen dzen	顏色	2924
+（黃澄澄）	waon dzen dzen	顏色	2924
+（黃橙橙）	waon dzen dzen	顏色	2924
+黃枯枯	waon ku ku	顏色	2924
+黃赭赭	waon tso tso	顏色	2924
+松黃	son waon	顏色	2924
+松松黃	son son waon	顏色	2924
+焦黃	tsiau waon	顏色	2924
+焦焦黃	tsiau tsiau waon	顏色	2924
+青㿮㿮	tshin an an	顏色	2924
+鐵青	thiq tshin	顏色	2924
+鐵鐵青	thiq thiq tshin	顏色	2924
+殷青	ien tshin	顏色	2924
+（燕青）	ien tshin	顏色	2924
+綠黝黝	loq ieu ieu	顏色	2925
+（綠油油）	loq ieu ieu	顏色	2925
+碧綠	piq loq	顏色	2925
+碧碧綠	piq piq loq	顏色	2925
+白皚皚	baq ngae ngae	顏色	2925
+白殕殕	baq fu fu	顏色	2925
+白黴黴	baq mi mi	顏色	2925
+白皏皏	baq phon phon	顏色	2925
+白皙皙	baq siq siq	顏色	2925
+白䩍䩍	baq liau liau	顏色	2925
+（白𨣀𨣀）	baq liau liau	顏色	2925
+白䵣䵣	baq thaq thaq	顏色	2925
+白䵵䵵	baq tshiuq tshiuq	顏色	2925
+白洋洋	baq yan yan	顏色	2925
+雪白	siuq baq	顏色	2925
+（皙白）	siuq baq	顏色	2925
+雪雪白	siuq siuq baq	顏色	2925
+（皙皙白）	siuq siuq baq	顏色	2925
+黑䵵䵵	haq tshiuq tshiuq	顏色	2925
+（黑漆漆）	haq tshiuq tshiuq	顏色	2925
+（黑窣窣）	haq tshiuq tshiuq	顏色	2925
+黑䵣䵣	haq thaq thaq	顏色	2926
+（黑䵬䵬）	haq thaq thaq	顏色	2926
+（黑濌濌）	haq thaq thaq	顏色	2926
+黑緇緇	haq tsy tsy	顏色	2926
+（黑㿳㿳）	haq tsy tsy	顏色	2926
+烏黝黝	u ieu ieu	顏色	2926
+（烏油油）	u ieu ieu	顏色	2926
+漆黑	tshaq haq	顏色	2926
+（𪒙黑）	tshaq haq	顏色	2926
+漆漆黑	tshaq tshaq haq	顏色	2926
+（蹴蹴黑）	tshaq tshaq haq	顏色	2926
+漆烏	tshaq u	顏色	2926
+漆漆烏	tshaq tshaq u	顏色	2926
+墨黑	moq haq	顏色	2926
+墨墨黑	moq moq haq	顏色	2926
+墨黔漆黑	moq jin tshaq haq	顏色	2926
+墨黔漆黑	moq din tshaq haq	顏色	2926
+灰䵣色	huei thaq saq	顏色	2926
+（䵋濌色）	huei thaq saq	顏色	2926
+灰𤾣𤾣	huei phoq phoq	顏色	2926
+白𤾣𤾣	baq phoq phoq	顏色	2926
+黑𤾣𤾣	haq phoq phoq	顏色	2926
+焦巴巴	tsiau phoq phoq	顏色	2926
+（焦𤾣𤾣）	tsiau phoq phoq	顏色	2926
+昏色	huen saq	顏色	2926
+（𪑕色）	huen saq	顏色	2926
+糙米色	tshau mi saq	顏色	2926
+紅粉細白	ghon fen si baq	顏色	2926
+墨漆鐵黑	moq tshaq thiq haq	顏色	2927
+活猻屁股	waq sen phi ku	顏色	2927
+花花綠綠	huo huo loq loq	顏色	2927
+紅紅綠綠	ghon ghon loq loq	顏色	2927
+沓沓	daq daq	聲音	2927
+㘆𠷂	dae dae	聲音	2927
+（咍㘆）	dae dae	聲音	2927
+噥噥	non non	聲音	2927
+嘖嘖	tsaq tsaq	聲音	2927
+喥喥	do do	聲音	2927
+𧪲𧪲	ten ten	聲音	2927
+叿叿	ghon ghon	聲音	2927
+囉唕	lhou sou	聲音	2928
+（囉嗩）	lhou sou	聲音	2928
+（囉瑣）	lhou sou	聲音	2928
+囉哩	lhou li	聲音	2928
+（羅縷）	lhou li	聲音	2928
+囉哩囉唕	lhou li lhou sou	聲音	2928
+囉囉唕唕	lhou lhou sou sou	聲音	2928
+㗫咠	tshiq tshiuq	聲音	2928
+㗫㗫咠咠	tshiq tshiq tshiuq tshiuq	聲音	2928
+（嘁嘁喳喳）	tshiq tshiq tshiuq tshiuq	聲音	2928
+唧嘈	tsi tsa	聲音	2928
+唧嘈	ji tsa	聲音	2928
+唧嘈	dzi tsa	聲音	2928
+唧嘈	tsi jia	聲音	2928
+唧嘈	ji jia	聲音	2928
+唧嘈	dzi jia	聲音	2928
+唧嘈	tsi tso	聲音	2928
+唧嘈	ji tso	聲音	2928
+唧嘈	dzi tso	聲音	2928
+唧嘈	tsi dzo	聲音	2928
+唧嘈	ji dzo	聲音	2928
+唧嘈	dzi dzo	聲音	2928
+唧嘈	tsi tseu	聲音	2928
+唧嘈	ji tseu	聲音	2928
+唧嘈	dzi tseu	聲音	2928
+（𧆌糟）	tsi tsa	聲音	2928
+（𧆌糟）	ji tsa	聲音	2928
+（𧆌糟）	dzi tsa	聲音	2928
+（𧆌糟）	tsi jia	聲音	2928
+（𧆌糟）	ji jia	聲音	2928
+（𧆌糟）	dzi jia	聲音	2928
+（𧆌糟）	tsi tso	聲音	2928
+（𧆌糟）	ji tso	聲音	2928
+（𧆌糟）	dzi tso	聲音	2928
+（𧆌糟）	tsi dzo	聲音	2928
+（𧆌糟）	ji dzo	聲音	2928
+（𧆌糟）	dzi dzo	聲音	2928
+（𧆌糟）	tsi tseu	聲音	2928
+（𧆌糟）	ji tseu	聲音	2928
+（𧆌糟）	dzi tseu	聲音	2928
+（嚌⿰口曶）	tsi tsa	聲音	2928
+（嚌⿰口曶）	ji tsa	聲音	2928
+（嚌⿰口曶）	dzi tsa	聲音	2928
+（嚌⿰口曶）	tsi jia	聲音	2928
+（嚌⿰口曶）	ji jia	聲音	2928
+（嚌⿰口曶）	dzi jia	聲音	2928
+（嚌⿰口曶）	tsi tso	聲音	2928
+（嚌⿰口曶）	ji tso	聲音	2928
+（嚌⿰口曶）	dzi tso	聲音	2928
+（嚌⿰口曶）	tsi dzo	聲音	2928
+（嚌⿰口曶）	ji dzo	聲音	2928
+（嚌⿰口曶）	dzi dzo	聲音	2928
+（嚌⿰口曶）	tsi tseu	聲音	2928
+（嚌⿰口曶）	ji tseu	聲音	2928
+（嚌⿰口曶）	dzi tseu	聲音	2928
+唧唧嘈嘈	tsi tsi tsa tsa	聲音	2928
+唧唧嘈嘈	ji ji tsa tsa	聲音	2928
+唧唧嘈嘈	dzi dzi tsa tsa	聲音	2928
+唧唧嘈嘈	tsi tsi jia jia	聲音	2928
+唧唧嘈嘈	ji ji jia jia	聲音	2928
+唧唧嘈嘈	dzi dzi jia jia	聲音	2928
+唧唧嘈嘈	tsi tsi tso tso	聲音	2928
+唧唧嘈嘈	ji ji tso tso	聲音	2928
+唧唧嘈嘈	dzi dzi tso tso	聲音	2928
+唧唧嘈嘈	tsi tsi dzo dzo	聲音	2928
+唧唧嘈嘈	ji ji dzo dzo	聲音	2928
+唧唧嘈嘈	dzi dzi dzo dzo	聲音	2928
+唧唧嘈嘈	tsi tsi tseu tseu	聲音	2928
+唧唧嘈嘈	ji ji tseu tseu	聲音	2928
+唧唧嘈嘈	dzi dzi tseu tseu	聲音	2928
+嘰咕	ci ku	聲音	2928
+嘰咕	ji gu	聲音	2928
+嘰嘰咕咕	ci ci ku ku	聲音	2928
+嘰嘰咕咕	ji ji gu gu	聲音	2928
+嘰哩咕嚕	ci li ku lu	聲音	2928
+嘰哩咕嚕	ji li gu lu	聲音	2928
+唸㕧	i sy	聲音	2928
+唸唸㕧㕧	i i sy sy	聲音	2928
+謰謱	lhi lho	聲音	2928
+（嘍囉）	lhi lho	聲音	2928
+謰謰謱謱	lhi lhi lho lho	聲音	2929
+嘈雜	dzau dzaq	聲音	2929
+（嘈啐）	dzau dzaq	聲音	2929
+（嘈囋）	dzau dzaq	聲音	2929
+（嘈𠱥）	dzau dzaq	聲音	2929
+（嘈囐）	dzau dzaq	聲音	2929
+（嘈噆）	dzau dzaq	聲音	2929
+（嘈啈）	dzau dzaq	聲音	2929
+（嘈囃）	dzau dzaq	聲音	2929
+譀𧬨	hae wei	聲音	2929
+（海外）	hae wei	聲音	2929
+咍咍	hei hei	聲音	2929
+（㰝㰝）	hei hei	聲音	2929
+（㱾㱾）	hei hei	聲音	2929
+赥赥	heq heq	聲音	2929
+（欯欯）	heq heq	聲音	2929
+（咭咭）	heq heq	聲音	2929
+（𣤢𣤢）	heq heq	聲音	2929
+嘻嘻	shi shi	聲音	2929
+（咥咥）	shi shi	聲音	2929
+（㰩㰩）	shi shi	聲音	2929
+辴辴	tshi tshi	聲音	2929
+嚇嚇	ha ha	聲音	2929
+嚇嚇	haq haq	聲音	2929
+（哈哈）	ha ha	聲音	2929
+（哈哈）	haq haq	聲音	2929
+呵呵	hou hou	聲音	2929
+（㰤㰤）	hou hou	聲音	2929
+（㗿㗿）	hou hou	聲音	2929
+（哈哈）	hou hou	聲音	2929
+噱噱	ga ga	聲音	2929
+噱噱	kaq kaq	聲音	2929
+噱噱	gaq gaq	聲音	2929
+（吃吃）	ga ga	聲音	2929
+（吃吃）	kaq kaq	聲音	2929
+（吃吃）	gaq gaq	聲音	2929
+𣣉𣣉	shiq shiq	聲音	2930
+（𣢗𣢗）	shiq shiq	聲音	2930
+呱呱	ua ua	聲音	2930
+（𠹁𠹁）	ua ua	聲音	2930
+咿啞	i o	聲音	2930
+咿咿啞啞	i o	聲音	2930
+歑歑	fu fu	聲音	2930
+（呼呼）	fu fu	聲音	2930
+欨欨	shiu shiu	聲音	2930
+（吁吁）	shiu shiu	聲音	2930
+（呴呴）	shiu shiu	聲音	2930
+（噓噓）	shiu shiu	聲音	2930
+䰰䰰	shiu shiu	聲音	2930
+𠲌𠲌	siuq siuq	聲音	2930
+（欰欰）	siuq siuq	聲音	2930
+（㗩㗩）	siuq siuq	聲音	2930
+謦謦	khen khen	聲音	2930
+（㰢㰢）	khen khen	聲音	2930
+𠻞𠻞	khaon khaon	聲音	2930
+𣢐𣢐	khen khen	聲音	2930
+𣢐𣢐	gen gen	聲音	2930
+齘齘	kaq kaq	聲音	2930
+齘齘	ka ka	聲音	2930
+䶢䶢	ciaq ciaq	聲音	2930
+（𠽣𠽣）	ciaq ciaq	聲音	2930
+𪗿𪗿	laq laq	聲音	2931
+𣤨𣤨	ghoq ghoq	聲音	2931
+𣣡㰺	gheu gho	聲音	2931
+（㖃㰺）	gheu gho	聲音	2931
+𠯔𠯔	phiq phiq	聲音	2931
+嗄	so so	聲音	2931
+（沙）	so so	聲音	2931
+吃	kaq	聲音	2931
+吃吃	kaq kaq	聲音	2931
+吡吡	pi pi	聲音	2931
+（閉閉）	pi pi	聲音	2931
+悗	mhen mhen	聲音	2931
+（悶）	mhen mhen	聲音	2931
+（默）	mhen mhen	聲音	2931
+齆	on1	聲音	2931
+（瓮）	on1	聲音	2931
+𪖥𪖥	chiu chiu	聲音	2931
+㰤㰤	kho kho	聲音	2931
+（𣣟𣣟）	kho kho	聲音	2931
+㬴㬴	ghon ghon	聲音	2932
+踾踾	piq piq	聲音	2932
+踾踾	biq biq	聲音	2932
+趞趞	tshoq tshoq	聲音	2932
+䞰䞰	tshiq tshiq	聲音	2932
+𨆱𨆊	bin ban	聲音	2932
+（𨆱𨅘）	bin ban	聲音	2932
+𨆂𨆂	saq saq	聲音	2932
+𨆂𨆂	soq soq	聲音	2932
+霎霎	saq saq	聲音	2932
+（涑涑）	saq saq	聲音	2932
+（溹溹）	saq saq	聲音	2932
+（霅霅）	saq saq	聲音	2932
+𩂢𩂢	nga nga	聲音	2932
+𩆘𩆘	phau phau	聲音	2932
+䫹䫹	ghon ghon	聲音	2932
+（𩗄𩗄）	ghon ghon	聲音	2932
+䂢	ton3	聲音	2932
+（𣿅）	ton3	聲音	2932
+砯砰	phin phan	聲音	2932
+哆哆	tsho tsho	聲音	2932
+哆哆	dzo dzo	聲音	2932
+㶹㶹	ghon ghon	聲音	2933
+鬻鬻	baq baq	聲音	2933
+（鋍鋍）	baq baq	聲音	2933
+嘵嘵	gniau gniau	聲音	2933
+嘵嘵	kniau kniau	聲音	2933
+嘵嘵	ngau ngau	聲音	2933
+嘵嘵	nkau nkau	聲音	2933
+（𠎭𠎭）	gniau gniau	聲音	2933
+（𠎭𠎭）	kniau kniau	聲音	2933
+（𠎭𠎭）	ngau ngau	聲音	2933
+（𠎭𠎭）	nkau nkau	聲音	2933
+𠹠𠹠	tsoq tsoq	聲音	2933
+喔喔	oq oq	聲音	2933
+唂唂	koq koq	聲音	2933
+（唃唃）	koq koq	聲音	2933
+（喌喌）	koq koq	聲音	2933
+啅啅	tsoq tsoq	聲音	2933
+節節足足	tsiq tsiq tsoq tsoq	聲音	2933
+唶唶	tshiaq tshiaq	聲音	2933
+翥翥	du du	聲音	2933
+翥翥	tu tu	聲音	2933
+（翄翄）	du du	聲音	2933
+（翄翄）	tu tu	聲音	2933
+（提提）	du du	聲音	2933
+（提提）	tu tu	聲音	2933
+（𦑡𦑡）	du du	聲音	2933
+（𦑡𦑡）	tu tu	聲音	2933
+嘓嘓	koq koq	聲音	2934
+（㖪㖪）	koq koq	聲音	2934
+唧唧	tsiq tsiq	聲音	2934
+（㘍㘍）	tsiq tsiq	聲音	2934
+吱吱	tsy tsy	聲音	2934
+嗡嗡	on on	聲音	2934
+（聬聬）	on on	聲音	2934
+鼕鼕	ton ton	聲音	2934
+𣪯𣪯	don don	聲音	2934
+（𪔜𪔜）	don don	聲音	2934
+逢逢	bon bon	聲音	2934
+（𪔍𪔍）	bon bon	聲音	2934
+（韸韸）	bon bon	聲音	2934
+（韼韼）	bon bon	聲音	2934
+鍠鍠	waon waon	聲音	2934
+鍠鍠	wan wan	聲音	2934
+（韹韹）	waon waon	聲音	2934
+（韹韹）	wan wan	聲音	2934
+（喤喤）	waon waon	聲音	2934
+（喤喤）	wan wan	聲音	2934
+𢃎𢃎	huaq huaq	聲音	2934
+（勿勿）	huaq huaq	聲音	2934
+𡂚𡂚	an an	聲音	2934
+䋫	tsen1	聲音	2934
+䋫䋫	tsen tsen	聲音	2934
+（箏箏）	tsen tsen	聲音	2934
+𢽚𢽚	toq toq	聲音	2934
+（豛豛）	toq toq	聲音	2934
+（㧻㧻）	toq toq	聲音	2934
+殼殼	khoq khoq	聲音	2935
+（㗥㗥）	khoq khoq	聲音	2935
+㱽㱽	dzin dzin	聲音	2935
+㱽㱽	jin jin	聲音	2935
+（⿰辰攴⿰辰攴）	dzin dzin	聲音	2935
+（⿰辰攴⿰辰攴）	jin jin	聲音	2935
+（摬摬）	dzin dzin	聲音	2935
+（摬摬）	jin jin	聲音	2935
+拍	phaq7	聲音	2935
+（𢶉）	phaq7	聲音	2935
+曝	poq7	聲音	2935
+曝	boq8	聲音	2935
+（㩧）	poq7	聲音	2935
+（㩧）	boq8	聲音	2935
+（𣀛）	poq7	聲音	2935
+（𣀛）	boq8	聲音	2935
+（𠮭）	poq7	聲音	2935
+（𠮭）	boq8	聲音	2935
+闟	thaq7	聲音	2935
+闟	daq8	聲音	2935
+（𡌩）	thaq7	聲音	2935
+（𡌩）	daq8	聲音	2935
+䪬	phaq7	聲音	2935
+䪬	baq8	聲音	2935
+（𥩾）	phaq7	聲音	2935
+（𥩾）	baq8	聲音	2935
+（拍）	phaq7	聲音	2935
+（拍）	baq8	聲音	2935
+剨	huaq7	聲音	2935
+（豁）	huaq7	聲音	2935
+（䦝）	huaq7	聲音	2935
+㼲㼲	laq laq	聲音	2935
+㼲㼲	lhaq lhaq	聲音	2935
+摝摝	lhoq lhoq	聲音	2935
+歷剌	liq la	聲音	2935
+（歷㼲）	liq la	聲音	2935
+（菈擸）	liq la	聲音	2935
+歷歷剌剌	liq liq la la	聲音	2935
+擊戛	ciq kaq	聲音	2935
+擊戛	jiq gaq	聲音	2935
+（拮隔）	ciq kaq	聲音	2935
+（拮隔）	jiq gaq	聲音	2935
+擊擊戛戛	ciq ciq kaq kaq	聲音	2935
+擊擊戛戛	jiq jiq gaq gaq	聲音	2935
+趌𧼨	ciq kuaq	聲音	2936
+趌𧼨	jiq guaq	聲音	2936
+趌𧼨	yiq waq	聲音	2936
+滴沰	tiq toq	聲音	2936
+滴沰	diq doq	聲音	2936
+滴沰	thiq thoq	聲音	2936
+滴沰	tiq taq	聲音	2936
+滴沰	diq daq	聲音	2936
+滴沰	thiq thaq	聲音	2936
+（滴𣶦）	tiq toq	聲音	2936
+（滴𣶦）	diq doq	聲音	2936
+（滴𣶦）	thiq thoq	聲音	2936
+（滴𣶦）	tiq taq	聲音	2936
+（滴𣶦）	diq daq	聲音	2936
+（滴𣶦）	thiq thaq	聲音	2936
+（的得）	tiq toq	聲音	2936
+（的得）	diq doq	聲音	2936
+（的得）	thiq thoq	聲音	2936
+（的得）	tiq taq	聲音	2936
+（的得）	diq daq	聲音	2936
+（的得）	thiq thaq	聲音	2936
+（的篤）	tiq toq	聲音	2936
+（的篤）	diq doq	聲音	2936
+（的篤）	thiq thoq	聲音	2936
+（的篤）	tiq taq	聲音	2936
+（的篤）	diq daq	聲音	2936
+（的篤）	thiq thaq	聲音	2936
+窸窣	siq saq	聲音	2936
+（僁窣）	siq saq	聲音	2936
+（僁窣）	siq saq	聲音	2936
+（屑窣）	siq saq	聲音	2936
+（䊝𥻦）	siq saq	聲音	2936
+窸窸窣窣	siq siq saq saq	聲音	2936
+掀轟	shien hon	聲音	2936
+（⿱金⿲金車金⿱車⿲車金車）	shien hon	聲音	2936
+毗劉暴樂	piq liq poq loq	聲音	2936
+（必栗剝落）	piq liq poq loq	聲音	2936
+噴香	phen shian	臭味	2937
+（蕡香）	phen shian	臭味	2937
+清香	tshin shian	臭味	2937
+奶花香	na huo shian	臭味	2937
+香烘烘	shian hon hon	臭味	2937
+殠烘烘	tshieu hon hon	臭味	2937
+殠	tshieu5	臭味	2937
+（臰）	tshieu5	臭味	2937
+（臭）	tshieu5	臭味	2937
+餿氣	seu chi	臭味	2937
+（滫氣）	seu chi	臭味	2937
+𩞑辣氣	huaq laq chi	臭味	2937
+泔隔氣	kien kaq chi	臭味	2937
+火𡋯氣	hou baq chi	臭味	2937
+日𡋯氣	gniq baq chi	臭味	2937
+灰撲氣	huei phoq chi	臭味	2937
+黴氣	mei chi	臭味	2938
+（霉氣）	mei chi	臭味	2938
+白花氣	baq huo chi	臭味	2938
+青沙氣	tshin so chi	臭味	2938
+𦤪𦤣氣	aq boq chi	臭味	2938
+（暍醭氣）	aq boq chi	臭味	2938
+（暍曝氣）	aq boq chi	臭味	2938
+臊氣	sau chi	臭味	2938
+（騷氣）	sau chi	臭味	2938
+腥氣	sin chi	臭味	2938
+（胜氣）	sin chi	臭味	2938
+（鯹氣）	sin chi	臭味	2938
+（鮏氣）	sin chi	臭味	2938
+䐥	on3	臭味	2938
+䐥氣	on chi	臭味	2938
+䐥殠	on tshieu	臭味	2938
+膿	nhon1	臭味	2938
+（齈）	nhon1	臭味	2938
+膿氣	nhon chi	臭味	2938
+膿殠	nhon tshieu	臭味	2938
+殠膿膿	tshieu nhon nhon	臭味	2938
+酸氣	soen chi	臭味	2938
+酸汪氣	soen uaon chi	臭味	2938
+酸汪汪	soen uaon uaon	臭味	2938
+鮮	sien1	臭味	2938
+（羴）	sien1	臭味	2938
+（羶）	sien1	臭味	2938
+（鱻）	sien1	臭味	2938
+透鮮	theu sien	臭味	2938
+鹹辣辣	ghaen laq laq	臭味	2939
+鹹𪊆𪊆	ghaen tsy tsy	臭味	2939
+鹹𪉯𪉯	ghaen khaq khaq	臭味	2939
+淡	daen6	臭味	2939
+（饏）	daen6	臭味	2939
+（澉）	daen6	臭味	2939
+淡𩟧𩟧	daen soq soq	臭味	2939
+蜜甜	miq dien	臭味	2939
+甜蜜蜜	dien miq miq	臭味	2939
+酸醯醯	soen tsy tsy	臭味	2939
+（酸䤈䤈）	soen tsy tsy	臭味	2939
+麻	mo2	臭味	2939
+（髍）	mo2	臭味	2939
+（𥀏）	mo2	臭味	2939
+麻辣辣	mo laq laq	臭味	2939
+（𥀏㗩㗩）	mo laq laq	臭味	2939
+大舌頭	dou ziq deu	臭味	2939
+徹蒿蒿	tshiq hau hau	臭味	2939
+𤯇𤯇動	yen yen don	臭味	2939
+興	sin5	形態	2939
+侏	tsiu1	形態	2940
+（株）	tsiu1	形態	2940
+（䂑）	tsiu1	形態	2940
+侏侏個	tsiu tsiu kun	形態	2940
+侏斬斬	tsiu tsaen tsaen	形態	2940
+飛薄	fi boq	形態	2940
+（菲薄）	fi boq	形態	2940
+䠷	thiau5	形態	2940
+（挑）	thiau5	形態	2940
+𢿞	liau2	形態	2940
+長𢿞𢿞	dzian liau liau	形態	2940
+長𢿞篠	dzian liau siau	形態	2940
+搖懍懍	yau lin lin	形態	2940
+短𠭴𠭴	toen tsiuq tsiuq	形態	2940
+（短𥎹𥎹）	toen tsiuq tsiuq	形態	2940
+橛株	jiuq tsiu	形態	2940
+胖	phaon5	形態	2940
+（胮）	phaon5	形態	2940
+（肨）	phaon5	形態	2940
+（䏾）	phaon5	形態	2940
+（䏵）	phaon5	形態	2940
+奤	phoq7	形態	2940
+（𩔈）	phoq7	形態	2940
+（䨣）	phoq7	形態	2940
+奤奤	phoq phoq	形態	2940
+肉妠妠	gnioq taq taq	形態	2941
+肉㾑㾑	gnioq taq taq	形態	2941
+腯	zaq8	形態	2941
+壯	tsaon5	形態	2941
+（奘）	tsaon5	形態	2941
+茁壯	tsaq tsaon	形態	2941
+茁硬	tsaq ngan	形態	2941
+（𡇠硬）	tsaq ngan	形態	2941
+硬𠏫	ngan tsan	形態	2941
+結實	ciq zyuq	形態	2941
+（礊實）	ciq zyuq	形態	2941
+（砝實）	ciq zyuq	形態	2941
+（𡙋實）	ciq zyuq	形態	2941
+茁緻	tsaq tsy	形態	2941
+（𠍹𦤻）	tsaq tsy	形態	2941
+牢靠	lau khau	形態	2941
+（牢確）	lau khau	形態	2941
+悠久	ieu cieu	形態	2941
+耐久	nae cieu	形態	2941
+經用	cin yon	形態	2941
+後生	gheu san	形態	2941
+嫩面	nen mien	形態	2941
+老相	lau sian	形態	2942
+痿	uei3	形態	2942
+（𣨙）	uei3	形態	2942
+（萎）	uei3	形態	2942
+瘦削	seu siaq	形態	2942
+（瘦揱）	seu siaq	形態	2942
+破損	phou sen	形態	2942
+（破璺）	phou sen	形態	2942
+塌	thaq7	形態	2942
+塌塌	thaq thaq	形態	2942
+癟	piq7	形態	2942
+（秕）	piq7	形態	2942
+癟𣅺𣅺	piq ieu ieu	形態	2942
+（𣇢𣅺𣅺）	piq ieu ieu	形態	2942
+𥣘	iq7	形態	2942
+（𢈈）	iq7	形態	2942
+（痷）	iq7	形態	2942
+（𤸱）	iq7	形態	2942
+（殗）	iq7	形態	2942
+（厭）	iq7	形態	2942
+精	tsin1	形態	2942
+（腈）	tsin1	形態	2942
+油	yeu2	形態	2942
+天平	thien bin	形態	2943
+（坦平）	thien bin	形態	2943
+水平	siu bin	形態	2943
+壁直	piq dziq	形態	2943
+（逼直）	piq dziq	形態	2943
+（筆直）	piq dziq	形態	2943
+（䀣直）	piq dziq	形態	2943
+壁立直	piq liq dziq	形態	2943
+挺直	thin dziq	形態	2943
+（侹直）	thin dziq	形態	2943
+挺骨	thin dziq	形態	2943
+直挺挺	dziq thin thin	形態	2943
+阧	toq7	形態	2943
+（陡）	toq7	形態	2943
+壁阧	piq teu	形態	2943
+灣繞	uaen gniau	形態	2943
+（灣穾）	uaen gniau	形態	2943
+（灣嬝）	uaen gniau	形態	2943
+灣灣繞繞	uaen uaen gniau gniau	形態	2943
+周折	tsieu tsiq	形態	2943
+（盩厔）	tsieu tsiq	形態	2943
+岔	tsho5	形態	2943
+（叉）	tsho5	形態	2943
+（䟕）	tsho5	形態	2943
+（汊）	tsho5	形態	2943
+（差）	tsho5	形態	2943
+叉	tsho1	形態	2943
+（哆）	tsho1	形態	2943
+夵	to5	形態	2943
+（奓）	to5	形態	2943
+（𧤌）	to5	形態	2943
+（觰）	to5	形態	2943
+（𧤺）	to5	形態	2943
+（㢉）	to5	形態	2943
+（朵）	to5	形態	2943
+圓滾滾	yoen kuen kuen	形態	2944
+（圓袞袞）	yoen kuen kuen	形態	2944
+急鼓鼓	ciq ku ku	形態	2944
+（急胍胍）	ciq ku ku	形態	2944
+（劼固固）	ciq ku ku	形態	2944
+急綳綳	ciq pan pan	形態	2944
+（𡙋奟奟）	ciq pan pan	形態	2944
+弓	kon1	形態	2944
+𠿕	chiau5	形態	2944
+（髚）	chiau5	形態	2944
+（⿰喬皮）	chiau5	形態	2944
+（趫）	chiau5	形態	2944
+（趬）	chiau5	形態	2944
+（㚁）	chiau5	形態	2944
+（藃）	chiau5	形態	2944
+（哨）	chiau5	形態	2944
+（峭）	chiau5	形態	2944
+㩻𠿕	ji chiau	形態	2944
+（㩻䧢）	ji chiau	形態	2944
+（崎嶇）	ji chiau	形態	2944
+（㩻趬）	ji chiau	形態	2944
+藃	hou1	形態	2944
+藃翹	hou chiau	形態	2944
+㞄	ou1	形態	2944
+（⿰月皀）	ou1	形態	2944
+（踒）	ou1	形態	2944
+𧽐	jien2	形態	2945
+蹁	bien2	形態	2945
+跛	bi2	形態	2945
+跛跛	bi bi	形態	2945
+環	waen6	形態	2945
+（凵）	waen6	形態	2945
+𦅼	dein4	形態	2945
+𦅼𦅼	dein dein	形態	2945
+繟	daen4	形態	2945
+㧳	ba2	形態	2945
+（排）	ba2	形態	2945
+鋊	yi6	形態	2945
+歪	hua1	形態	2945
+（竵）	hua1	形態	2945
+（𠇗）	hua1	形態	2945
+（𦮃）	hua1	形態	2945
+䞣	tshia5	形態	2945
+（笡）	tshia5	形態	2945
+（𢲶）	tshia5	形態	2945
+（𠁠）	tshia5	形態	2945
+（斜）	tshia5	形態	2945
+搖搖	yau yau	形態	2945
+拐拐	kua kua	形態	2946
+（柺柺）	kua kua	形態	2946
+擺	pa3	形態	2946
+擺	ba4	形態	2946
+擺擺	pa pa	形態	2946
+擺擺	ba ba	形態	2946
+（𢼆𢼆）	pa pa	形態	2946
+（𢼆𢼆）	ba ba	形態	2946
+（另另）	pa pa	形態	2946
+（另另）	ba ba	形態	2946
+（㗗㗗）	pa pa	形態	2946
+（㗗㗗）	ba ba	形態	2946
+（䟺䟺）	pa pa	形態	2946
+（䟺䟺）	ba ba	形態	2946
+（䢙䢙）	pa pa	形態	2946
+（䢙䢙）	ba ba	形態	2946
+（䟛䟛）	pa pa	形態	2946
+（䟛䟛）	ba ba	形態	2946
+（跋跋）	pa pa	形態	2946
+（跋跋）	ba ba	形態	2946
+蹩	biq8	形態	2946
+（𣦢）	biq8	形態	2946
+（躄）	biq8	形態	2946
+（躃）	biq8	形態	2946
+蹩蹩	biq biq	形態	2946
+蹎	tien5	形態	2946
+（𧽍）	tien5	形態	2946
+蹎蹎	tien tien	形態	2946
+跳跳	thiau thiau	形態	2946
+（趒趒）	thiau thiau	形態	2946
+怢	thaq7	形態	2946
+（傝）	thaq7	形態	2946
+（闒）	thaq7	形態	2946
+（濕）	thaq7	形態	2946
+（脫）	thaq7	形態	2946
+怢怢	thaq thaq	形態	2946
+𢝉𢝉	taq taq	形態	2946
+（怛怛）	taq taq	形態	2946
+趬趬	chiau chiau	形態	2946
+趬趬	jiau jiau	形態	2946
+（趫趫）	chiau chiau	形態	2946
+（趫趫）	jiau jiau	形態	2946
+䇑䇑	ba ba	形態	2946
+（排排）	ba ba	形態	2946
+閬	laon4	形態	2947
+（朗）	laon4	形態	2947
+閬閬	laon laon	形態	2947
+稀閬	shi laon	形態	2947
+（疏朗）	shi laon	形態	2947
+㝗㝩	laon gaon	形態	2947
+寬敞	khun tshian	形態	2947
+彌縫	mi von	形態	2947
+（彌逢）	mi von	形態	2947
+遼遠	lau yoen	形態	2947
+（老遠）	lau yoen	形態	2947
+旺	waon6	形態	2947
+（㞷）	waon6	形態	2947
+郺	ion3	形態	2947
+（勇）	ion3	形態	2947
+（擁）	ion3	形態	2947
+肣	jiq8	形態	2947
+毛	mau6	形態	2947
+（䋃）	mau6	形態	2947
+糙	tshau1	形態	2947
+（㿷）	tshau1	形態	2947
+粗糙	tshu tshau	形態	2947
+（麤慥）	tshu tshau	形態	2947
+（粗繰）	tshu tshau	形態	2947
+細緻	si tshy	形態	2947
+藍縷	laen li	形態	2948
+（襤褸）	laen li	形態	2948
+黮黚	than kien	形態	2948
+蓬鬆	bon son	形態	2948
+（髼鬆）	bon son	形態	2948
+（鬔䯳）	bon son	形態	2948
+蓬蓬鬆鬆	bon bon son son	形態	2948
+結殼	ciq khoq	形態	2948
+（𤿠𤿩）	ciq khoq	形態	2948
+剗	tshaen3	形態	2948
+（驏）	tshaen3	形態	2948
+赤	tshiuq7	形態	2948
+溏	daon2	形態	2948
+湅	lien6	形態	2948
+稠湅	dzieu lien	形態	2948
+（柔湅）	zieu lien	形態	2948
+翻白	faen baq	形態	2948
+（眅白）	faen baq	形態	2948
+汪汪	uaon uaon	形態	2949
+（𥆚𥆚）	uaon uaon	形態	2949
+䀩睩睩	koq loq loq	形態	2949
+（鶻淥淥）	koq loq loq	形態	2949
+䫜	au1	形態	2949
+（凹）	au1	形態	2949
+（拗）	au1	形態	2949
+𩓥𩓥	ngaq ngaq	形態	2949
+𩓥𩓥	nkaq nkaq	形態	2949
+武	vu4	形態	2949
+武氣	vu chi	形態	2949
+武騷騷	vu sau sau	形態	2949
+武技夾臺	vu ji kaq dae	形態	2949
+文	ven2	形態	2949
+文氣	ven chi	形態	2949
+斯文	sy ven	形態	2949
+文縐縐	ven tseu tseu	形態	2949
+媌條	miau diau	形態	2949
+（媌嬥）	miau diau	形態	2949
+時髦	zyu mau	形態	2950
+時道	zyu dau	形態	2950
+齊整	zi tsin	形態	2950
+（時景）	zi tsin	形態	2950
+飄逸	phiau yiq	形態	2950
+標致	piau tsy	形態	2950
+（標緻）	piau tsy	形態	2950
+如式	zyu siq	形態	2950
+（如適）	zyu siq	形態	2950
+合式	ghaq siq	形態	2950
+（合適）	ghaq siq	形態	2950
+嬌滴滴	ciau tiq tiq	形態	2950
+大方	da faon	形態	2950
+大大方方	da da faon faon	形態	2950
+得人惜	taq gnin siq	形態	2950
+得人憎	taq gnin tsen	形態	2950
+得人煩憎	taq gnin vaen tsen	形態	2950
+（得人犯憎）	taq gnin vaen tsen	形態	2950
+活脫過	waq thaq kou	形態	2950
+（活搨過）	waq thaq kou	形態	2950
+亞	o3	形態	2951
+直絲直縷	dziq sy dziq li	形態	2951
+（直思直理）	dziq sy dziq li	形態	2951
+直絲直綹	dziq sy dziq lieu	形態	2951
+平穩	bin uen	形態	2951
+平平穩穩	bin bin uen uen	形態	2951
+安穩	ein uen	形態	2951
+安安穩穩	ein ein uen uen	形態	2951
+條秩	diau dziq	形態	2951
+（條直）	diau dziq	形態	2951
+條條秩秩	diau diau dziq dziq	形態	2951
+（條條直直）	diau diau dziq dziq	形態	2951
+狹窄	ghaq tsaq	形態	2951
+狹狹窄窄	ghaq ghaq tsaq tsaq	形態	2951
+零落	lin loq	形態	2951
+零頭落角	lin deu loq koq	形態	2951
+零零落落	lin lin loq loq	形態	2951
+粗花大葉	tshu huo dou yiq	形態	2951
+雜亂無章	dzaq loen vu tsaon	形態	2951
+（雜亂糊糟）	dzaq loen vu tsaon	形態	2951
+連頭夾腦	lien deu kaq nau	形態	2951
+和頭夾腦	ghou deu kaq nau	形態	2951
+和頭和腦	ghou deu ghou nau	形態	2951
+過頭過腦	kou deu kou nau	形態	2951
+鞔頭鞔腦	mun deu mun nau	形態	2952
+（滿頭滿腦）	mun deu mun nau	形態	2952
+（蒙頭蒙腦）	mun deu mun nau	形態	2952
+環頭環腦	guaen deu guaen nau	形態	2952
+垂頭垂腦	dziu deu dziu nau	形態	2952
+痿頭痿腦	uei deu uei nau	形態	2952
+褪頭脫腦	then deu thaq nau	形態	2952
+霉頭脫腦	mei deu thaq nau	形態	2952
+悶	mhen1	感覺	2952
+悶氣	mhen chi	感覺	2952
+氣悶	chi mhen	感覺	2952
+㝥	mi4	感覺	2952
+痠	soen1	感覺	2952
+（酸）	soen1	感覺	2952
+壞	ua1	感覺	2952
+（歹）	ua1	感覺	2952
+（孬）	ua1	感覺	2952
+（嬒）	ua1	感覺	2952
+（瘣）	ua1	感覺	2952
+歹	tae3	感覺	2952
+下流	gho lieu	感覺	2952
+下足	gho tsoq	感覺	2952
+（下作）	gho tsoq	感覺	2952
+疲	bi2	感覺	2953
+𧡬𧡪	tshin tin	感覺	2953
+（𧠿𧡪）	tshin tin	感覺	2953
+惶恐	waon khon	感覺	2953
+藐然	miau zoen	感覺	2953
+（邈然）	miau zoen	感覺	2953
+怏躁躁	aon tsau tsau	感覺	2953
+𢖺𢖺	yiq yiq	感覺	2953
+（躍躍）	yiq yiq	感覺	2953
+蹩躠	piq siq	感覺	2953
+（徶㣯）	piq siq	感覺	2953
+蹩蹩躠躠	piq piq siq siq	感覺	2953
+癟㾷㾷	piq si si	感覺	2953
+驃	piau1	感覺	2953
+（膘）	piau1	感覺	2953
+（臕）	piau1	感覺	2953
+上長旺	zaon cian waon	感覺	2953
+昏懂懂	huen ton ton	感覺	2954
+昏忳忳	huen ten ten	感覺	2954
+（昏沌沌）	huen ten ten	感覺	2954
+渾沌沌	wen ten ten	感覺	2954
+渾淘淘	wen dau dau	感覺	2954
+清泚	tshin tshy	感覺	2954
+清爽	tshin saon	感覺	2954
+乾淨	kien zin	感覺	2954
+祗節	tsy tsiq	感覺	2954
+鏖糟	au tsau	感覺	2954
+（骯髒）	au tsau	感覺	2954
+（㛺臟）	au tsau	感覺	2954
+（腌臢）	au tsau	感覺	2954
+（埃𡐋）	au tsau	感覺	2954
+膩腥	gni sin	感覺	2954
+𥀰𢶍	laq thaq	感覺	2954
+（擸遢）	laq thaq	感覺	2954
+（邋㿴）	laq thaq	感覺	2954
+膯膯	ten ten	感覺	2954
+殟	uaq7	感覺	2955
+（挖）	uaq7	感覺	2955
+（䯉）	uaq7	感覺	2955
+醺醺	shiun shiun	感覺	2955
+（熏熏）	shiun shiun	感覺	2955
+齭	si1	感覺	2955
+（㾷）	si1	感覺	2955
+體忲	thi tha	感覺	2955
+（體泰）	thi tha	感覺	2955
+僋俕	thaen son	感覺	2955
+調大	diau da	感覺	2955
+（調代）	diau da	感覺	2955
+調調大大	diau diau da da	感覺	2955
+安耽	ein taen	感覺	2955
+安安耽耽	ein ein taen taen	感覺	2955
+舒齊	siu zi	感覺	2955
+（舒徐）	siu zi	感覺	2955
+（紆徐）	siu zi	感覺	2955
+（舒遲）	siu zi	感覺	2955
+舒舒齊齊	siu siu zi zi	感覺	2955
+舒服	siu voq	感覺	2955
+舒舒服服	siu siu voq voq	感覺	2955
+停當	din taon	感覺	2955
+停停當當	din din taon taon	感覺	2955
+容易	yon yi	感覺	2955
+容容易易	yon yon yi yi	感覺	2955
+領徑	lin cin	感覺	2955
+（領直）	lin cin	感覺	2955
+領領徑徑	lin lin cin cin	感覺	2955
+快活	khua waq	感覺	2956
+寫意	sia i	感覺	2956
+適意	siuq i	感覺	2956
+爽快	saon khua	感覺	2956
+爽直	saon dziq	感覺	2956
+爽氣	saon chi	感覺	2956
+爽爽快快	saon saon khua khua	感覺	2956
+喫力	chiq liq	感覺	2956
+（怯力）	chiq liq	感覺	2956
+（毄力）	chiq liq	感覺	2956
+著力	dziaq liq	感覺	2956
+（竭力）	dziaq liq	感覺	2956
+（劇力）	dziaq liq	感覺	2956
+（勮力）	dziaq liq	感覺	2956
+（𠊬力）	dziaq liq	感覺	2956
+（𢜭力）	dziaq liq	感覺	2956
+懇苦	khen khu	感覺	2956
+（刻苦）	khen khu	感覺	2956
+（艱苦）	khen khu	感覺	2956
+白蠟蠟	baq liq liq	感覺	2956
+（白勞力）	baq liq liq	感覺	2956
+汲汲忙忙	ciq ciq maon maon	感覺	2956
+㥰	sau5	感覺	2956
+快㥰	khua sau	感覺	2956
+𠢕㥰	ghau sau	感覺	2956
+（豪燥）	ghau sau	感覺	2956
+連忙	lien maon	感覺	2956
+慢	maen6	感覺	2957
+（䟂）	maen6	感覺	2957
+慢慢	maen maen	感覺	2957
+慢紓紓	maen siu siu	感覺	2957
+（慢舒舒）	maen siu siu	感覺	2957
+（慢䋡䋡）	maen siu siu	感覺	2957
+慢闡闡	maen tshoen tshoen	感覺	2957
+（慢𦅗𦅗）	maen tshoen tshoen	感覺	2957
+慢吞吞	maen then then	感覺	2957
+（慢䋼䋼）	maen then then	感覺	2957
+（慢𦀚𦀚）	maen then then	感覺	2957
+慢宕宕	maen than than	感覺	2957
+（慢蕩蕩）	maen than than	感覺	2957
+慢頓頓	maen ten ten	感覺	2957
+懈	ga6	感覺	2957
+滑	waq8	感覺	2957
+（猾）	waq8	感覺	2957
+（姡）	waq8	感覺	2957
+（獪）	waq8	感覺	2957
+舞	vu4	感覺	2957
+（武）	vu4	感覺	2957
+虛花	shiu huo	感覺	2957
+（虛華）	shiu huo	感覺	2957
+覼縷	lhou li	感覺	2957
+（覶縷）	lhou li	感覺	2957
+（羅縷）	lhou li	感覺	2957
+（囉哩）	lhou li	感覺	2957
+嚕囌	lou zau	感覺	2958
+（落索）	lou zau	感覺	2958
+（囉嗻）	lou zau	感覺	2958
+（囉唕）	lou zau	感覺	2958
+（囉嗩）	lou zau	感覺	2958
+（囉瑣）	lou zau	感覺	2958
+疙㾑	kaq taq	感覺	2958
+（疙瘩）	kaq taq	感覺	2958
+（疙疸）	kaq taq	感覺	2958
+（疙禿）	kaq taq	感覺	2958
+（扢搭）	kaq taq	感覺	2958
+（吃答）	kaq taq	感覺	2958
+（紇綴）	kaq taq	感覺	2958
+（紇頭）	kaq taq	感覺	2958
+疙疙㾑㾑	kaq kaq taq taq	感覺	2958
+累堆	lhei tei	感覺	2958
+（累墜）	lhei tei	感覺	2958
+（累贅）	lhei tei	感覺	2958
+（⿰阝⿻丅𠈌𡑈）	lhei tei	感覺	2958
+（褦襶）	lhei tei	感覺	2958
+（磊䇏）	lhei tei	感覺	2958
+（磊⿰氵⿱亯羊）	lhei tei	感覺	2958
+累累堆堆	lhei lhei tei tei	感覺	2958
+倭𠏮	ou tei	感覺	2958
+（倭墮）	ou tei	感覺	2958
+（䰀鬌）	ou tei	感覺	2958
+泥	gni6	感覺	2959
+(䛏)	gni6	感覺	2959
+（妮）	gni6	感覺	2959
+（黏）	gni6	感覺	2959
+夎愆	gien2	感覺	2959
+（夎𧽐）	gien tshou	感覺	2959
+（錯愆）	gien tshou	感覺	2959
+褫袲	tshi tsho	感覺	2959
+（綷䌨）	tshi tsho	感覺	2959
+䦧霍	shiq hoq	感覺	2959
+（噏呷）	shiq hoq	感覺	2959
+（翕忽）	shiq hoq	感覺	2959
+䦧䦧霍霍	shiq shiq hoq hoq	感覺	2959
+渧𭳬	ti ta	感覺	2959
+渧渧𭳬𭳬	ti ti ta ta	感覺	2959
+拖沓	thi tha	感覺	2959
+（𦧝𦧴）	thi tha	感覺	2959
+拖拖沓沓	thi thi tha tha	感覺	2959
+考究	khau cieu	感覺	2959
+講究	kaon cieu	感覺	2959
+懶憊	lha pa	感覺	2960
+憊懶	pha la	感覺	2960
+（潑賴）	pha la	感覺	2960
+（𣬂賴）	pha la	感覺	2960
+（破爛）	pha la	感覺	2960
+（潑辣）	pha la	感覺	2960
+克己	khaq chi	感覺	2960
+客氣	khaq chi	感覺	2960
+闊氣	khuaq chi	感覺	2960
+闊氣	khaq chi	感覺	2960
+懶癱	laen thaen	感覺	2960
+（懶怠）	laen thaen	感覺	2960
+（壏墤）	laen thaen	感覺	2960
+（壏埮）	laen thaen	感覺	2960
+沒意頭	mhu i deu	感覺	2960
+無意思	mhu i sy	感覺	2960
+淡口	daen kheu	感覺	2960
+（頕口）	daen kheu	感覺	2960
+值錢	dziq dien	感覺	2960
+（直錢）	dziq dien	感覺	2960
+珍珠瑪瑙珊瑚寶	tsin tsiu mo nau saen wu pau	感覺	2961
+正經	tsin cin	感覺	2961
+正當	tsin taon	感覺	2961
+正路	tsin lu	感覺	2961
+端正	toen tsin	感覺	2961
+端端正正	toen toen tsin tsin	感覺	2961
+規矩	kuei ciu	感覺	2961
+規規矩矩	kuei kuei ciu ciu	感覺	2961
+循規蹈矩	ziun kuei dau ciu	感覺	2961
+和氣	ghou chi	感覺	2961
+和和氣氣	ghou ghou chi chi	感覺	2961
+倭妥	ou thou	感覺	2961
+（委佗）	ou thou	感覺	2961
+（娿娜）	ou thou	感覺	2961
+倭倭妥妥	ou ou thou thou	感覺	2961
+活絡	waq loq	感覺	2961
+（滑落）	waq loq	感覺	2961
+（鶻淥）	waq loq	感覺	2961
+强弸弸	jian pan pan	感覺	2961
+硬弸弸	ngan pan pan	感覺	2961
+（硬綳綳）	ngan pan pan	感覺	2961
+在行	dze ghaon	感覺	2962
+內行	nei ghaon	感覺	2962
+內敎	nei ciau	感覺	2962
+外行	nga ghaon	感覺	2962
+外敎	nga ciau	感覺	2962
+綻	dzaen6	感覺	2962
+（㜺）	dzaen6	感覺	2962
+錯	tshou5	感覺	2962
+對	tei5	感覺	2962
+（侻）	tei5	感覺	2962
+親	tshin1	感覺	2962
+生	san1	感覺	2962
+生頭	san deu	感覺	2962
+陌生	maq san	感覺	2962
+熟	zoq8	感覺	2962
+熟頭	zoq deu	感覺	2962
+似熟	zy zoq	感覺	2962
+（時熟）	zy zoq	感覺	2962
+寬	khun1	感覺	2962
+寬紓	khun siu	感覺	2962
+（寬舒）	khun siu	感覺	2962
+寬裕	khun yu	感覺	2962
+急	ciq7	感覺	2963
+緊急	cin ciq	感覺	2963
+急迫	ciq paq	感覺	2963
+拮据	ciq ciu	感覺	2963
+（急拘）	ciq ciu	感覺	2963
+闊綽	khuaq tshoq	感覺	2963
+綽綽有裕	tshoq tshoq yeu yu	感覺	2963
+響璫	shian taon	感覺	2963
+體面	thi mien	感覺	2963
+興隆	shin lon	感覺	2963
+興旺	shin waon	感覺	2963
+得法	taq faq	感覺	2963
+順流	ziun lieu	感覺	2963
+吉利	ciq li	感覺	2963
+和合	ghou ghaq	感覺	2963
+冷	lan4	感覺	2964
+冷落	lan loq	感覺	2964
+寥落	liau loq	感覺	2964
+寥寥落落	liau liau loq loq	感覺	2964
+寥寥無幾	liau liau vu ci	感覺	2964
+經紀	cin ci	感覺	2964
+（緊急）	cin ci	感覺	2964
+落魄	loq boq	感覺	2964
+（落泊）	loq boq	感覺	2964
+（洛薄）	loq boq	感覺	2964
+（落托）	loq boq	感覺	2964
+（落拓）	loq boq	感覺	2964
+飄	phiau1	感覺	2964
+（漂）	phiau1	感覺	2964
+（爂）	phiau1	感覺	2964
+輕飄	chin phiau	感覺	2964
+腩	nein4	感覺	2964
+（胹）	nein4	感覺	2964
+（輭）	nein4	感覺	2964
+（𤿏）	nein4	感覺	2964
+腩脯脯	nein bu bu	感覺	2964
+（腩⿰火脯⿰火脯）	nein bu bu	感覺	2964
+爛沓沓	laen daq daq	感覺	2965
+（灡𤄥𤄥）	laen daq daq	感覺	2965
+沓沓爛	daq daq laen	感覺	2965
+霉	mei2	感覺	2965
+（黴）	mei2	感覺	2965
+（䆀）	mei2	感覺	2965
+（燘）	mei2	感覺	2965
+（湈）	mei2	感覺	2965
+（𣨴）	mei2	感覺	2965
+骨殭	kuaq cian	感覺	2965
+（糪殭）	kuaq cian	感覺	2965
+殭硬	cian ngan	感覺	2965
+骨粒	kuaq laq	感覺	2965
+石骨鐵硬	zaq kuaq thiq ngan	感覺	2965
+蔭涼	in lian	感覺	2965
+（泂涼）	in lian	感覺	2965
+冷𪞫𪞫	lan seu seu	感覺	2965
+（冷凁凁）	lan seu seu	感覺	2965
+冷㵾㵾	lan tshin tshin	感覺	2965
+（冷凊凊）	lan tshin tshin	感覺	2965
+寒凚凚	ghein jin jin	感覺	2965
+（寒噤噤）	ghein jin jin	感覺	2965
+（寒癛癛）	ghein jin jin	感覺	2965
+（寒凜凜）	ghein jin jin	感覺	2965
+（寒懍懍）	ghein jin jin	感覺	2965
+（寒冼冼）	ghein jin jin	感覺	2965
+溫暾	uen then	感覺	2966
+（溫黁）	uen then	感覺	2966
+（溫㬮）	uen then	感覺	2966
+𤆏煖	ou noen	感覺	2966
+（和煖）	ou noen	感覺	2966
+（𤉦煗）	ou noen	感覺	2966
+（安㬮）	ou noen	感覺	2966
+（暍㬮）	ou noen	感覺	2966
+鬱勃	iuq baq	感覺	2966
+（鬱㶿）	iuq baq	感覺	2966
+（㷉㶿）	iuq baq	感覺	2966
+鬱勃勃	iuq baq baq	感覺	2966
+火熱	hou gniq	感覺	2966
+熱烔烔	gniq don don	感覺	2966
+（熱爞爞）	gniq don don	感覺	2966
+（熱燑燑）	gniq don don	感覺	2966
+（熱蟲蟲）	gniq don don	感覺	2966
+熱烘烘	gniq hon hon	感覺	2966
+（熱焢焢）	gniq hon hon	感覺	2966
+滾	kuen3	感覺	2966
+（涫）	kuen3	感覺	2966
+沓沓滾	daq daq kuen	感覺	2966
+（涾涾滾）	daq daq kuen	感覺	2966
+燥㬘	sau soq	感覺	2966
+（燥縮）	sau soq	感覺	2966
+燥𤿩𤿩	sau khoq khoq	感覺	2966
+（燥燩燩）	sau khoq khoq	感覺	2966
