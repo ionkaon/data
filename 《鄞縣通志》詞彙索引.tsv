@@ -135,7 +135,7 @@
 外	nga6	地理	2774
 底	ti3	地理	2774
 口	kheu3	地理	2774
-沿	yien2	地理	2774
+沿	yen2	地理	2774
 岸	ngien2	地理	2774
 橫	wan2	地理	2774
 斜	zia2	地理	2774
@@ -253,7 +253,7 @@
 後年	gheu gnien	歲時	2782
 大後年	dou gheu gnien	歲時	2782
 侵早	tshin tsau	歲時	2782
-（清早）	tshin tsau	歲時	2782
+（淸早）	tshin tsau	歲時	2782
 黑侵早	haq tshin tsau	歲時	2782
 烏侵早暗	u tshin tsau ein	歲時	2782
 烏暗	u ein	歲時	2782
@@ -296,7 +296,7 @@
 年三十夜	gni saen ziuq ya	歲時	2785
 新年新歲	shin gnien shin siu	歲時	2785
 燈頭	ten deu	歲時	2785
-青黃不接	tshin waon paq tsiq	歲時	2785
+靑黃不接	tshin waon paq tsiq	歲時	2785
 黃梅天	waon mei thien	歲時	2785
 伏裏向	voq li shian	歲時	2785
 當夏六月	taon gho loq yuq	歲時	2785
@@ -879,7 +879,7 @@
 鏖糟氣	au tsau chi	人稱	2817
 邪氣	zia chi	人稱	2817
 老山大人	lau saen dou gnin	人稱	2818
-屋業地主	uoq gniq di tsiu	人稱	2818
+屋業地主	oq gniq di tsiu	人稱	2818
 喪亡鬼	saon maon ciu	人稱	2818
 （傷亡鬼）	saon maon ciu	人稱	2818
 喪亡	saon maon	人稱	2818
@@ -995,7 +995,7 @@
 六合	loq ghaq	事類	2825
 八字	paq zy	事類	2825
 交杯酒	ciau pei tsieu	事類	2825
-待筵	dae yien	事類	2825
+待筵	dae yen	事類	2825
 周歲	tsieu siu	事類	2825
 （週歲）	tsieu siu	事類	2825
 周年	tsieu gni	事類	2825
@@ -1814,8 +1814,8 @@
 （⿰米圓子）	yoen tsy	食品	2861
 湯果	thaon kou	食品	2861
 湯團	thaon doen	食品	2861
-青餅	tsin pin	食品	2861
-青餃	tsin ciau	食品	2861
+靑餅	tsin pin	食品	2861
+靑餃	tsin ciau	食品	2861
 麻𩝐	mo zy	食品	2861
 （麻糍）	mo zy	食品	2861
 𩞁餈	mo zy	食品	2861
@@ -1857,9 +1857,9 @@
 （醪酒）	lau tsieu	食品	2863
 花雕	huo tiau	食品	2863
 （花⿰周瓦）	huo tiau	食品	2863
-竹葉青	tsoq yiq tshin	食品	2863
-（竹葉清）	tsoq yiq tshin	食品	2863
-缸面清	kaon mien tshin	食品	2863
+竹葉靑	tsoq yiq tshin	食品	2863
+（竹葉淸）	tsoq yiq tshin	食品	2863
+缸面淸	kaon mien tshin	食品	2863
 （缸面春）	kaon mien tshin	食品	2863
 蜜林檎	miq lin dzin	食品	2864
 （蜜醽醇）	miq lin dzin	食品	2864
@@ -1889,7 +1889,7 @@
 （𥽘碎）	maq sei	食品	2865
 黴	mei2	食品	2865
 （溦）	mei2	食品	2865
-青沙	tshin so	食品	2865
+靑沙	tshin so	食品	2865
 醭	phoq7	食品	2865
 白花	baq huo	食品	2865
 味道	mi dau	食品	2865
@@ -1938,18 +1938,18 @@
 情被	dzin bi	用品	2867
 靛	dien6	用品	2867
 （𪑩）	dien6	用品	2867
-靛青	dien tshin	用品	2867
-靛青花	dien tshin huo	用品	2867
+靛靑	dien tshin	用品	2867
+靛靑花	dien tshin huo	用品	2867
 木柿	moq fi	用品	2868
 （木𣏕）	moq fi	用品	2868
 鉋娘	bau gnian	用品	2868
 釬屑	ghein siq	用品	2868
-黏頭樹	gnien deu zyu	用品	2868
+黏頭樹	gnien deu ziu	用品	2868
 鉋花	bau huo	用品	2868
 橛頭	jiuq deu	用品	2868
 （氒頭）	jiuq deu	用品	2868
-欂櫨柱	boq loq dzyu	用品	2868
-（欂櫨槌）	boq loq dzyu	用品	2868
+欂櫨柱	boq loq dziu	用品	2868
+（欂櫨槌）	boq loq dziu	用品	2868
 麩炭	fu thaen	用品	2868
 （桴炭）	fu thaen	用品	2868
 （烰炭）	fu thaen	用品	2868
@@ -2692,8 +2692,8 @@
 魚腥草	ng sin tshau	植物	2902
 薸	biau2	植物	2902
 （䕯）	biau2	植物	2902
-青衣	tshin i	植物	2903
-（青翳）	tshin i	植物	2903
+靑衣	tshin i	植物	2903
+（靑翳）	tshin i	植物	2903
 椏枝	o tsy	植物	2903
 （丫枝）	o tsy	植物	2903
 椏杈	o tsho	植物	2903
@@ -2971,8 +2971,8 @@
 （幀）	dzian4	數量	2917
 陣	dzin6	數量	2917
 潮	dziau2	數量	2917
-住	dzyu6	數量	2918
-（廚）	dzyu6	數量	2918
+住	dziu6	數量	2918
+（廚）	dziu6	數量	2918
 場	dzian2	數量	2918
 社	dzo4	數量	2918
 撒	dza6	數量	2918
@@ -3124,11 +3124,11 @@
 松松黃	son son waon	顏色	2924
 焦黃	tsiau waon	顏色	2924
 焦焦黃	tsiau tsiau waon	顏色	2924
-青㿮㿮	tshin an an	顏色	2924
-鐵青	thiq tshin	顏色	2924
-鐵鐵青	thiq thiq tshin	顏色	2924
-殷青	ien tshin	顏色	2924
-（燕青）	ien tshin	顏色	2924
+靑㿮㿮	tshin an an	顏色	2924
+鐵靑	thiq tshin	顏色	2924
+鐵鐵靑	thiq thiq tshin	顏色	2924
+殷靑	ien tshin	顏色	2924
+（燕靑）	ien tshin	顏色	2924
 綠黝黝	loq ieu ieu	顏色	2925
 （綠油油）	loq ieu ieu	顏色	2925
 碧綠	piq loq	顏色	2925
@@ -3511,7 +3511,7 @@
 （必栗剝落）	piq liq poq loq	聲音	2936
 噴香	phen shian	臭味	2937
 （蕡香）	phen shian	臭味	2937
-清香	tshin shian	臭味	2937
+淸香	tshin shian	臭味	2937
 奶花香	na huo shian	臭味	2937
 香烘烘	shian hon hon	臭味	2937
 殠烘烘	tshieu hon hon	臭味	2937
@@ -3528,7 +3528,7 @@
 黴氣	mei chi	臭味	2938
 （霉氣）	mei chi	臭味	2938
 白花氣	baq huo chi	臭味	2938
-青沙氣	tshin so chi	臭味	2938
+靑沙氣	tshin so chi	臭味	2938
 𦤪𦤣氣	aq boq chi	臭味	2938
 （暍醭氣）	aq boq chi	臭味	2938
 （暍曝氣）	aq boq chi	臭味	2938
@@ -3608,10 +3608,10 @@
 茁硬	tsaq ngan	形態	2941
 （𡇠硬）	tsaq ngan	形態	2941
 硬𠏫	ngan tsan	形態	2941
-結實	ciq zyuq	形態	2941
-（礊實）	ciq zyuq	形態	2941
-（砝實）	ciq zyuq	形態	2941
-（𡙋實）	ciq zyuq	形態	2941
+結實	ciq ziuq	形態	2941
+（礊實）	ciq ziuq	形態	2941
+（砝實）	ciq ziuq	形態	2941
+（𡙋實）	ciq ziuq	形態	2941
 茁緻	tsaq tsy	形態	2941
 （𠍹𦤻）	tsaq tsy	形態	2941
 牢靠	lau khau	形態	2941
@@ -3833,15 +3833,15 @@
 文縐縐	ven tseu tseu	形態	2949
 媌條	miau diau	形態	2949
 （媌嬥）	miau diau	形態	2949
-時髦	zyu mau	形態	2950
-時道	zyu dau	形態	2950
+時髦	ziu mau	形態	2950
+時道	ziu dau	形態	2950
 齊整	zi tsin	形態	2950
 （時景）	zi tsin	形態	2950
 飄逸	phiau yiq	形態	2950
 標致	piau tsy	形態	2950
 （標緻）	piau tsy	形態	2950
-如式	zyu siq	形態	2950
-（如適）	zyu siq	形態	2950
+如式	ziu siq	形態	2950
+（如適）	ziu siq	形態	2950
 合式	ghaq siq	形態	2950
 （合適）	ghaq siq	形態	2950
 嬌滴滴	ciau tiq tiq	形態	2950
@@ -3922,8 +3922,8 @@
 （昏沌沌）	huen ten ten	感覺	2954
 渾沌沌	wen ten ten	感覺	2954
 渾淘淘	wen dau dau	感覺	2954
-清泚	tshin tshy	感覺	2954
-清爽	tshin saon	感覺	2954
+淸泚	tshin tshy	感覺	2954
+淸爽	tshin saon	感覺	2954
 乾淨	kien zin	感覺	2954
 祗節	tsy tsiq	感覺	2954
 鏖糟	au tsau	感覺	2954
@@ -5555,3 +5555,1660 @@
 （傟）	aon1	屬意念	3029
 （慃）	aon1	屬意念	3029
 （𠃽）	aon1	屬意念	3029
+射	zo4	屬意念	3030
+（䀢）	zo4	屬意念	3030
+（𬙜）	zo4	屬意念	3030
+（惹）	zo4	屬意念	3030
+射厭	zo ien	屬意念	3030
+（惹厭）	zo ien	屬意念	3030
+討厭	thau ien	屬意念	3030
+生氣	san chi	屬意念	3030
+動氣	don chi	屬意念	3030
+加氣	ko chi	屬意念	3030
+動火	don hou	屬意念	3030
+出氣	tshiuq chi	屬意念	3030
+爭氣	tsan chi	屬意念	3030
+（增氣）	tsan chi	屬意念	3030
+爭風	tsan fon	屬意念	3030
+熬氣	ngau chi	屬意念	3030
+𤷗氣	biq chi	屬意念	3030
+（𤺓氣）	biq chi	屬意念	3030
+懊惱	au nau	屬意念	3030
+（懊㛴）	au nau	屬意念	3030
+（懊憹）	au nau	屬意念	3030
+（懊儂）	au nau	屬意念	3030
+（懊悔）	au nau	屬意念	3030
+恚惡	uei u	屬意念	3031
+恚惡	uei wu	屬意念	3031
+（懀惡）	uei u	屬意念	3031
+（懀惡）	uei wu	屬意念	3031
+驚嚇	cin hoq	屬意念	3031
+（驚寣）	cin hoq	屬意念	3031
+熬	ngau2	屬意念	3031
+（嗸）	ngau2	屬意念	3031
+（嗷）	ngau2	屬意念	3031
+許	hei3	屬意念	3031
+允許	in hei	屬意念	3031
+（應許）	in hei	屬意念	3031
+懺唸	tshae gniaen	屬意念	3031
+祝福	to huo	屬意念	3031
+（禱護）	to huo	屬意念	3031
+（禱化）	to huo	屬意念	3031
+（打化）	to huo	屬意念	3031
+倸	tshian3	屬意念	3031
+（採）	tshian3	屬意念	3031
+（睬）	tshian3	屬意念	3031
+（猜）	tshian3	屬意念	3031
+偢倸	tshieu tshian	屬意念	3031
+（瞅睬）	tshieu tshian	屬意念	3031
+無偢倸	mhu tshieu tshian	屬意念	3031
+相煩	sian vaen	屬意念	3032
+喫虧	chioq chiu	屬意念	3032
+坍臺	thaen dae	屬意念	3032
+倒楣	tau mei	屬意念	3032
+（倒𠪃）	tau mei	屬意念	3032
+倒竈	tau tsau	屬意念	3032
+輸伏	siu voq	屬意念	3032
+（輸服）	siu voq	屬意念	3032
+做忌	tsou ji	屬意念	3032
+難爲	naen wei	屬意念	3032
+得罪	taq zei	屬意念	3032
+罪過	zei kou	屬意念	3032
+對弗住	tei faq dziu	屬意念	3033
+𥄐	shiuq7	屬意念	3033
+（瞲）	shiuq7	屬意念	3033
+（䀗）	shiuq7	屬意念	3033
+饒	gniau2	屬意念	3033
+𢿫頓	tsin li	屬行爲	3033
+料理	liau li	屬行爲	3033
+（撩理）	liau li	屬行爲	3033
+（⿰𥹄攴理）	liau li	屬行爲	3033
+敁敠	tien toq	屬行爲	3033
+（敁挅）	tien toq	屬行爲	3033
+（掂掇）	tien toq	屬行爲	3033
+（玷捶）	tien toq	屬行爲	3033
+（點掇）	tien toq	屬行爲	3033
+照料	tsiau liau	屬行爲	3033
+照管	tsiau kun	屬行爲	3033
+照顧	tiau ku	屬行爲	3033
+成局	dzin jiuq	屬行爲	3033
+（成軸）	dzin jiuq	屬行爲	3033
+作蹋	tsoq thaq	屬行爲	3034
+（作獺）	tsoq thaq	屬行爲	3034
+（作撻）	tsoq thaq	屬行爲	3034
+遭蹋	tsau thaq	屬行爲	3034
+（嘲誻）	tsau thaq	屬行爲	3034
+作孽	tsoq gniq	屬行爲	3034
+（作業）	tsoq gniq	屬行爲	3034
+搭漿	taq tsian	屬行爲	3034
+見大頭鬼	ci dou deu ciu	屬行爲	3034
+上當	zaon taon	屬行爲	3034
+背木梢	pei moq sau	屬行爲	3034
+輪	lin2	屬行爲	3034
+掗	o5	屬行爲	3034
+捱	nga2	屬行爲	3034
+擋	taon3	屬行爲	3034
+（攩）	taon3	屬行爲	3034
+（當）	taon3	屬行爲	3034
+攝	siq7	屬行爲	3035
+禁	cin5	屬行爲	3035
+（經）	cin5	屬行爲	3035
+掙	tsan5	屬行爲	3035
+（爭）	tsan5	屬行爲	3035
+打	tan3	屬行爲	3035
+弄	lon6	屬行爲	3035
+（攏）	lon6	屬行爲	3035
+發迹	faq tsiq	屬行爲	3035
+發達	faq daq	屬行爲	3035
+做家	tsou ko	屬行爲	3035
+做人家	tsou gnin ko	屬行爲	3035
+掏撐	dau tshan	屬行爲	3035
+撐門拄戶	tshan men tsiu wu	屬行爲	3036
+幹水功德	kien siu kon taq	屬行爲	3036
+發財	faq dzae	屬行爲	3036
+恭喜	kon shi	屬行爲	3036
+停	den2	屬行爲	3036
+（屯）	den2	屬行爲	3036
+等	ten3	屬行爲	3036
+（待）	ten3	屬行爲	3036
+（頓）	ten3	屬行爲	3036
+倗	ban2	屬行爲	3036
+（朋）	ban2	屬行爲	3036
+派	pha5	屬行爲	3036
+（𠔯）	pha5	屬行爲	3036
+湊隊	tsheu dei	屬行爲	3037
+湊隊	tshei dei	屬行爲	3037
+搭對	taq tei	屬行爲	3037
+挑	thiau3	屬行爲	3037
+（擢）	thiau3	屬行爲	3037
+幫輔	paon fu	屬行爲	3037
+（㨍輔）	paon fu	屬行爲	3037
+保護	pau wu	屬行爲	3037
+（包護）	pau wu	屬行爲	3037
+保比	pau pi	屬行爲	3037
+（保庇）	pau pi	屬行爲	3037
+（包庇）	pau pi	屬行爲	3037
+帶頭帶腦	ta deu ta nau	屬行爲	3037
+出頭出腦	tshiuq deu tshiuq nau	屬行爲	3037
+出頭	tshiuq deu	屬行爲	3037
+朝頭	dziau deu	屬行爲	3037
+敲釘轉腳	khau tin tshoen ciaq	屬行爲	3037
+嬲話	na ghou	屬行爲	3037
+（奈何）	na ghou	屬行爲	3037
+（閙侯）	na ghou	屬行爲	3037
+（儺）	na ghou	屬行爲	3037
+打棚	tan ban	屬行爲	3038
+（打棒）	tan ban	屬行爲	3038
+（打㑟）	tan ban	屬行爲	3038
+（打倗）	tan ban	屬行爲	3038
+尋開心	zin khae sin	屬行爲	3038
+（尋闓忻）	zin khae sin	屬行爲	3038
+討便宜	thau bien gni	屬行爲	3038
+奉承	von dzin	屬行爲	3038
+世故	siu ku	屬行爲	3038
+舔屁眼	thien phi ngaen	屬行爲	3038
+泥高頭壁	gni kau deu piq	屬行爲	3038
+嬾待	laen dae	屬行爲	3038
+（嬾怠）	laen dae	屬行爲	3038
+（冷待）	laen dae	屬行爲	3038
+（冷淡）	laen dae	屬行爲	3038
+悚動	son don	屬行爲	3039
+（慫慂）	son don	屬行爲	3039
+弄送	lon son	屬行爲	3039
+（𠋸倯）	lon son	屬行爲	3039
+作梗	tsoq kan	屬行爲	3039
+解板	ka paen	屬行爲	3039
+撤壁脚	tshaq piq ciaq	屬行爲	3039
+（鑿壁脚）	tshaq piq ciaq	屬行爲	3039
+（拆壁脚）	tshaq piq ciaq	屬行爲	3039
+捉帽子	tsoq mau tsy	屬行爲	3039
+剝面皮	poq mien bi	屬行爲	3039
+挈後脚	chiq gheu ciaq	屬行爲	3039
+扳脚後跟	paen gheu ciaq ken	屬行爲	3039
+打落水狗	tan loq siu keu	屬行爲	3039
+打落水麂	tan loq siu ci	屬行爲	3039
+數布襴襇	su pu laen kaen	屬行爲	3040
+過頭拔橋	kou deu baq jiau	屬行爲	3040
+𢶀	za4	屬行爲	3040
+（檌）	za4	屬行爲	3040
+（惹）	za4	屬行爲	3040
+轇轕	gau gaq	屬行爲	3040
+（轇輵）	gau gaq	屬行爲	3040
+（膠葛）	gau gaq	屬行爲	3040
+打架	tan ko	屬行爲	3040
+挺撞	thin dzaon	屬行爲	3040
+（揨撞）	thin dzaon	屬行爲	3040
+搏	boq8	屬行爲	3040
+做	tsou5	屬行爲	3040
+（挫）	tsou5	屬行爲	3040
+放刁	faon tiau	屬行爲	3040
+（放鵰）	faon tiau	屬行爲	3040
+作嬌	tsoq ciau	屬行爲	3040
+撒潑	saq phaq	屬行爲	3041
+塗附	du vu	屬行爲	3041
+（圖誣）	du vu	屬行爲	3041
+拚	phun1	屬行爲	3041
+（拌）	phun1	屬行爲	3041
+（𢬵）	phun1	屬行爲	3041
+（判）	phun1	屬行爲	3041
+討	tha3	屬行爲	3041
+承	dzin2	屬行爲	3041
+（倩）	dzin2	屬行爲	3041
+該	kae1	屬行爲	3041
+儹	dzoen4	屬行爲	3041
+（攢）	dzoen4	屬行爲	3041
+賺	dzaen6	屬行爲	3042
+（𧸖）	dzaen6	屬行爲	3042
+儭	tshin5	屬行爲	3042
+（趁）	tshin5	屬行爲	3042
+拆蝕	tshaq ziq	屬行爲	3042
+（拆閱）	tshaq ziq	屬行爲	3042
+（㞏㞚）	tshaq ziq	屬行爲	3042
+蝕	ziq8	屬行爲	3042
+籑	dzoen6	屬行爲	3042
+（篡）	dzoen6	屬行爲	3042
+落	loq8	屬行爲	3042
+盤剝	bun poq	屬行爲	3042
+（搫剝）	bun poq	屬行爲	3042
+賠	bei2	屬行爲	3042
+（備）	bei2	屬行爲	3042
+傿	ien5	屬行爲	3042
+詐	tso5	屬行爲	3042
+（榨）	tso5	屬行爲	3042
+（笮）	tso5	屬行爲	3042
+打鑽	tan tsoen5	屬行爲	3042
+打抽豐	tan tshieu fon	屬行爲	3043
+（打秋風）	tan tshieu fon	屬行爲	3043
+打臺級	tan dae ciq	屬行爲	3043
+撮白粟	tshaq baq soq	屬行爲	3043
+撮巧種	tshaq chiau tson	屬行爲	3043
+拏訛頭	no ngou deu	屬行爲	3043
+（拿鵝頭）	no ngou deu	屬行爲	3043
+訛	ngou2	屬行爲	3043
+（囮）	ngou2	屬行爲	3043
+掉包	diau pau	屬行爲	3043
+（嬥包）	diau pau	屬行爲	3043
+偷進裹出	theu tsin kou tshiuq	屬行爲	3043
+接先鋒	tsiq sien fon	屬行爲	3043
+（接先風）	tsiq sien fon	屬行爲	3043
+嫖	biau2	屬行爲	3043
+（嘌）	biau2	屬行爲	3043
+（闝）	biau2	屬行爲	3043
+跳槽	thiau zau	屬行爲	3043
+調戲	diau shi	屬行爲	3044
+（誂戲）	diau shi	屬行爲	3044
+搭	taq7	屬行爲	3044
+搭識	taq siq	屬行爲	3044
+跟人走	ken gnin tseu	屬行爲	3044
+拉馬	lha mo	屬行爲	3044
+背大刀	pei dou tau	屬行爲	3044
+搶風	tshian fon	屬行爲	3044
+喫醋	chioq tshu	屬行爲	3044
+㧾醋瓶	huaq tshu bin	屬行爲	3044
+扒灰	bo huei	屬行爲	3044
+（報嬀）	bo huei	屬行爲	3044
+把守	po sieu	屬事業	3045
+把持	po dzi	屬事業	3045
+趲	tsaen3	屬事業	3045
+扮	paen5	屬事業	3045
+（辦）	paen5	屬事業	3045
+打扮	tan paen	屬事業	3045
+打扮	to paen	屬事業	3045
+妝扮	tsaon paen	屬事業	3045
+（裝扮）	tsaon paen	屬事業	3045
+打發	tan faq	屬事業	3045
+打發	to faq	屬事業	3045
+撒	dza6	屬事業	3045
+（𠑞）	dza6	屬事業	3045
+（瀉）	dza6	屬事業	3045
+出恭	tshiuq kon	屬事業	3045
+（出公）	tshiuq kon	屬事業	3045
+（出肛）	tshiuq kon	屬事業	3045
+賊發火起	zaq faq hou chi	屬事業	3045
+分歲	fen siu	屬事業	3045
+送年	son gnien	屬事業	3046
+謝年	zia gnien	屬事業	3046
+預事	yu zy	屬事業	3046
+喫茶	chioq dzo	屬事業	3046
+下定	gho din	屬事業	3046
+過書	kou siu	屬事業	3046
+放口	faon kheu	屬事業	3046
+發送	faq son	屬事業	3046
+揀時揀日	kaen zy kaen gniq	屬事業	3046
+拜堂	pa daon	屬事業	3046
+傳代	dzoen dae	屬事業	3046
+鋪牀	phu zaon	屬事業	3046
+囘門	wei men	屬事業	3046
+大歸	dou kuei	屬事業	3046
+頭歸	deu kuei	屬事業	3046
+歇夏	shiq gho	屬事業	3047
+繳送	ciau son	屬事業	3047
+餪房	noen vaon	屬事業	3047
+待	dae6	屬事業	3047
+進舍	tsin so	屬事業	3047
+落月	loq yuq	屬事業	3047
+催生	tshei san	屬事業	3047
+做產	tsou saen	屬事業	3047
+安牀	ein zaon	屬事業	3047
+做牀	tsou zaon	屬事業	3047
+解厭	ka ien	屬事業	3047
+還落地福	waen loq di foq	屬事業	3047
+滿月	mun yuq	屬事業	3048
+啐	tshei1	屬事業	3048
+領	lin4	屬事業	3048
+（蛉）	lin4	屬事業	3048
+結拜	ciq pa	屬事業	3048
+結拜	ci pa	屬事業	3048
+（寄拜）	ciq pa	屬事業	3048
+（寄拜）	ci pa	屬事業	3048
+過繼	kou ci	屬事業	3048
+過房	kou vaon	屬事業	3048
+買水	ma siu	屬事業	3048
+請水	tshin siu	屬事業	3048
+寄庫	ci khu	屬事業	3048
+進主	tsin tsiu	屬事業	3048
+贉	thein5	屬事業	3048
+（探）	thein5	屬事業	3048
+定	din6	屬事業	3049
+（贉）	din6	屬事業	3049
+取	tshiu3	屬事業	3049
+搭	taq7	屬事業	3049
+趁	tshin5	屬事業	3049
+落洋	loq yan	屬事業	3049
+掉搶	diau tshian	屬事業	3049
+便	bien6	屬事業	3049
+淰	gniaen6	屬事業	3049
+（𣻧）	gniaen6	屬事業	3049
+（㘝）	gniaen6	屬事業	3049
+（罱）	gniaen6	屬事業	3049
+（𦊔）	gniaen6	屬事業	3049
+摸六株	moq loq tsiu	屬事業	3049
+行	ghaon2	屬事業	3049
+換	wun6	屬事業	3049
+兌	dei6	屬事業	3050
+（𠏮）	dei6	屬事業	3050
+找	tsau3	屬事業	3050
+（爪）	tsau3	屬事業	3050
+合	kaq7	屬事業	3050
+（佮）	kaq7	屬事業	3050
+貣	thaq7	屬事業	3050
+（嚃）	thaq7	屬事業	3050
+（脫）	thaq7	屬事業	3050
+推扳	thei paen	屬事業	3050
+打樣	tan yan	屬事業	3050
+偷漏	theu leu	屬事業	3050
+滿師	mun sy	屬事業	3050
+會鈔	wei tshau	屬事業	3050
+（匯鈔）	wei tshau	屬事業	3050
+叨光	tiau kuaon	屬事業	3051
+帶花	ta huo	屬事業	3051
+（戴花）	ta huo	屬事業	3051
+帶潤	ta zen	屬事業	3051
+（戴潤）	ta zen	屬事業	3051
+豁拳	huaq jioen	屬事業	3051
+盤幽	bun ieu	屬事業	3051
+尋幽	zin ieu	屬事業	3051
+卓蜻蜓	toq tshin din	屬事業	3051
+（卓囟頂）	toq tshin din	屬事業	3051
+豁𣣷𣣷	huaq tshiu tshiu	屬事業	3051
+呵侈侈	ho tshiu tshiu	屬事業	3051
+（呵嗤嗤）	ho tshiu tshiu	屬事業	3051
+撮紙團	tshaq tsy doen	屬事業	3051
+捉讖	tsiq tshen	屬事業	3051
+注	tsiu5	屬事業	3051
+（鉒）	tsiu5	屬事業	3051
+（䝷）	tsiu5	屬事業	3051
+（𧸅）	tsiu5	屬事業	3051
+（足）	tsiu5	屬事業	3051
+撮頭	tshaq deu	屬事業	3052
+算	soen5	屬事業	3052
+（夾）	soen5	屬事業	3052
+樁牢	tsaon lau	屬事業	3052
+樁住	tsaon dziu	屬事業	3052
+穿迸	tshoen pan	屬事業	3052
+作	tsoq7	屬事業	3052
+時作	zy tsoq	屬事業	3052
+作興	tsoq shin	屬事業	3052
+興頭	shin deu	屬事業	3052
+撥	paq7	屬器物	3052
+（畀）	paq7	屬器物	3052
+（貱）	paq7	屬器物	3052
+（八）	paq7	屬器物	3052
+（把）	paq7	屬器物	3052
+給	tsiuq7	屬器物	3052
+交代	kau dae	屬器物	3052
+無	mhu1	屬器物	3052
+無沒	mhu maq	屬器物	3052
+安	ein1	屬器物	3053
+安頓	ein ten	屬器物	3053
+安置	ein tsiu	屬器物	3053
+安插	ein tshaq	屬器物	3053
+安排	ein ba	屬器物	3053
+囥	khaon5	屬器物	3053
+（亢）	khaon5	屬器物	3053
+（匟）	khaon5	屬器物	3053
+（伉）	khaon5	屬器物	3053
+（抗）	khaon5	屬器物	3053
+（䆲）	khaon5	屬器物	3053
+（窖）	khaon5	屬器物	3053
+𰤻	dzaon4	屬器物	3053
+（幢）	dzaon4	屬器物	3053
+傾	jin6	屬器物	3053
+坍	thaen1	屬器物	3053
+坍	thein1	屬器物	3053
+（㝪）	thaen1	屬器物	3053
+（㝪）	thein1	屬器物	3053
+阺	zy4	屬器物	3054
+（氏）	zy4	屬器物	3054
+踆	zen2	屬器物	3054
+墲	bu2	屬器物	3054
+（蔀）	bu2	屬器物	3054
+（𢼹）	bu2	屬器物	3054
+𢾱	bi2	屬器物	3054
+（嶏）	bi2	屬器物	3054
+（圮）	bi2	屬器物	3054
+縫	von2	屬器物	3054
+繞	gniau4	屬器物	3054
+（裊）	gniau4	屬器物	3054
+緶	bien2	屬器物	3054
+⿰𥹄攴	liau2	屬器物	3054
+（繚）	liau2	屬器物	3054
+鍬	tshiau1	屬器物	3054
+鉤	keu1	屬器物	3054
+絎	ghaon2	屬器物	3055
+䌥	in3	屬器物	3055
+鑲	sian1	屬器物	3055
+（相）	sian1	屬器物	3055
+掍	kuen3	屬器物	3055
+（緄）	kuen3	屬器物	3055
+（緷）	kuen3	屬器物	3055
+（袞）	kuen3	屬器物	3055
+（㨰）	kuen3	屬器物	3055
+（滾）	kuen3	屬器物	3055
+（純）	kuen3	屬器物	3055
+鎖	sou3	屬器物	3055
+挑	thiau3	屬器物	3055
+（𠛪）	thiau3	屬器物	3055
+撬	jiau4	屬器物	3055
+（鏒）	jiau4	屬器物	3055
+𧞶	toq7	屬器物	3055
+（𧝴）	toq7	屬器物	3055
+打繩	tan zin	屬器物	3055
+絞	gau6	屬器物	3055
+（交）	gau6	屬器物	3055
+絮	si5	屬器物	3056
+鞝	zaon6	屬器物	3056
+（尚）	zaon6	屬器物	3056
+紸	tsiu5	屬器物	3056
+（緻）	tsiu5	屬器物	3056
+（𩋩）	tsiu5	屬器物	3056
+（𧤡）	tsiu5	屬器物	3056
+（𦥐）	tsiu5	屬器物	3056
+緝	tshiq7	屬器物	3056
+（緁）	tshiq7	屬器物	3056
+（䌌）	tshiq7	屬器物	3056
+（𦀖）	tshiq7	屬器物	3056
+（㓨）	tshiq7	屬器物	3056
+繳	ciau3	屬器物	3056
+（繑）	ciau3	屬器物	3056
+雕	tiau1	屬器物	3056
+（𥾯）	tiau1	屬器物	3056
+打襇	tan kaen	屬器物	3056
+裰	toq7	屬器物	3056
+綴	tsa5	屬器物	3056
+褙	pei1	屬器物	3056
+（䋳）	pei1	屬器物	3056
+（背）	pei1	屬器物	3056
+𢆞	cien3	屬器物	3057
+繅	siau1	屬器物	3057
+掭	thien6	屬器物	3057
+（添）	thien6	屬器物	3057
+（替）	thien6	屬器物	3057
+縈	in1	屬器物	3057
+糨	tsian1	屬器物	3057
+（糡）	tsian1	屬器物	3057
+（漿）	tsian1	屬器物	3057
+圍	yu2	屬器物	3057
+（牏）	yu2	屬器物	3057
+敧	ci1	屬器物	3057
+（槣）	ci1	屬器物	3057
+搵	uen5	屬器物	3057
+擀	kien3	屬器物	3057
+棰	to3	屬器物	3057
+（椯）	to3	屬器物	3057
+（打）	to3	屬器物	3057
+華	huo5	屬器物	3058
+鱗	lin2	屬器物	3058
+（㨆）	lin2	屬器物	3058
+𥻤	tshieu1	屬器物	3058
+（抽）	tshieu1	屬器物	3058
+𨢌	kaq7	屬器物	3058
+捫	men6	屬器物	3058
+（悶）	men6	屬器物	3058
+（𥥊）	men6	屬器物	3058
+窨	in5	屬器物	3058
+（陰）	in5	屬器物	3058
+暍	aq7	屬器物	3058
+（壓）	aq7	屬器物	3058
+糳	tshaq7	屬器物	3058
+（鑿）	tshaq7	屬器物	3058
+（毇）	tshaq7	屬器物	3058
+（𥹁）	tshaq7	屬器物	3058
+（臿）	tshaq7	屬器物	3058
+舂	saon1	屬器物	3058
+（樁）	saon1	屬器物	3058
+擣	tau3	屬器物	3058
+（⿰扌㠀）	tau3	屬器物	3058
+（搗）	tau3	屬器物	3058
+（㨶）	tau3	屬器物	3058
+（捯）	tau3	屬器物	3058
+醉	tsei5	屬器物	3058
+鹽	yen6	屬器物	3059
+（腌）	yen6	屬器物	3059
+（醃）	yen6	屬器物	3059
+贖	tsoq7	屬器物	3059
+斫	tsoq7	屬器物	3059
+（析）	tsoq7	屬器物	3059
+（斮）	tsoq7	屬器物	3059
+（斲）	tsoq7	屬器物	3059
+（𥗁）	tsoq7	屬器物	3059
+（砟）	tsoq7	屬器物	3059
+𠜴	khou1	屬器物	3059
+（科）	khou1	屬器物	3059
+批	phi1	屬器物	3059
+（披）	phi1	屬器物	3059
+（㓟）	phi1	屬器物	3059
+（㱟）	phi1	屬器物	3059
+（𠜱）	phi1	屬器物	3059
+（㨢）	phi1	屬器物	3059
+（𠞇）	phi1	屬器物	3059
+片	phi5	屬器物	3059
+刋	tshien1	屬器物	3059
+（扦）	tshien1	屬器物	3059
+剗	tshae3	屬器物	3059
+（鏟）	tshae3	屬器物	3059
+（剷）	tshae3	屬器物	3059
+劙	li6	屬器物	3059
+（剺）	li6	屬器物	3059
+（⿱⿰未攵刀）	li6	屬器物	3059
+刮	kuaq7	屬器物	3059
+（括）	kuaq7	屬器物	3059
+（刉）	kuaq7	屬器物	3059
+戳	tshoq7	屬器物	3060
+（㪬）	tshoq7	屬器物	3060
+（簎）	tshoq7	屬器物	3060
+（擉）	tshoq7	屬器物	3060
+（觸）	tshoq7	屬器物	3060
+鐴	bi6	屬器物	3060
+綑	khuen3	屬器物	3060
+（裍）	khuen3	屬器物	3060
+（捆）	khuen3	屬器物	3060
+（稇）	khuen3	屬器物	3060
+（𦄐）	khuen3	屬器物	3060
+揪	tshieu1	屬器物	3060
+（𢱀）	tshieu1	屬器物	3060
+（𩏷）	tshieu1	屬器物	3060
+擦	tshaq7	屬器物	3060
+（孂）	tshaq7	屬器物	3060
+環	guaen2	屬器物	3060
+（繯）	guaen2	屬器物	3060
+縋	dziu6	屬器物	3060
+綳	pan5	屬器物	3060
+（繃）	pan5	屬器物	3060
+（絣）	pan5	屬器物	3060
+（𢆸）	pan5	屬器物	3060
+弔	tiau5	屬器物	3060
+（釣）	tiau5	屬器物	3060
+（𦄋）	tiau5	屬器物	3060
+（𠄏）	tiau5	屬器物	3060
+縪	piq7	屬器物	3060
+（必）	piq7	屬器物	3060
+㡧	dzan6	屬器物	3061
+（𩏠）	dzan6	屬器物	3061
+（𢹑）	dzan6	屬器物	3061
+（𧯫）	dzan6	屬器物	3061
+（撐）	dzan6	屬器物	3061
+揨	dzan2	屬器物	3061
+（𢾊）	dzan2	屬器物	3061
+（䆑）	dzan2	屬器物	3061
+（㨃）	dzan2	屬器物	3061
+（撐）	dzan2	屬器物	3061
+（𢿦）	dzan2	屬器物	3061
+（𣪼）	dzan2	屬器物	3061
+（𢴤）	dzan2	屬器物	3061
+（𢿧）	dzan2	屬器物	3061
+（𣪿）	dzan2	屬器物	3061
+（㲂）	dzan2	屬器物	3061
+（棖）	dzan2	屬器物	3061
+（撜）	dzan2	屬器物	3061
+（盛）	dzan2	屬器物	3061
+鞔	mun2	屬器物	3061
+迾	laq8	屬器物	3061
+（勒）	laq8	屬器物	3061
+（𢉨）	laq8	屬器物	3061
+（闌）	laq8	屬器物	3061
+腰	iau1	屬器物	3061
+（闄）	iau1	屬器物	3061
+閉	biq8	屬器物	3061
+（𨳲）	biq8	屬器物	3061
+鈵	pin3	屬器物	3061
+（擯）	pin3	屬器物	3061
+轕	gaq8	屬器物	3061
+（戛）	gaq8	屬器物	3061
+（搿）	gaq8	屬器物	3061
+（軋）	gaq8	屬器物	3061
+搨	thaq7	屬器物	3062
+（搭）	thaq7	屬器物	3062
+（㧺）	thaq7	屬器物	3062
+（拓）	thaq7	屬器物	3062
+黏	knien1	屬器物	3062
+黏	ien1	屬器物	3062
+（粘）	ien1	屬器物	3062
+（粘）	knien1	屬器物	3062
+（溓）	knien1	屬器物	3062
+（溓）	ien1	屬器物	3062
+䞁	ien5	屬器物	3062
+（傿）	ien5	屬器物	3062
+（𣄑）	ien5	屬器物	3062
+（隱）	ien5	屬器物	3062
+寋	gien4	屬器物	3062
+（夾）	gien4	屬器物	3062
+捹	ben6	屬器物	3062
+（扮）	ben6	屬器物	3062
+（𢮈）	ben6	屬器物	3062
+（坌）	ben6	屬器物	3062
+（坋）	ben6	屬器物	3062
+㨨	lieu6	屬器物	3062
+（㧕）	lieu6	屬器物	3062
+拌	bun4	屬器物	3062
+（秚）	bun4	屬器物	3062
+（伴）	bun4	屬器物	3062
+攙	tshae1	屬器物	3062
+（羼）	tshae1	屬器物	3062
+搡	saon5	屬器物	3063
+磢	tshian3	屬器物	3063
+（搶）	tshian3	屬器物	3063
+𦔕	tshaon3	屬器物	3063
+夾	gaq8	屬器物	3063
+（合）	gaq8	屬器物	3063
+（敆）	gaq8	屬器物	3063
+（㓣）	gaq8	屬器物	3063
+份	ven6	屬器物	3063
+（分）	ven6	屬器物	3063
+（膹）	ven6	屬器物	3063
+匀	yun2	屬器物	3063
+（𡖒）	yun2	屬器物	3063
+挑	thiau3	屬器物	3063
+（撟）	thiau3	屬器物	3063
+笓	biq8	屬器物	3063
+（比）	biq8	屬器物	3063
+（㧙）	biq8	屬器物	3063
+折	tsiq7	屬器物	3063
+（𢫐）	tsiq7	屬器物	3063
+（𢪍）	tsiq7	屬器物	3063
+牽扯	tshien tsho	屬器物	3064
+（𢹚撦）	tshien tsho	屬器物	3064
+揩	kha1	屬器物	3064
+（摡）	kha1	屬器物	3064
+搽	dzo2	屬器物	3064
+（塗）	dzo2	屬器物	3064
+泥	gni2	屬器物	3064
+蘸	tsaen3	屬器物	3064
+撨	tsau1	屬器物	3064
+（糟）	tsau1	屬器物	3064
+搯	dau2	屬器物	3064
+（掏）	dau2	屬器物	3064
+撬	jiau6	屬器物	3064
+（撟）	jiau6	屬器物	3064
+（㨄）	jiau6	屬器物	3064
+（撨）	jiau6	屬器物	3064
+（趙）	jiau6	屬器物	3064
+钃	tsiuq7	屬器物	3064
+越	yuq8	屬器物	3064
+撣	taen3	屬器物	3065
+（撢）	taen3	屬器物	3065
+（担）	taen3	屬器物	3065
+（抌）	taen3	屬器物	3065
+（笪）	taen3	屬器物	3065
+𢷍	in5	屬器物	3065
+（𢳃）	in5	屬器物	3065
+（印）	in5	屬器物	3065
+斠	kaq7	屬器物	3065
+（格）	kaq7	屬器物	3065
+（杚）	kaq7	屬器物	3065
+（割）	kaq7	屬器物	3065
+㮇	thien5	屬器物	3065
+（掭）	thien5	屬器物	3065
+（栝）	thien5	屬器物	3065
+褪	then5	屬器物	3065
+（涒）	then5	屬器物	3065
+兜	teu1	屬器物	3065
+（㨮）	teu1	屬器物	3065
+（抖）	teu1	屬器物	3065
+捎	sau1	屬器物	3065
+（㩋）	sau1	屬器物	3065
+（𢸳）	sau1	屬器物	3065
+㨖	tsy5	屬器物	3065
+頓	ten5	屬器物	3065
+（等）	ten5	屬器物	3065
+（撉）	ten5	屬器物	3065
+𥢔	toq7	屬器物	3065
+（卓）	toq7	屬器物	3065
+（矗）	toq7	屬器物	3065
+窒	toq7	屬器物	3066
+抿	min6	屬器物	3066
+（㨉）	min6	屬器物	3066
+墊	dien4	屬器物	3066
+（㼭）	dien4	屬器物	3066
+𩐅	saq7	屬器物	3066
+（𢶍）	saq7	屬器物	3066
+（摋）	saq7	屬器物	3066
+扱	saq7	屬器物	3066
+（塞）	saq7	屬器物	3066
+（𢶍）	saq7	屬器物	3066
+（𩐅）	saq7	屬器物	3066
+嵌	khaen5	屬器物	3066
+（肯）	khaen5	屬器物	3066
+弶	jian6	屬器物	3066
+（摾）	jian6	屬器物	3066
+照	tsiau5	屬器物	3066
+（𣤹）	tsiau5	屬器物	3066
+抌	tsin1	屬器物	3066
+（㲀）	tsin1	屬器物	3066
+鉋	bau2	屬器物	3067
+（䥤）	bau2	屬器物	3067
+（刨）	bau2	屬器物	3067
+車	tsho1	屬器物	3067
+（⿰𧴲刂）	tsho1	屬器物	3067
+箍	khu1	屬器物	3067
+箍	khou1	屬器物	3067
+駮	poq7	屬器物	3067
+（剝）	poq7	屬器物	3067
+（䃗）	poq7	屬器物	3067
+牮	tsien5	屬器物	3067
+（⿱代石）	tsien5	屬器物	3067
+（展）	tsien5	屬器物	3067
+打坑	tan khan	屬器物	3067
+（抌夯）	tan khan	屬器物	3067
+捉漏	tsoq leu	屬器物	3067
+𪏶	phau5	屬器物	3067
+𪏶	tshau5	屬器物	3067
+（泡）	phau5	屬器物	3067
+（泡）	tshau5	屬器物	3067
+皁	zau4	屬器物	3067
+（皂）	zau4	屬器物	3067
+（草）	zau4	屬器物	3067
+（造）	zau4	屬器物	3067
+（辱）	zau4	屬器物	3067
+銲	ghein4	屬器物	3067
+（釬）	ghein4	屬器物	3067
+（汗）	ghein4	屬器物	3067
+烚	haq7	屬器物	3068
+砾	ngo6	屬器物	3068
+豁	huaq7	屬器物	3068
+（捇）	huaq7	屬器物	3068
+𤿩	khoq7	屬器物	3068
+（殼）	khoq7	屬器物	3068
+朵	to3	屬器物	3068
+垂	dziu6	屬器物	3068
+泛	faen5	屬器物	3068
+（𨠒）	faen5	屬器物	3068
+滉	waon6	屬器物	3068
+𦨉	nkaq7	屬器物	3068
+（䑢）	nkaq7	屬器物	3068
+褪缺	then chiuq	屬器物	3068
+舀	iau3	屬水	3069
+（抭）	iau3	屬水	3069
+瀉	sia5	屬水	3069
+（寫）	sia5	屬水	3069
+酘	deu6	屬水	3069
+（投）	deu6	屬水	3069
+（逗）	deu6	屬水	3069
+泡	phau5	屬水	3069
+（𣶐）	phau5	屬水	3069
+澳	au5	屬水	3069
+（⿰氵麀）	au5	屬水	3069
+（⿰火𮭱）	au5	屬水	3069
+（舀）	au5	屬水	3069
+（燠）	au5	屬水	3069
+汏	da6	屬水	3069
+滰	jian4	屬水	3069
+（潒）	jian4	屬水	3069
+溼	saq7	屬水	3069
+（濇）	saq7	屬水	3069
+漂	phiau5	屬水	3070
+（𣿖）	phiau5	屬水	3070
+盪	daon4	屬水	3070
+（溏）	daon4	屬水	3070
+（煻）	daon4	屬水	3070
+（搪）	daon4	屬水	3070
+淘	dau2	屬水	3070
+（洮）	dau2	屬水	3070
+探	thein5	屬水	3070
+（㶒）	thein5	屬水	3070
+潷	piq7	屬水	3070
+（𰛴）	piq7	屬水	3070
+（泌）	piq7	屬水	3070
+（𨠔）	piq7	屬水	3070
+瀝	liq8	屬水	3070
+（𢯰）	liq8	屬水	3070
+𭳬	li6	屬水	3070
+（瀝）	li6	屬水	3070
+（釃）	li6	屬水	3070
+漉	loq8	屬水	3070
+（盝）	loq8	屬水	3070
+（𥂖）	loq8	屬水	3070
+榨	tso5	屬水	3070
+（榨）	tso5	屬水	3070
+（醡）	tso5	屬水	3070
+（迮）	tso5	屬水	3070
+浹	kaq7	屬水	3071
+濎	tin5	屬水	3071
+（澄）	tin5	屬水	3071
+（澂）	tin5	屬水	3071
+（澱）	tin5	屬水	3071
+浸	tsin5	屬水	3071
+（湛）	tsin5	屬水	3071
+浞	dzoq8	屬水	3071
+（濯）	dzoq8	屬水	3071
+浫	hen3	屬水	3071
+（沁）	hen3	屬水	3071
+濺	tsaen5	屬水	3071
+（灒）	tsaen5	屬水	3071
+𣁳	huaq7	屬水	3071
+（豁）	huaq7	屬水	3071
+（拂）	huaq7	屬水	3071
+戽	fu5	屬水	3071
+（𣶉）	fu5	屬水	3071
+渧	ti5	屬水	3071
+氽	then3	屬水	3072
+（涒）	then3	屬水	3072
+出蜃	tshiuq ziun	屬水	3072
+落	loq8	屬水	3072
+（𩂣）	loq8	屬水	3072
+起火	chi hou	屬火	3072
+火煄	hou tson	屬火	3072
+（火燭）	hou tson	屬火	3072
+遭囘祿	tsau wei loq	屬火	3072
+炎	yen2	屬火	3072
+（焱）	yen2	屬火	3072
+（𦦨）	yen2	屬火	3072
+（㷳）	yen2	屬火	3072
+灼	dziaq8	屬火	3072
+（著）	dziaq8	屬火	3072
+煝	mei6	屬火	3072
+爆	pau5	屬火	3072
+（炮）	pau5	屬火	3072
+（炰）	pau5	屬火	3072
+熄	siq7	屬火	3073
+（息）	siq7	屬火	3073
+烏	u1	屬火	3073
+（熓）	u1	屬火	3073
+熓	u5	屬火	3073
+（𤏶）	u5	屬火	3073
+（孚）	u5	屬火	3073
+（烰）	u5	屬火	3073
+（缹）	u5	屬火	3073
+（熩）	u5	屬火	3073
+（焐）	u5	屬火	3073
+（𩰯）	u5	屬火	3073
+烤	khau5	屬火	3073
+（燺）	khau5	屬火	3073
+（熇）	khau5	屬火	3073
+（焅）	khau5	屬火	3073
+燉	ten5	屬火	3073
+（炖）	ten5	屬火	3073
+燜	mhen5	屬火	3073
+（燘）	mhen5	屬火	3073
+𤒻	thaq7	屬火	3073
+（搨）	thaq7	屬火	3073
+汆	tshoen1	屬火	3073
+（爨）	tshoen1	屬火	3073
+（臇）	tshoen1	屬火	3073
+（𤎱）	tshoen1	屬火	3073
+（串）	tshoen1	屬火	3073
+氽	then3	屬火	3073
+（䐣）	then3	屬火	3073
+（𦜯）	then3	屬火	3073
+炸	zaq8	屬火	3074
+（煠）	zaq8	屬火	3074
+（炠）	zaq8	屬火	3074
+瀹	zaq8	屬火	3074
+（㴙）	zaq8	屬火	3074
+（煠）	zaq8	屬火	3074
+（𩱲）	zaq8	屬火	3074
+煼	tseu1	屬火	3074
+（皺）	tseu1	屬火	3074
+炒	tshau3	屬火	3074
+（煼）	tshau3	屬火	3074
+（𤌉）	tshau3	屬火	3074
+（𩱈）	tshau3	屬火	3074
+（𩱦）	tshau3	屬火	3074
+（㷅）	tshau3	屬火	3074
+煲	pau5	屬火	3074
+（炮）	pau5	屬火	3074
+熯	hein3	屬火	3074
+（暵）	hein3	屬火	3074
+（焊）	hein3	屬火	3074
+煆	ho1	屬火	3074
+（呵）	ho1	屬火	3074
+熱	gniq8	屬火	3074
+（𣌍）	gniq8	屬火	3074
+（㸎）	gniq8	屬火	3074
+煨	uei1	屬火	3074
+埋	ma2	屬火	3074
+熏	shiun1	屬火	3075
+（薰）	shiun1	屬火	3075
+（𤓂）	shiun1	屬火	3075
+（爋）	shiun1	屬火	3075
+煏	biq8	屬火	3075
+（𤐧）	biq8	屬火	3075
+（㷶）	biq8	屬火	3075
+𤎨	piq7	屬火	3075
+（𤉤）	piq7	屬火	3075
+（逼）	piq7	屬火	3075
+焙	bei6	屬火	3075
+（𤊷）	bei6	屬火	3075
+（㷶）	bei6	屬火	3075
+燙	thaon5	屬火	3075
+（湯）	thaon5	屬火	3075
+（盪）	thaon5	屬火	3075
+（煻）	thaon5	屬火	3075
+燂	daen2	屬火	3075
+（㶣）	daen2	屬火	3075
+㷟	thei5	屬火	3075
+（煺）	thei5	屬火	3075
+（𤍐）	thei5	屬火	3075
+湊	tsheu5	屬火	3075
+（燀）	tsheu5	屬火	3075
+（爨）	tsheu5	屬火	3075
+釋	saq7	屬火	3075
+煬	yan2	屬火	3075
+（烊）	yan2	屬火	3075
+（洋）	yan2	屬火	3075
+㫰	laon6	屬火	3076
+（晾）	laon6	屬火	3076
+（暕）	laon6	屬火	3076
+趖	zou2	屬火	3076
+護日	wu gniq	屬火	3076
+護月	wu yuq	屬火	3076
+啄	toq7	屬動物	3076
+啄	taq7	屬動物	3076
+唰	siuq7	屬動物	3076
+（𠴪）	siuq7	屬動物	3076
+（刷）	siuq7	屬動物	3076
+毨	sien3	屬動物	3076
+毨	sei3	屬動物	3076
+（𨾷）	sien3	屬動物	3076
+（𨾷）	sei3	屬動物	3076
+竄	tshoen1	屬動物	3076
+（穿）	tshoen1	屬動物	3076
+㚇	tson3	屬動物	3076
+鑽	tsoen1	屬動物	3076
+（㺑）	tsoen1	屬動物	3076
+游	yeu2	屬動物	3077
+（遊）	yeu2	屬動物	3077
+挭	kan3	屬動物	3077
+掘	jiuq8	屬動物	3077
+（𧱝）	jiuq8	屬動物	3077
+拖	tha1	屬動物	3077
+嚵	dzaen2	屬動物	3077
+飲	in3	屬動物	3077
+甩	huaq7	屬動物	3077
+（拂）	huaq7	屬動物	3077
+轉噍	tsoen tsiau	屬動物	3077
+打勢	tan siu	屬動物	3077
+孵	bu2	屬動物	3077
+（孚）	bu2	屬動物	3077
+（哺）	bu2	屬動物	3077
+（抱）	bu2	屬動物	3077
+（𡤺）	bu2	屬動物	3077
+（伏）	bu2	屬動物	3077
+鯁	gan4	屬動物	3078
+喚	hun5	屬動物	3078
+羯	ciq7	屬動物	3078
+（潔）	ciq7	屬動物	3078
+因爲	in wei	接續詞	3078
+爲了	wei laq	接續詞	3078
+故而	kuaq laq	接續詞	3078
+（蓋）	kuaq laq	接續詞	3078
+怪弗得	kuaq faq taq	接續詞	3078
+搭	taq7	接續詞	3078
+而且	er tshie	接續詞	3079
+况且	huaon tshie	接續詞	3079
+何况	ghou huaon	接續詞	3079
+旣然	ci zoen	接續詞	3079
+何必	ghou piq	接續詞	3079
+但是	daen zy	接續詞	3079
+弗但	faq daen	接續詞	3079
+非但	fi daen	接續詞	3079
+儘管	dzin kun	接續詞	3079
+祇管	tsiq kun	接續詞	3079
+（只管）	tsiq kun	接續詞	3079
+與其	yu ji	接續詞	3079
+寗可	nen khou	接續詞	3079
+（能可）	nen khou	接續詞	3079
+（耐可）	nen khou	接續詞	3079
+索性	soq sin	接續詞	3079
+爽性	saon sin	接續詞	3079
+除非	dziu fi	接續詞	3080
+（如非）	ziu fi	接續詞	3080
+譬如	phi ziu	接續詞	3080
+如果	ziu kou	接續詞	3080
+假使	cia sy	接續詞	3080
+卽使	tsiq sy	接續詞	3080
+爲什麼	wei sou	接續詞	3080
+怎麼爲	dza wei	接續詞	3080
+何弗	ghou faq	接續詞	3080
+曷弗	waq faq	接續詞	3080
+來	laq8	介詞	3080
+（拉）	laq8	介詞	3080
+去	chi5	介詞	3080
+去	chiq7	介詞	3080
+被	paq7	介詞	3080
+（撥）	paq7	介詞	3080
+得	taq7	介詞	3080
+得	toq7	介詞	3080
+（搭）	taq7	介詞	3080
+（搭）	toq7	介詞	3080
+（代）	taq7	介詞	3080
+（代）	toq7	介詞	3080
+畀	paq7	介詞	3081
+畀	piq7	介詞	3081
+（貱）	piq7	介詞	3081
+（貱）	paq7	介詞	3081
+（撥）	paq7	介詞	3081
+（撥）	piq7	介詞	3081
+了	lei2	助詞	3081
+（咧）	lei2	助詞	3081
+（哩）	lei2	助詞	3081
+（已）	lei2	助詞	3081
+嗎	ma4	助詞	3081
+嗎	maq8	助詞	3081
+（麽）	ma4	助詞	3081
+（麽）	maq8	助詞	3081
+（無）	ma4	助詞	3081
+（無）	maq8	助詞	3081
+啦	la2	助詞	3081
+（來）	la2	助詞	3081
+呢	gni2	助詞	3081
+（尼）	gni2	助詞	3081
+呀	ya4	助詞	3081
+呀	gho4	助詞	3081
+呀	gha2	助詞	3081
+（嗄）	ya4	助詞	3081
+（嗄）	gho4	助詞	3081
+（嗄）	gha2	助詞	3081
+（吓）	ya4	助詞	3081
+（吓）	gho4	助詞	3081
+（吓）	gha2	助詞	3081
+老	lau4	接頭語	3082
+阿	aq7	接頭語	3082
+介	ka5	接尾語	3082
+箇	gou6	接尾語	3082
+箇	goq8	接尾語	3082
+（個）	gou6	接尾語	3082
+（個）	goq8	接尾語	3082
+（个）	gou6	接尾語	3082
+（个）	goq8	接尾語	3082
+（亇）	gou6	接尾語	3082
+（亇）	goq8	接尾語	3082
+的	ti3	接尾語	3083
+（底）	ti3	接尾語	3083
+（地）	ti3	接尾語	3083
+來	laq8	接尾語	3083
+去	chi5	接尾語	3083
+了	laq8	接尾語	3083
+（拉）	laq8	接尾語	3083
+（勒）	laq8	接尾語	3083
+過	kou5	接尾語	3083
+掉	diau6	接尾語	3083
+（了）	diau6	接尾語	3083
+看	khae1	接尾語	3083
+（開）	khae1	接尾語	3083
+動	don4	接尾語	3083
+著	dzoq8	接尾語	3084
+（着）	dzoq8	接尾語	3084
+得	taq7	接尾語	3084
+攏	lon4	接尾語	3084
+（龓）	lon4	接尾語	3084
+（弄）	lon4	接尾語	3084
+阿大	aq da	名物詞	3086
+懦	nou6	名物詞	3086
+婆娘	bou gnian	名物詞	3086
+駕長	ko cian	名物詞	3086
+小的	siau ti	名物詞	3086
+（小底）	siau ti	名物詞	3086
+相與	sian yu	名物詞	3086
+先	sien1	名物詞	3086
+伴讀	bun doq	名物詞	3086
+茶筵	dzo yen	名物詞	3087
+好嬉子	hau shi tsy	名物詞	3087
+眼茸	ngaen dzon	名物詞	3087
+虎牙	fu ngo	名物詞	3087
+㿳	tsy1	名物詞	3087
+轉肘	tsoen cieu	名物詞	3087
+門臼	men jieu	名物詞	3087
+頭巾	deu cin	名物詞	3087
+背搭	pei taq	名物詞	3087
+靸鞋	saq gha	名物詞	3087
+被囊	bei naon	名物詞	3088
+嬾梳頭	laen sy deu	名物詞	3088
+挈設	chiq siq	名物詞	3088
+梯己	thi ci	名物詞	3088
+地頭錢	di deu dzien	名物詞	3088
+雜碎	dzaq sei	名物詞	3088
+沙羅	so lou	名物詞	3088
+庫露格	khu lu kaq	名物詞	3088
+桊	cioen5	名物詞	3089
+跳沙蛤	thiau so kaq	名物詞	3089
+光辣撻	kuaon laq thaq	形狀詞	3089
+白蒲沙	baq bu so	形狀詞	3089
+㘖㘖	yen yen	形狀詞	3089
+竳竳	ten ten	形狀詞	3089
+釅	gnien6	形狀詞	3089
+曉	shiau3	形狀詞	3089
+了鳥	liau tiau	形狀詞	3089
+躴躿	laon khaon	形狀詞	3089
+壏墤	laen thaen	形狀詞	3090
+𬆚速	loq soq	形狀詞	3090
+㴙㴙	zaq zaq	形狀詞	3090
+拗⿱秘氽	au piq	形狀詞	3090
+歪賴	hua la	形狀詞	3090
+眠誕	mien daen	形狀詞	3090
+眉癡	mi tshiu	形狀詞	3090
+顚顚癡癡	tien tien tshiu tshiu	形狀詞	3090
+𠣰	tu1	形狀詞	3090
+都都	tu tu	形狀詞	3090
+㖐㖐	vi vi	形狀詞	3090
+啝嘪	ghou ma	形狀詞	3091
+阿㖠	aq na	形狀詞	3091
+掀	shin1	動作詞	3091
+𨇽䟶	lou tshou	動作詞	3091
+陸鈔	loq tshau	動作詞	3091
+稱意	tshin i	動作詞	3091
+惡模樣	oq moq yan	動作詞	3091
+造言生事	zau yen san zy	動作詞	3091
+打淸水網	tan tshin siu maon	動作詞	3091
+撒花	saq huo	動作詞	3091
+（色花）	saq huo	動作詞	3091
+燒紙	siau tsy	動作詞	3092
+揮攉	huei hoq	動作詞	3092
+生意活動	san i waq don	動作詞	3092
+批	phi1	動作詞	3092
+動澹	don daen	動作詞	3092
+（動彈）	don daen	動作詞	3092
+透	theu5	動作詞	3092
+場化	dzian huo	蘇滬流入詞語	3094
+（場許）	dzian huo	蘇滬流入詞語	3094
+今朝	cin tsau	蘇滬流入詞語	3094
+爹爹	tia tia	蘇滬流入詞語	3094
+姆媽	mhu ma	蘇滬流入詞語	3094
+掮客	jien khaq	蘇滬流入詞語	3095
+跑街	bau ka	蘇滬流入詞語	3095
+大姐	du tsia	蘇滬流入詞語	3095
+娘姨	gnian yi	蘇滬流入詞語	3095
+房東	vaon ton	蘇滬流入詞語	3095
+小開	siau khae	蘇滬流入詞語	3095
+紅頭阿三	ghon deu aq saen	蘇滬流入詞語	3095
+洋行小鬼	yan ghaon siau ciu	蘇滬流入詞語	3095
+大阿福	dou aq foq	蘇滬流入詞語	3095
+碼子	mo tsy	蘇滬流入詞語	3095
+（某氏）	mo tsy	蘇滬流入詞語	3095
+老鬼三	lau ciu saen	蘇滬流入詞語	3096
+老頭子	lau deu tsy	蘇滬流入詞語	3096
+大亨	da han	蘇滬流入詞語	3096
+（蕩漢）	da han	蘇滬流入詞語	3096
+野雞	ya ci	蘇滬流入詞語	3096
+淌牌	thaon ba	蘇滬流入詞語	3096
+（淌白）	thaon ba	蘇滬流入詞語	3096
+（湯排）	thaon ba	蘇滬流入詞語	3096
+老蟹	lau ha	蘇滬流入詞語	3096
+老槍	lau tshian	蘇滬流入詞語	3096
+飯桶	vaen don	蘇滬流入詞語	3096
+蠟燭	laq tsoq	蘇滬流入詞語	3096
+洋盤	yan bun	蘇滬流入詞語	3097
+阿木林	aq moq lin	蘇滬流入詞語	3097
+殟孫	uen sen	蘇滬流入詞語	3097
+（瘟孫）	uen sen	蘇滬流入詞語	3097
+（瘟生）	uen sen	蘇滬流入詞語	3097
+癟三	piq saen	蘇滬流入詞語	3097
+（癟疝）	piq saen	蘇滬流入詞語	3097
+（𣦢⿱析止）	piq saen	蘇滬流入詞語	3097
+撮白黨	tshaq baq thaon	蘇滬流入詞語	3097
+垃圾馬車	laq saq mo tsho	蘇滬流入詞語	3097
+拆老	tshaq lau	蘇滬流入詞語	3097
+閒話	ghaen wo	蘇滬流入詞語	3097
+（言話）	ghaen wo	蘇滬流入詞語	3097
+局	jiuq8	蘇滬流入詞語	3097
+門檻	men khaen	蘇滬流入詞語	3097
+生活	san wo	蘇滬流入詞語	3098
+灘簧	thaen waon	蘇滬流入詞語	3098
+小帳	siau tsian	蘇滬流入詞語	3098
+（小獎）	siau tsian	蘇滬流入詞語	3098
+空心湯團	khon sin thaon doen	蘇滬流入詞語	3098
+照會	tsiau wei	蘇滬流入詞語	3098
+耳光	gni kuaon	蘇滬流入詞語	3098
+（耳聒）	gni kuaon	蘇滬流入詞語	3098
+（耳耿）	gni kuaon	蘇滬流入詞語	3098
+小房子	siau vaon tsy	蘇滬流入詞語	3098
+老虎竈	lau fu tsau	蘇滬流入詞語	3098
+（老火竈）	lau fu tsau	蘇滬流入詞語	3098
+馬甲	mo kaq	蘇滬流入詞語	3099
+（馬鞈）	mo kaq	蘇滬流入詞語	3099
+四開	sy khae	蘇滬流入詞語	3099
+八開	sy khae	蘇滬流入詞語	3099
+天官賜	thien kun sy	蘇滬流入詞語	3099
+豬頭三	tsiu deu saen	蘇滬流入詞語	3099
+姝	tshiu5	蘇滬流入詞語	3099
+（趣）	tshiu5	蘇滬流入詞語	3099
+儹	tsaen5	蘇滬流入詞語	3099
+（㜺）	tsaen5	蘇滬流入詞語	3099
+飄亮	phiau lian	蘇滬流入詞語	3099
+（漂亮）	phiau lian	蘇滬流入詞語	3099
+（僄亮）	phiau lian	蘇滬流入詞語	3099
+黃落	waon loq	蘇滬流入詞語	3099
+蹩腳	biq ciaq	蘇滬流入詞語	3100
+曲死	chioq si	蘇滬流入詞語	3100
+（屈死）	chioq si	蘇滬流入詞語	3100
+曲辮子	chioq bien tsy	蘇滬流入詞語	3100
+熱昏	gniq huen	蘇滬流入詞語	3100
+弗識頭	faq siq deu	蘇滬流入詞語	3100
+邪氣	zia chi	蘇滬流入詞語	3100
+厭氣	ien chi	蘇滬流入詞語	3100
+鴨矢殠	aq sy chieu	蘇滬流入詞語	3100
+（阿是醜）	aq sy chieu	蘇滬流入詞語	3100
+馬馬虎虎	mha mha fu fu	蘇滬流入詞語	3100
+（模模糊糊）	mha mha fu fu	蘇滬流入詞語	3100
+馬虎	mha fu	蘇滬流入詞語	3100
+（䁲䁲瞴瞴）	mha mha fu fu	蘇滬流入詞語	3100
+假癡假呆	ko tshiu ko ngae	蘇滬流入詞語	3100
+白相	baq sian	蘇滬流入詞語	3100
+（孛相）	baq sian	蘇滬流入詞語	3100
+（薄相）	baq sian	蘇滬流入詞語	3100
+碰頭	ban deu	蘇滬流入詞語	3101
+淴浴	hoq yuq	蘇滬流入詞語	3101
+搬場	pun dzian	蘇滬流入詞語	3101
+打樣	tan yan	蘇滬流入詞語	3101
+光火	kuan hou	蘇滬流入詞語	3101
+揩油	kha yeu	蘇滬流入詞語	3101
+喫虧	chioq chiu	蘇滬流入詞語	3101
+碰和	phan wu	蘇滬流入詞語	3101
+拆梢	tshaq sau	蘇滬流入詞語	3101
+釘梢	tin sau	蘇滬流入詞語	3101
+打照會	tan tsiau wei	蘇滬流入詞語	3101
+打茶會	tan dzo wei	蘇滬流入詞語	3101
+（打茶圍）	tan dzo wei	蘇滬流入詞語	3101
+掉槍花	diau tshian huo	蘇滬流入詞語	3102
+觸煤頭	tshoq mei deu	蘇滬流入詞語	3102
+（蹙眉頭）	tshoq mei deu	蘇滬流入詞語	3102
+弔膀子	tiau paon tsy	蘇滬流入詞語	3102
+（瞗榜子）	tiau paon tsy	蘇滬流入詞語	3102
+罵山門	mo saen men	蘇滬流入詞語	3102
+拆爛汚	tshaq laen ou	蘇滬流入詞語	3102
+出風頭	tshiuq fon deu	蘇滬流入詞語	3102
+（出鋒頭）	tshiuq fon deu	蘇滬流入詞語	3102
+搭赸頭	taq saen deu	蘇滬流入詞語	3102
+拉皮條	lha bi diau	蘇滬流入詞語	3102
+賽過如	sae kou ziu	蘇滬流入詞語	3102
+賽過	sae kou	蘇滬流入詞語	3102
+像煞有介事	zian saq yeu ka zy	蘇滬流入詞語	3102
+齷齪	oq tshoq	其他各地流入詞語	3103
+（握齪）	oq tshoq	其他各地流入詞語	3103
+（惡濁）	oq tshoq	其他各地流入詞語	3103
+靸	shiq7	其他各地流入詞語	3103
+（趿）	shiq7	其他各地流入詞語	3103
+（㽺）	shiq7	其他各地流入詞語	3103
+（儵）	shiq7	其他各地流入詞語	3103
+（歙）	shiq7	其他各地流入詞語	3103
+胦尾	an wei	其他各地流入詞語	3103
+（胦會）	an wei	其他各地流入詞語	3103
+（陽物）	an wei	其他各地流入詞語	3103
+綠殼	loq khoq	其他各地流入詞語	3103
+花邊	huo pien	其他各地流入詞語	3103
+西崽	si tsae	其他各地流入詞語	3103
+（西仔）	si tsae	其他各地流入詞語	3103
+（西囝）	si tsae	其他各地流入詞語	3103
+（侍者）	si tsae	其他各地流入詞語	3103
+鹹水妹	ghaen siu mei	其他各地流入詞語	3103
+洗澡	sien tsau	其他各地流入詞語	3103
+剛白度	kaon baq dou	英國流入詞語	3104
+（康白陀）	kaon baq dou	英國流入詞語	3104
+殺老夫	saq lau fu	英國流入詞語	3104
+（式老夫）	saq lau fu	英國流入詞語	3104
+阿而曼	ou er maen	英國流入詞語	3104
+德律風	taq liq fon	英國流入詞語	3104
+衛生	wei sen	英國流入詞語	3104
+引擎	in jin	英國流入詞語	3104
+馬達	mo daq	英國流入詞語	3104
+馬達卡	mo daq kha	英國流入詞語	3104
+司的克	sy tiq khaq	英國流入詞語	3104
+沙法	so faq	英國流入詞語	3104
+（沙發）	so faq	英國流入詞語	3104
+司必林	sy piq lin	英國流入詞語	3104
+咖啡	khau fi	英國流入詞語	3105
+布丁	pu tin	英國流入詞語	3105
+白蘭地	baq laen di	英國流入詞語	3105
+皮酒	bi tsieu	英國流入詞語	3105
+（啤酒）	bi tsieu	英國流入詞語	3105
+鴉片	a phien	英國流入詞語	3105
+（阿片）	a phien	英國流入詞語	3105
+（阿芙蓉）	a vu yon	英國流入詞語	3105
+雪茄	siq ga	英國流入詞語	3105
+可鐵	khou thiq	英國流入詞語	3105
+乒乓	phin phan	英國流入詞語	3105
+撲克	phoq khaq	英國流入詞語	3105
+（拋克）	phoq khaq	英國流入詞語	3105
+圈的混	chioen tiq wen	英國流入詞語	3105
+道拉斯	dau lha sy	英國流入詞語	3105
+混道拉	wen dau lha	英國流入詞語	3106
+金鎊	cin paon	英國流入詞語	3106
+先令	sien lin	英國流入詞語	3106
+（仙令）	sien lin	英國流入詞語	3106
+克姆賞	khaq mhu saon	英國流入詞語	3106
+噸	ten1	英國流入詞語	3106
+磅	paon5	英國流入詞語	3106
+听	thin1	英國流入詞語	3106
+打	tan3	英國流入詞語	3106
+凡雷哥	vaen lei kou	英國流入詞語	3106
+摩登	mou ten	英國流入詞語	3106
+和而三姆	ghou er saen mhu	英國流入詞語	3106
+麥克麥克	maq khaq mhaq khaq	英國流入詞語	3106
+哈夫	ha fu	英國流入詞語	3107
+那馬混	na mo wen	英國流入詞語	3107
+也司	ye sy	英國流入詞語	3107
+卡	kha3	英國流入詞語	3107
+卡片	kha phien	英國流入詞語	3107
+模特兒	mou daq er	英國流入詞語	3107
+弄堂	lon daon	反語	3108
+簀裏	tsaq li	反語	3108
+編箕	pien ci	反語	3108
+白籃	baq laen	反語	3108
+（勃闌）	baq laen	反語	3108
+結蛛	ciq tsiu	反語	3108
+勃籠	baq lon	反語	3108
+脫懶	thaq laen	反語	3108
+（脫孏）	thaq laen	反語	3108
+（蹋躝）	thaq laen	反語	3108
+魄莫	phoq moq	反語	3108
+齊整	zi tsin	反語	3109
+速朗	soq laon	反語	3109
+乞刻	chiq khaq	反語	3109
+卽靈	tsiq lin	反語	3109
+（鯽令）	tsiq lin	反語	3109
+無朗	mhu laon	反語	3109
+（胡朗）	mhu laon	反語	3109
+交關	ciau kuaen	反語	3109
+（交慣）	ciau kuaen	反語	3109
+許多	shiu tou	反語	3109
+無沒	mhu maq	反語	3109
+阿夥	aq hou	反語	3109
+奈何	na ghou	反語	3110
+（奈和）	na ghou	反語	3110
+冒充	mau tshon	反語	3110
+弄送	lon son	反語	3110
+配辦	phei baen	反語	3110
+背命	pei min	反語	3110
+那末	nha maq	反語	3110
+（難末）	nha maq	反語	3110
+格末	kaq maq	反語	3110
+何弗	ghou faq	反語	3110
+曷弗	waq faq	反語	3110
+括拉	kuaq laq	反語	3110
+莧	haen3	反語	3111
+儇	huaen1	反語	3111
+（𱑂）	huaen1	反語	3111
+猛	man4	反語	3111
+（滿）	man4	反語	3111
+傟	on5	反語	3111
+（怏）	on5	反語	3111
+（憹）	on5	反語	3111
+𨉖	iq7	反語	3111
+照	tsiau5	反語	3111
+（嘦）	tsiau5	反語	3111
+巧	chiau3	反語	3111
+酒	tsieu3	反語	3111
+（𣥯）	tsieu3	反語	3111
+否	fae5	反語	3111
+否	fae1	反語	3111
+微	vei6	反語	3111
+（⿱勿爲）	vei6	反語	3111
+覂	ven2	反語	3112
+覂	von2	反語	3112
+毛	mhau1	反語	3112
+（無）	mhau1	反語	3112
+瑣	sou3	反語	3112
+（啥）	sou3	反語	3112
+（舍）	sou3	反語	3112
+（何）	sou3	反語	3112
+（余）	sou3	反語	3112
+寨	dza2	反語	3112
+寨	dzou2	反語	3112
+（昝）	dza2	反語	3112
+（昝）	dzou2	反語	3112
+（曾）	dza2	反語	3112
+（曾）	dzou2	反語	3112
+（朁）	dza2	反語	3112
+（朁）	dzou2	反語	3112
+（憯）	dza2	反語	3112
+（憯）	dzou2	反語	3112
+（囃）	dza2	反語	3112
+（囃）	dzou2	反語	3112
+行	ghan2	反語	3112
+啦	la2	反語	3112
+（拉）	la2	反語	3112
+（來）	la2	反語	3112
+（而）	la2	反語	3112
+一圈	iq chioen	象形會意諧聲詞語	3113
+一干	iq kien	象形會意諧聲詞語	3113
+（一竿）	iq kien	象形會意諧聲詞語	3113
+一撇	iq phiq	象形會意諧聲詞語	3113
+一方	iq faon	象形會意諧聲詞語	3113
+三禮拜六點鐘	saen li pa loq tien tson	象形會意諧聲詞語	3113
+十三塊六角	ziuq saen khuei loq koq	象形會意諧聲詞語	3114
+廿一塊八角	gniaen iq khuei paq koq	象形會意諧聲詞語	3114
+孬	ua1	象形會意諧聲詞語	3114
+（壞）	ua1	象形會意諧聲詞語	3114
+歪	hua1	象形會意諧聲詞語	3114
+（竵）	hua1	象形會意諧聲詞語	3114
+⿱不圜	pien3	象形會意諧聲詞語	3114
+（扁）	pien3	象形會意諧聲詞語	3114
+𨱥	a3	象形會意諧聲詞語	3114
+（矮）	a3	象形會意諧聲詞語	3114
+（倭）	a3	象形會意諧聲詞語	3114
+⿱不定	dan6	象形會意諧聲詞語	3114
+（蕩）	dan6	象形會意諧聲詞語	3114
+（盪）	dan6	象形會意諧聲詞語	3114
+（宕）	dan6	象形會意諧聲詞語	3114
+覔	miq8	象形會意諧聲詞語	3114
+（𧠨）	miq8	象形會意諧聲詞語	3114
+（覛）	miq8	象形會意諧聲詞語	3114
+（覓）	miq8	象形會意諧聲詞語	3114
+鞠	cioq kon	象形會意諧聲詞語	3114
+猜你丁	tshae ng tin	象形會意諧聲詞語	3114
+帶豆烤茄	ta deu khau jiaen	象形會意諧聲詞語	3115
+頭弗種樹	deu faq tson ziu	象形會意諧聲詞語	3115
+不亦樂乎	paq yiq loq wu	象形會意諧聲詞語	3115
+桃之夭夭	dau tsy iau iau	象形會意諧聲詞語	3115
+婆羅揭諦	bou lou ciq ti	象形會意諧聲詞語	3115
+是無等等呪	zy vu ten ten tsieu	象形會意諧聲詞語	3115
+平頭	bin deu	象形會意諧聲詞語	3116
+憶多嬌	i tou ciau	象形會意諧聲詞語	3116
+空工	khon kon	象形會意諧聲詞語	3116
+耳邊風	er pien fon	象形會意諧聲詞語	3116
+眠川	mien tshoen	象形會意諧聲詞語	3116
+散秋香	saen tshieu shian	象形會意諧聲詞語	3116
+睡目	zei moq	象形會意諧聲詞語	3116
+思鄉馬	sy shian mo	象形會意諧聲詞語	3116
+缺丑	chiuq tshieu	市語數詞	3117
+誤佳期	ngu cia ji	市語數詞	3117
+斷大	doen da	市語數詞	3117
+柳搖金	lieu yau cin	市語數詞	3117
+皂底	zau ti	市語數詞	3117
+砌花臺	tshi huo dae	市語數詞	3117
+分頭	fen deu	市語數詞	3117
+霸陵橋	po lin jiau	市語數詞	3117
+未丸	vi wun	市語數詞	3117
+救情郎	cieu dzin laon	市語數詞	3117
+田心	dien sin	市語數詞	3117
+舍利子	so li tsy	市語數詞	3117
+阿哺	aq bu	嫛婗語	3118
+哥哥	kou kou	嫛婗語	3118
+弟弟	di di	嫛婗語	3119
+姐姐	tsia tsia	嫛婗語	3119
+妹妹	mhei mhei	嫛婗語	3119
+囡囡	noe noe	嫛婗語	3119
+寶寶	pau pau	嫛婗語	3119
+（軉軉）	pau pau	嫛婗語	3119
+巴巴	po po	嫛婗語	3119
+手手	sieu sieu	嫛婗語	3119
+脚脚	ciaq cian	嫛婗語	3119
+脚拏拏	ciaq nou nou	嫛婗語	3119
+脚泥螺	ciaq gni lou	嫛婗語	3119
+不鳥	paq tiau	嫛婗語	3119
+（哵屌）	paq tiau	嫛婗語	3119
+卵𠺢𠺢	loen ko ko	嫛婗語	3119
+脬脬	phau phau	嫛婗語	3119
+朵朵	to to	嫛婗語	3119
+㕶㕶	nk nk	嫛婗語	3120
+花花	huo huo	嫛婗語	3120
+菩菩	bu bu	嫛婗語	3120
+砰砰	ban ban	嫛婗語	3120
+（磞磞）	ban ban	嫛婗語	3120
+䃔䃔	gon gon	嫛婗語	3120
+（𣪯𣪯）	gon gon	嫛婗語	3120
+漰漰	phan phan	嫛婗語	3120
+亮亮	lian lian	嫛婗語	3120
+火火	hou hou	嫛婗語	3120
+襖襖	au au	嫛婗語	3120
+䇐䇐	da da	嫛婗語	3120
+啞啞	nko nko 	嫛婗語	3120
+板板	paen paen	嫛婗語	3120
+花花	huo huo	嫛婗語	3120
+飯飯	mhan mhan	嫛婗語	3120
+茶茶	go go	嫛婗語	3121
+糕糕	kau kau	嫛婗語	3121
+餅餅	pin pin	嫛婗語	3121
+糖糖	daon daon	嫛婗語	3121
+肉肉	nkion nkion	嫛婗語	3121
+奧魚	au ng	嫛婗語	3121
+蛋蛋	daen daen	嫛婗語	3121
+黃黃	waon waon	嫛婗語	3121
+（汪汪）	waon waon	嫛婗語	3121
+（𡂚𡂚）	waon waon	嫛婗語	3121
+囉囉	lhou lhou	嫛婗語	3121
+肉肉	nkio nkio	嫛婗語	3121
+（𠽝𠽝）	nkio nkio	嫛婗語	3121
+嘩嘩	wo wo	嫛婗語	3121
+鋃鋃	laon laon	嫛婗語	3121
+哶哶	mha mha	嫛婗語	3121
+貓貓	mhau mhau	嫛婗語	3122
+奧胡貓	au wu maen	嫛婗語	3122
+老虎精	lau fu tsin	嫛婗語	3122
+𠺢𠺢	ko ko	嫛婗語	3122
+（唃唃）	ko ko	嫛婗語	3122
+呷呷	ga ga	嫛婗語	3122
+駕駕	gaon gaon	嫛婗語	3122
+（𨾊𨾊）	gaon gaon	嫛婗語	3122
+鳥鳥	tiau tiau	嫛婗語	3122
+爬爬	bo bo	嫛婗語	3122
+新新	sin sin	嫛婗語	3122
+㰤㰤	kho kho	嫛婗語	3122
+（𠳌𠳌）	kho kho	嫛婗語	3122
+（𣣟𣣟）	kho kho	嫛婗語	3122
+覺覺	kau kau	嫛婗語	3122
+𬧈𬧈	saen saen	嫛婗語	3122
+（珊珊）	saen saen	嫛婗語	3122
+䇑䇑	ba ba	嫛婗語	3122
+(排排)	ba ba	嫛婗語	3122
+滰白白	jian baq ban	嫛婗語	3122
+㝟	mhau1	嫛婗語	3123
+𠴺𠴺	ua ua	嫛婗語	3123
+倭倭鼕鼕	ou ou don don	嫛婗語	3123
+啐啐嚇嚇大大	tshei tshei haq haq dou dou	嫛婗語	3123
+割麥插禾割麥插禾	kaq maq tshaq ghou kaq maq tshaq ghou	禽言	3124
+家家紅燈家家紅燈	ko ko ghon ten ko ko ghon ten	禽言	3124
+大家踞大家踞	do ko gu do ko gu	禽言	3124
+婆婆餅焦婆婆餅焦	bou bou pin tsiau bou bou pin tsiau	禽言	3124
+公公扒灰公公扒灰	kon kon bo huei kon kon bo huei	禽言	3124
+勿借你類鹽勿借你類醋照你類高堂大屋讓我住住	vaq tsia ng laq yen vaq tsia ng laq tshu tsiau ng laq kau daon dou oq gnian ngo dziu dziu	禽言	3124
+木子李	moq tsy li	姓氏	3138
+雙口呂	saon kheu li	姓氏	3138
+萬力勵	vaen liq li	姓氏	3138
+方人也施	faon gnin ya li	姓氏	3138
+穿口史	tshoen kheu sy	姓氏	3139
+絞絲紀	gau sy ci	姓氏	3139
+計較計	ci kau ci	姓氏	3139
+言者諸	yen tsoe tsiu	姓氏	3139
+未撇朱	vi phiq tsiu	姓氏	3139
+人未余	gnin vi yu	姓氏	3139
+人則俞	gnin tsaq yu	姓氏	3139
+雙戤人徐	saon gae gnin zi	姓氏	3139
+干戟于	kien ciq yu	姓氏	3139
+方人二於	faon gnin gni yu	姓氏	3139
+虎頭盧	fu deu lu	姓氏	3139
+虎頭虞	fu deu gniu	姓氏	3139
+舍予舒	so yu siu	姓氏	3139
+水火水	siu hou siu	姓氏	3139
+言午許	yen wu shiu	姓氏	3139
+耳朵皮鄥	gni to bi u	姓氏	3139
+口天吳	kheu thien wu	姓氏	3139
+古月胡	ku yuq wu	姓氏	3139
+尸者屠	sy tsoe du	姓氏	3139
+木土杜	moq thu du	姓氏	3139
+人兒倪	gnin er gni	姓氏	3139
+雙口嚴	saon kheu gnien	姓氏	3139
+十八戴	ziuq paq tae	姓氏	3139
+耳東陳	gni ton dzin	姓氏	3139
+奠耳鄭	dien er dzin	姓氏	3140
+禾旁程	ghou baon dzin	姓氏	3140
+三點水沈	saen tien siu sin	姓氏	3140
+子孫孫	tsy sen sen	姓氏	3140
+兩畫一直干	lian waq iq dziq kien	姓氏	3140
+甘苦甘	kien khu kien	姓氏	3140
+銅錢錢	don dzien dzien	姓氏	3140
+人王全	gnin waon dzoen	姓氏	3140
+走之連	tseu tsy lien	姓氏	3140
+絞絲練	gau sy lien	姓氏	3140
+女旁姚	gniu baon yau	姓氏	3140
+刀口邵	tau kheu ziau	姓氏	3140
+走肖趙	tseu siau dziau	姓氏	3140
+皮毛毛	bi mau mau	姓氏	3140
+草頭茅	tshau deu mau	姓氏	3140
+人可何	gnin khou ghou	姓氏	3140
+加貝賀	ko pei ghou	姓氏	3140
+四維羅	sy vi lou	姓氏	3140
+討身謝	thau sin zia	姓氏	3140
+弓長張	kon dzian tsian	姓氏	3140
+美女姜	mei gniu cian	姓氏	3140
+草頭蔣	tshau deu tsian	姓氏	3140
+立早章	liq tsau tsaon	姓氏	3140
+草頭莊	tshau deu tsaon	姓氏	3140
+三畫王	saen waq waon	姓氏	3141
+三畫一直王	saen waq iq dziq waon	姓氏	3141
+大肚黃	dou du waon	姓氏	3141
+草頭黃	tshau deu waon	姓氏	3141
+大水明堂王家汪	sou siu min daon waon ko uaon	姓氏	3141
+木易楊	moq yiq yan	姓氏	3141
+雙木林	saon moq lin	姓氏	3141
+𠿕角凌	chiau koq lin	姓氏	3141
+卯金刀劉	mau cin tau lieu	姓氏	3141
+九二碼子劉	cieu gni mo tsy lieu	姓氏	3141
+楊柳柳	yan lieu lieu	姓氏	3141
+木旁樓	moq baon leu	姓氏	3141
+樓頂樓	leu ten leu	姓氏	3141
+圈吉周	chioen ciq tsieu	姓氏	3141
+草水己范	tshau siu ci vaen	姓氏	3141
+一萬兩萬萬	iq vaen lian vaen vaen	姓氏	3141
+大寫陸	dou sia loq	姓氏	3141
+耳朵皮郭	gni to bi koq	姓氏	3141
+山谷谷	saen koq koq	姓氏	3141
+竹字頭竺	tsoq zy deu tsoq	姓氏	3141
+斜示旁祝	zia zy baon tsoq	姓氏	3141
+卜早卓	poq tsau tsoq	姓氏	3141
+禾旁穆	ghou baon moq	姓氏	3141
+草頭莫	tshau deu moq	姓氏	3141
+扁擔一	pien taen iq	偏旁	3141
+稱鉤乙	tshin keu iq	偏旁	3141
+戤人	gae gnin	偏旁	3142
+雙戤人	saon gae gnin	偏旁	3142
+兩點水	lian tien siu	偏旁	3142
+三點水	saen ti siu	偏旁	3142
+側刀	tshaq tau	偏旁	3142
+方匡	faon khuaon	偏旁	3142
+剔土	thiq thu	偏旁	3142
+披舍	phi so	偏旁	3142
+穿心	tshoen sin	偏旁	3142
+挑手	thiau sieu	偏旁	3142
+寶蓋頭	pau kae deu	偏旁	3142
+反犬	faen chioen	偏旁	3142
+耳朵皮	gni to bi	偏旁	3142
+反文	faen ven	偏旁	3142
+日月旁	gniq yuq baon	偏旁	3142
+骨肉旁	kuaq gnioq baon	偏旁	3142
+木旁	moq baon	偏旁	3142
+爪頭	tsau deu	偏旁	3142
+四點	sy tien	偏旁	3142
+斜王	zia waon	偏旁	3142
+老頭	lau deu	偏旁	3142
+草頭	tshau deu	偏旁	3142
+病頭	bin deu	偏旁	3142
+禾旁	ghou baon	偏旁	3142
+斜示	zia zy	偏旁	3143
+斜衣	zia i	偏旁	3143
+走之	tseu tsy	偏旁	3143
+橫目	wan moq	偏旁	3143
+四頭	sy deu	偏旁	3143
+竹頭	tsoq deu	偏旁	3143
+絞絲旁	gau sy baon	偏旁	3143
+蟲豸旁	dzon dzi baon	偏旁	3143
+鳥字頭	tiau zy deu	偏旁	3143
+斜金	ziq cin	偏旁	3143
+雨頭	yu deu	偏旁	3143
+釘耗而	tin hau er	虛助詞	3143
+編箕非	pien ci fi	虛助詞	3143
+扁之	pien tsy	虛助詞	3143
+矢角矣	sy koq yi	虛助詞	3143
+馬頭焉	mo deu ien	虛助詞	3143
+趬脚哉	chiau ciaq tsae	虛助詞	3143
+長脚耶	dzian ciaq ya	虛助詞	3143
