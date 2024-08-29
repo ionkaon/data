@@ -2037,7 +2037,6 @@
 凍進	冻进	ton cin	ton cin	170
 凍掉	冻掉	ton diau	ton diau	170
 凍瘃	冻瘃	ton tsoq	ton tsoq	170
-凍米	冻米	ton mi	ton mi	170
 凍米胖	冻米胖	ton mi phaon	ton mi phaon	170
 凍米大胖	冻米大胖	ton mi da phaon	ton mi da phaon	170
 凍米大王	冻米大王	ton mi da waon	ton mi da waon	170
@@ -4450,7 +4449,7 @@
 撳釘	揿钉	chin tin	chin tin	386
 撳紐	揿纽	chin gnieu	chin gnieu	386
 插撲	插扑	tshaq phoq	tshaq phoq	386
-插眼	插眼	tshaq ngae	tshaq ngae	387
+插眼	插眼	tsha ngae	tsha ngae	387
 插板桌	插板桌	tshaq pae tsoq	tshaq pae tsoq	387
 插蠟燭	插蜡烛	tshaq laq tsoq	tshaq laq tsoq	387
 揪	揪	chieu1	chieu1	387
@@ -4565,6 +4564,7 @@
 噴酥	喷酥	phen su	phen su	397
 嗒	嗒	taq7	taq7	397
 喳喳	喳喳	dzo dzo	dzo dzo	397
+喳喳	喳喳	tso tso	tso tso	397
 跍	跍	gu2	gu2	397
 跍倒	跍倒	gu tau	gu tau	397
 跌落	跌落	tiq loq	tiq loq	397
@@ -5014,6 +5014,7 @@
 溢	溢	kaq7	kaq7	440
 灘簧	滩簧	thae waon	thae waon	440
 慥	慥	tshau5	tshau5	440
+躁	躁	tshau5	tshau5	440
 鱟	鲎	heu5	heu5	440
 塞頭	塞头	saq deu	saq deu	440
 塞嘴	塞嘴	saq tsyu	saq tsyu	441
@@ -5057,10 +5058,10 @@
 𧻲𧻲動	𧻲𧻲动	mha mha don	mha mha don	444
 𧻴趤公子	𧻴趤公子	laon daon kon tsy	laon daon kon tsy	444
 摝	摝	lhoq7	lhoq7	444
-摘	摘	tsaq7	tsaq7	444
+摘	摘	tsoq7	tsoq7	444
 摘奶	摘奶	tsaq na	tsaq na	444
 摘紅	摘红	tsaq kon	tsaq kon	444
-摘帽子	摘帽子	tsaq mau tsy	tsaq mau tsy	445
+摘帽子	摘帽子	tsoq mau tsy	tsoq mau tsy	445
 聚隊	聚队	zyu dei	zyu dei	445
 蔫	蔫	i1	i1	445
 蔫樣黃	蔫样黄	i yan waon	i yan waon	445
@@ -5236,6 +5237,7 @@
 趤頭	趤头	dan deu	dan deu	460
 趤亨	趤亨	dan han	dan han	460
 撐	撑	tshan1	tshan1	460
+撐	撑	tsan1	tsan1	460
 撐腳	撑脚	tshan ciaq	tshan ciq	460
 撐鬥風船	撐斗风船	tshan teu fon zoe	tshan teu fon zoe	461
 撮	撮	tshaq7	tshaq7	461
