@@ -23,7 +23,7 @@
 紙頭	紙頭	纸头	tsy deu
 紙行	紙行	纸行	tsy ghaon
 紙襞箱	紙襞箱	纸襞箱	tsy paq shian
-紙箱店	紙箱店	纸箱店	tsy shian ti
+紙箔店	紙箔店	纸箔店	tsy boq ti
 煮	煮	煮	tsy3
 煮下飯	煮下飯	煮下饭	tsy gho vae
 紫	紫	紫	tsy3
@@ -164,7 +164,6 @@
 蛛蛛網	蛛蛛網	蛛蛛网	tsyu tsyu maon
 蛛蛛網絲	蛛蛛網絲	蛛蛛网丝	tsyu tsyu maon sy
 主意	主意	主意	tsyu i
-主主意意	主主意意	主主意意	tsyu tsyu i i
 主人家	主人家	主人家	tsyu gnin ko
 豬癲病	豬癲病	猪癫病	tsyu ti bin
 豬廄間	豬廐間	猪厩间	tsyu ji kae
@@ -197,6 +196,7 @@
 拄鞋	拄鞋	拄鞋	tsyu gha
 注	注	注	tsyu5
 注意	注意	注意	tsyu i
+注注意意	注注意意	注注意意	tsyu tsyu i i
 疰車	疰車	疰车	tsyu tsho
 疰夏	疰夏	疰夏	tsyu gho
 疰浪	疰浪	疰浪	tsyu laon
@@ -1567,7 +1567,7 @@
 烏賊韌	烏賊韌	乌贼韧	u zaq gnin
 烏賊混子	烏賊混子	乌贼混子	u zaq wen tsy
 烏腳雞	烏腳鷄	乌脚鸡	u ciaq ci
-萵筍	萵笋	莴笋	u syun
+萵苣筍	萵苣笋	莴苣笋	u jiu syun
 誣告	誣告	诬告	u kau
 誣告	誣告	诬告	wu kau
 熓敦敦	熓敦敦	𤆡敦敦	u ten ten
@@ -2064,6 +2064,7 @@
 夜叉	夜叉	夜叉	ya tsho
 夜叫	夜叫	夜叫	ya ciau
 夜來香	夜來香	夜来香	ya le shian
+夜蘭香	夜蘭香	夜兰香	ya lae shian
 夜開花	夜開花	夜开花	ya khe huo
 夜飯	夜飯	夜饭	ya vae
 夜鱟	夜鱟	夜鲎	ya heu
@@ -5170,6 +5171,7 @@
 做地頭	做地頭	做地头	tsou di deu
 做地𡍲	做地𡍲	做地𡍲	tsou di taq
 做繭	做繭	做茧	tsou ci
+結繭	結繭	结茧	ciq ci
 做忌日	做忌日	做忌日	tsou ji gniq
 做忌日羹飯	做忌日羹飯	做忌日羹饭	tsou ji gniq kan vae
 做戲文	做戲文	做戏文	tsou shi ven
@@ -9034,7 +9036,7 @@
 豁出	豁出	豁出	huaq tshyuq
 豁出木屐	豁出木屐	豁出木屐	huaq tshyuq moq jiq
 囫圇	囫圇	囫囵	waq len
-活被	活被	活被	waq bi
+活被	活被	活被	waq bei
 活氽活滾	活氽活滾	活氽活滚	waq then waq kuen
 活猻	活猻	活狲	waq sen
 活猻屁股	活猻屁股	活狲屁股	waq sen phi ku
@@ -9050,7 +9052,8 @@
 活裏活絡	活裏活絡	活里活络	waq li waq loq
 活出離	活出離	活出离	waq tshyuq li
 活結	活結	活结	waq ciq
-活股結	活股結	活股结	waq ku ciq
+雙套結	雙套結	双套结	saon thau ciq
+紅毛瓶結	紅毛瓶結	红毛瓶结	ghon mau bin ciq
 滑	滑	滑	waq8
 滑子	滑子	滑子	waq tsy
 滑稽戲	滑稽戲	滑稽戏	waq ci shi
